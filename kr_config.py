@@ -30,7 +30,7 @@ WORTLISTE = "themen/facetten_JURA_KR.txt"   # einziger Wortschatz (Facettenforma
 THEMA = "JURA"          # Themenkennung fuer themengebundene Fragen in clues.json
 MIN_NAH = 0.0           # Mindestnaehe (0 = auch Kolorit)
 MIN_LEN = 3
-MAX_LEN = 10            # laengere Woerter machen das Bild unruhig (vorher bis 19)
+MAX_LEN = max(RASTER_W, RASTER_H)   # 19: ueber 17 nur senkrecht; lange Woerter sind erwuenscht
 
 # ---------------------------------------------------------------- Erzeugung
 VERSUCHE = 240          # Aufbauversuche je Seite (alle Prozesse zusammen); der beste zaehlt
@@ -53,7 +53,7 @@ GITTER = 2              # Zeilen-/Spaltenraster: waagerechte Woerter nur in Zeil
 #                         klare Zeilen-/Spaltenmuster eines deutschen Kreuzwortraetsels.
 KREUZ_MIN = 0.25        # Kreuzungsrate = gekreuzte Zellen / Buchstabenzellen
 FUELL_MIN = 0.30        # Buchstabenzellen / Rasterzellen
-FUELL_MAX = 0.50        # Obergrenze, damit die Seite nicht ueberfuellt wirkt
+FUELL_MAX = 0.55        # Obergrenze, damit die Seite nicht ueberfuellt wirkt
 # Kurze Woerter benachteiligen (Wortlaenge -> Abzug). Wirkt dreifach:
 #   Legebewertung (eine Kreuzung = 3 Punkte), Schlussdurchgang (ein kurzes
 #   Wort braucht mehr Kreuzungen als Strafe/3) und Auswahl des besten Versuchs
