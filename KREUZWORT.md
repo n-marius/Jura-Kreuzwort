@@ -35,7 +35,7 @@ Neubau einer Seite: `python kr_book.py --rollback 7 7`, dann
 - Gemessen (4 Kerne, Sandbox): 240 Versuche je Seite = ca. 67 s; ein Kern schafft 60 Versuche in ca. 66 s. Mit 8 Prozessen ist rund 1 min je Seite zu erwarten (nicht gemessen).
 
 ## Regeln des Legealgorithmus
-- Gitter (`GITTER = 2`): waagerechte Woerter nur in Zeilen 0, 2, 4 ..., senkrechte nur in Spalten 0, 2, 4 ... Das ergibt das Zeilen-/Spaltenmuster; Woerter 3-10 Buchstaben, 20-26 je Seite, Fuellung 0,30-0,50.
+- Gitter (`GITTER = 2`): waagerechte Woerter nur in Zeilen 0, 2, 4 ..., senkrechte nur in Spalten 0, 2, 4 ... Das ergibt das Zeilen-/Spaltenmuster; Woerter 3-19 Buchstaben (lange erwuenscht, kurze abgewertet), 20-26 je Seite, Fuellung 0,30-0,55.
 - jedes Wort kreuzt mindestens ein anderes; keine parallel anliegenden Buchstaben
 - beginnen ein waagerechtes und ein senkrechtes Wort in derselben Zelle, teilen sie sich eine Nummer
 - ein Eintrag je Wortstamm pro Seite; Sperre der letzten `SPERRE_SEITEN` Seiten und `WORT_MAX` aus `core.py`
