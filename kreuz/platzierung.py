@@ -35,8 +35,10 @@ class KLayout:
 
 
 class Zustand:
-    def __init__(self, H, W):
+    def __init__(self, H, W, periode=1):
         self.H, self.W = H, W
+        self.periode = periode      # Gitter: waagerecht nur in Zeilen r % periode == 0,
+        #                             senkrecht nur in Spalten c % periode == 0
         self.g = {}                 # (r,c) -> Buchstabe
         self.dir = {}               # (r,c) -> {"H","V"}
         self.starts = set()
@@ -52,6 +54,8 @@ class Zustand:
     def pruefe(self, w, r, c, d):
         """Anzahl Kreuzungen oder -1, wenn die Lage ungueltig ist."""
         L = len(w)
+        if (r if d == "H" else c) % self.periode:
+            return -1
         dr, dc = (0, 1) if d == "H" else (1, 0)
         er, ec = r + dr * (L - 1), c + dc * (L - 1)
         if r < 0 or c < 0 or er >= self.H or ec >= self.W:
@@ -126,12 +130,12 @@ def _gewichtet(rng, woerter, gewichte, n):
 
 def aufbau(woerter, gewichte, H, W, rng, stichprobe, max_woerter,
            vorgaben=(), bekannt=frozenset(), wied_max_quote=1.0,
-           kurz_strafe=None):
+           kurz_strafe=None, periode=1):
     """bekannt: Woerter, die im Buch schon verwendet wurden. wied_max_quote
     begrenzt ihren Anteil an der Seite (gemessen an max_woerter)."""
     wied_max = int(wied_max_quote * max_woerter)
     kurz_strafe = kurz_strafe or {}
-    z = Zustand(H, W)
+    z = Zustand(H, W, periode)
 
     def erlaubt(w):
         return w not in bekannt or z.wied < wied_max
@@ -150,11 +154,11 @@ def aufbau(woerter, gewichte, H, W, rng, stichprobe, max_woerter,
     if not start:
         return z
     if len(start) <= W:                     # waagerecht in der Mitte
-        r0 = H // 2 + rng.randint(-2, 1)
+        r0 = (H // 2 + rng.randint(-2, 1)) // periode * periode
         c0 = max(0, min(W - len(start), (W - len(start)) // 2 + rng.randint(-1, 1)))
         lege(start, r0, c0, "H", 0)
     else:                                   # zu lang fuer die Breite: senkrecht
-        c0 = W // 2 + rng.randint(-2, 1)
+        c0 = (W // 2 + rng.randint(-2, 1)) // periode * periode
         r0 = max(0, min(H - len(start), (H - len(start)) // 2))
         lege(start, r0, c0, "V", 0)
     fehlgriffe = 0
@@ -227,7 +231,7 @@ def kennzahlen(z):
 def erzeuge(woerter, gewichte, H, W, seed, versuche, stichprobe,
             max_woerter, min_woerter, kreuz_min, fuell_min, bonus_kreuz,
             vorgaben=(), bekannt=frozenset(), wied_ziel=1.0, wied_max=1.0,
-            wied_strafe=25.0, kurz_strafe=None):
+            wied_strafe=25.0, kurz_strafe=None, periode=1, fuell_max=1.0):
     """Bester von `versuche` Aufbauten. Rueckgabe (layout, grid, info) oder None.
 
     Wiederholungen (Woerter aus `bekannt`): mehr als wied_max je Seite wird
@@ -238,7 +242,7 @@ def erzeuge(woerter, gewichte, H, W, seed, versuche, stichprobe,
     verworfen = 0
     for _ in range(versuche):
         z = aufbau(woerter, gewichte, H, W, rng, stichprobe, max_woerter,
-                   vorgaben, bekannt, wied_max, kurz_strafe)
+                   vorgaben, bekannt, wied_max, kurz_strafe, periode)
         if z.words and z.wied > wied_max * len(z.words):
             verworfen += 1
             continue
@@ -247,7 +251,7 @@ def erzeuge(woerter, gewichte, H, W, seed, versuche, stichprobe,
             verworfen += 1
             continue
         if (info["woerter"] < min_woerter or info["kreuzrate"] < kreuz_min
-                or info["fuellung"] < fuell_min):
+                or info["fuellung"] < fuell_min or info["fuellung"] > fuell_max):
             verworfen += 1
             continue
         info["wied"] = z.wied

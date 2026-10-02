@@ -205,7 +205,8 @@ def main(a, b):
                       bonus_kreuz=K.BONUS_KREUZ, vorgaben=vorgaben,
                       bekannt=frozenset(w for w, n in led.items() if n > 0),
                       wied_ziel=K.WIED_ZIEL, wied_max=grenze,
-                      wied_strafe=K.WIED_STRAFE, kurz_strafe=K.KURZ_STRAFE)
+                      wied_strafe=K.WIED_STRAFE, kurz_strafe=K.KURZ_STRAFE,
+                      periode=K.GITTER, fuell_max=K.FUELL_MAX)
             t0 = time.time()
             res = None
             for anlauf in range(K.ANLAEUFE):

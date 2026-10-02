@@ -30,7 +30,7 @@ WORTLISTE = "themen/facetten_JURA_KR.txt"   # einziger Wortschatz (Facettenforma
 THEMA = "JURA"          # Themenkennung fuer themengebundene Fragen in clues.json
 MIN_NAH = 0.0           # Mindestnaehe (0 = auch Kolorit)
 MIN_LEN = 3
-MAX_LEN = max(RASTER_W, RASTER_H)   # 19: ueber 17 nur senkrecht
+MAX_LEN = 10            # laengere Woerter machen das Bild unruhig (vorher bis 19)
 
 # ---------------------------------------------------------------- Erzeugung
 VERSUCHE = 240          # Aufbauversuche je Seite (alle Prozesse zusammen); der beste zaehlt
@@ -41,15 +41,19 @@ ANLAEUFE = 4            # Anlaeufe je Seite; jeder weitere mit Seed + 100. Schei
 #                         Seite in allen, haelt der Lauf an (folgende Seiten bauen auf ihr auf).
 FORTSCHRITT = True      # Zeile je Seite und Anlauf mit Uhrzeit
 STICHPROBE = 220        # Kandidatenwoerter je Legeschritt
-MAX_WOERTER = 38        # Obergrenze je Seite (Platz im Fragenfenster, geschaetzt)
-MIN_WOERTER = 24
+MAX_WOERTER = 26        # Obergrenze je Seite (vorher 38)
+MIN_WOERTER = 20
 WIED_ZIEL = 0.10        # Regel: 10 % bereits im Buch verwendete Woerter
 WIED_MAX = 0.15         # harte Grenze je Seite; liegt der Buchschnitt ueber
 #                         WIED_ZIEL, gilt fuer die naechste Seite WIED_ZIEL hart
 WIED_STRAFE = 25.0      # Bewertungsabzug je Wiederholung ueber WIED_ZIEL
 WIED_DATEI = "kr_wiederholung.json"   # Seite -> [Woerter, Wiederholungen]
+GITTER = 2              # Zeilen-/Spaltenraster: waagerechte Woerter nur in Zeilen 0,2,4 ..,
+#                         senkrechte nur in Spalten 0,2,4 .. (1 = frei, wie bisher). Ergibt das
+#                         klare Zeilen-/Spaltenmuster eines deutschen Kreuzwortraetsels.
 KREUZ_MIN = 0.25        # Kreuzungsrate = gekreuzte Zellen / Buchstabenzellen
 FUELL_MIN = 0.30        # Buchstabenzellen / Rasterzellen
+FUELL_MAX = 0.50        # Obergrenze, damit die Seite nicht ueberfuellt wirkt
 # Kurze Woerter benachteiligen (Wortlaenge -> Abzug). Wirkt dreifach:
 #   Legebewertung (eine Kreuzung = 3 Punkte), Schlussdurchgang (ein kurzes
 #   Wort braucht mehr Kreuzungen als Strafe/3) und Auswahl des besten Versuchs
