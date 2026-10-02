@@ -1,0 +1,11223 @@
+{
+ "ZOLL": [
+  "Grenz-\nabgabe",
+  {
+   "c": "Grenz-\ntarif",
+   "t": "REISEN"
+  },
+  "Abgabe\nan der\nGrenze"
+ ],
+ "TRAUM": [
+  "Nächtl.\nBild"
+ ],
+ "AGENT": [
+  "Geheim-\nermittler"
+ ],
+ "NORM": [
+  "Regel",
+  {
+   "c": "Para-\ngraf im\nGesetz",
+   "t": "JURA"
+  }
+ ],
+ "SENAT": [
+  "Bank\nder\nRichter"
+ ],
+ "RENTE": [
+  "Bezug\nim\nRuhe-\nstand",
+  "Alters-\ngeld",
+  "Altersbe-\nzug"
+ ],
+ "AGB": [
+  "Formu-\nlar-\nregeln"
+ ],
+ "ARM": [
+  "Körper-\nglied"
+ ],
+ "BIBLIOTHEK": [
+  "Bücher-\nsamm-\nlung"
+ ],
+ "LUKE": [
+  "Öffnung\nim Deck"
+ ],
+ "HAFT": [
+  "Frei-\nheits-\nentzug"
+ ],
+ "ADRESSE": [
+  "Wohn-\nanschrift"
+ ],
+ "BUND": [
+  "Allianz"
+ ],
+ "ABS": [
+  "Absatz\n(Abk.)"
+ ],
+ "KOLUMNE": [
+  "Zei-\ntungs-\nspalte"
+ ],
+ "KONKORDANZ": [
+  "Stellen-\nverzeich-\nnis"
+ ],
+ "AMT": [
+  "Dienst-\nstelle"
+ ],
+ "ART": [
+  "Sorte"
+ ],
+ "TAT": [
+  "Delikt"
+ ],
+ "ZWECK": [
+  "Ziel,\nAbsicht"
+ ],
+ "BGB": [
+  "Zivil-\nkodex\n(Abk.)"
+ ],
+ "MITHIN": [
+  "Folglich,\nalso"
+ ],
+ "MIETE": [
+  "Zins\nfür die\nWoh-\nnung",
+  {
+   "c": "Zins\nfür die\nWoh-\nnung",
+   "t": "JURA"
+  }
+ ],
+ "EBENDA": [
+  "Am\nselben\nOrt",
+  "Fund-\nstelle:\nwie\nzuvor",
+  "Genau\ndort"
+ ],
+ "SUPERREVISIONSINSTANZ": [
+  "Was das BVerfG\nnicht sein will"
+ ],
+ "ZPO": [
+  "Zivil-\nrecht\n(Abk.)"
+ ],
+ "ERBE": [
+  "Nachfol-\nger im\nVermö-\ngen",
+  {
+   "c": "Nach-\nlass-\nnehmer",
+   "t": "JURA"
+  }
+ ],
+ "RAT": [
+  "Tipp"
+ ],
+ "RVG": [
+  "Anwalts-\ngebüh-\nren\n(Abk.)"
+ ],
+ "EID": [
+  "Schwur"
+ ],
+ "DUR": [
+  "Ton-\nge-\nschlecht"
+ ],
+ "SPUK": [
+  "Geister-\nerschei-\nnung"
+ ],
+ "UNART": [
+  "Schlech-\nte\nMarotte"
+ ],
+ "KUR": [
+  "Heil-\nbehand-\nlung"
+ ],
+ "KURS": [
+  "Lehr-\ngang"
+ ],
+ "KHMER": [
+  "Volk in\nKambo-\ndscha"
+ ],
+ "URAL": [
+  "Gebirge\nin\nRuss-\nland"
+ ],
+ "KLAUSEL": [
+  "Ver-\ntrags-\nbestim-\nmung"
+ ],
+ "KOCH": [
+  "Küchen-\nchef"
+ ],
+ "SATZ": [
+  "Wort-\ngefüge",
+  "Sprung\nnach\nvorn"
+ ],
+ "EURO": [
+  "Währung"
+ ],
+ "NUNMEHR": [
+  "Von jetzt\nan"
+ ],
+ "NASE": [
+  "Riech-\norgan"
+ ],
+ "MOPS": [
+  "Kleine\nHunde-\nrasse"
+ ],
+ "JEEP": [
+  "Gelände-\nwagen"
+ ],
+ "TRIP": [
+  "Kurze\nReise"
+ ],
+ "FRAU": [
+  "Weibl.\nPerson"
+ ],
+ "PHARAO": [
+  "Ägypt.\nHerr-\nscher"
+ ],
+ "PUT": [
+  "Ver-\nkaufs-\noption"
+ ],
+ "MAGIER": [
+  "Zauber-\nkünstler"
+ ],
+ "GEN": [
+  "Erb-\nanlage"
+ ],
+ "IRE": [
+  "Bewoh-\nner\nDublins"
+ ],
+ "ECKE": [
+  {
+   "c": "Winkel",
+   "t": "SALZGITTERBAD"
+  },
+  "Winkel\nim\nZimmer"
+ ],
+ "TRAUER": [
+  "Tiefe\nSchwer-\nmut"
+ ],
+ "SPIELEREI": [
+  "Nutzlose\nTändelei"
+ ],
+ "HORIZONT": [
+  "Sichtba-\nre\nErdgren-\nze"
+ ],
+ "TRESOR": [
+  "Panzer-\nschrank"
+ ],
+ "NEPP": [
+  "Wucher,\nAbzocke"
+ ],
+ "KAPUTT": [
+  "Defekt"
+ ],
+ "WORTLAUT": [
+  "Genauer\nText des\nGeset-\nzes"
+ ],
+ "SOMIT": [
+  "Folglich"
+ ],
+ "CAEN": [
+  "Stadt in\nder\nNorman-\ndie"
+ ],
+ "ATHEN": [
+  "Stadt\nder\nAkro-\npolis"
+ ],
+ "ROM": [
+  "Sitz des\nVatikans"
+ ],
+ "OSTEN": [
+  "Him-\nmels-\nrichtung"
+ ],
+ "EHE": [
+  "Bund\nfürs\nLeben"
+ ],
+ "SAU": [
+  "Weibl.\nSchwein"
+ ],
+ "SZENE": [
+  {
+   "c": "Auftritt im\nDrama",
+   "t": "KULTUR"
+  }
+ ],
+ "WAHNSINN": [
+  "Völlige\nUnver-\nnunft"
+ ],
+ "NEU": [
+  "Frisch,\nunge-\nbraucht"
+ ],
+ "LAND": [
+  "Glied-\nstaat"
+ ],
+ "LONDON": [
+  "Haupt-\nstadt\nvon\nEngland",
+  "Stadt\nam\nTower"
+ ],
+ "PLATTE": [
+  "Vinyl-\nScheibe"
+ ],
+ "REIS": [
+  "Korn aus\nAsien"
+ ],
+ "UREA": [
+  "Stoff in\nder\nHautcre-\nme",
+  "Harn-\nstoff in\nCreme",
+  "Wirkstoff\ngegen\ntrockene\nHaut"
+ ],
+ "RISIKO": [
+  "Wagnis"
+ ],
+ "ENG": [
+  "Schmal"
+ ],
+ "ECHT": [
+  "Nicht\nge-\nfälscht"
+ ],
+ "GRUND": [
+  "Anlass"
+ ],
+ "RESSORT": [
+  "Zustän-\ndig-\nkeitsbe-\nreich"
+ ],
+ "ULK": [
+  "Scherz"
+ ],
+ "BLOG": [
+  "Netz-\ntage-\nbuch"
+ ],
+ "GEL": [
+  "Gallert-\nartiges Mittel"
+ ],
+ "BUSSE": [
+  "Geld-\nstrafe"
+ ],
+ "UHR": [
+  "Zeit-\nmesser"
+ ],
+ "ERNTE": [
+  {
+   "c": "Einholen\nder\nFrucht",
+   "t": "PFLANZEN"
+  }
+ ],
+ "KANAL": [
+  "Weg für\nBoote"
+ ],
+ "ALOE": [
+  "Heil-\npflanze\nim Gel",
+  {
+   "c": "Heil-\npflanze\nim Gel",
+   "t": "KOSMETIK"
+  },
+  "Pflanze\nim Gel",
+  "Pflanze\nmit\nHeilsaft"
+ ],
+ "ADVERB": [
+  "Um-\nstands-\nwort"
+ ],
+ "DONBAS": [
+  "Region\nim Osten\nder\nUkraine"
+ ],
+ "AKT": [
+  "Vor-\ngang"
+ ],
+ "MARKEN": [
+  "Region um\nAncona"
+ ],
+ "MATTE": [
+  "Boden-\nbelag"
+ ],
+ "AKTE": [
+  "Bündel\nPapier",
+  {
+   "c": "Was der\nRichter\nliest",
+   "t": "JURA"
+  }
+ ],
+ "ERLASS": [
+  "Anord-\nnung\nvon\noben"
+ ],
+ "GVG": [
+  "Justiz-\naufbau\n(Abk.)"
+ ],
+ "KOSAK": [
+  "Reiter-\nkrieger\nder\nUkraine"
+ ],
+ "ORT": [
+  "Platz,\nStelle"
+ ],
+ "WAFFE": [
+  "Kampf-\nmittel"
+ ],
+ "FLOTTE": [
+  "Schiffs-\nverband"
+ ],
+ "HIT": [
+  "Chart-\nerfolg"
+ ],
+ "TRATTE": [
+  "Gezoge-\nner\nWechsel"
+ ],
+ "REIN": [
+  "Sauber"
+ ],
+ "ASOW": [
+  "Meer nördl.\nder Krym"
+ ],
+ "ORBIT": [
+  "Umlauf-\nbahn"
+ ],
+ "CELLE": [
+  "Stadt\nmit OLG"
+ ],
+ "ASSE": [
+  "Grube\nbei WF"
+ ],
+ "ARIE": [
+  "Sologe-\nsang in\nder Oper"
+ ],
+ "ESSIG": [
+  "Saure\nWürze"
+ ],
+ "SITZ": [
+  "Ort der\nFirma",
+  {
+   "c": "Ort des\nGe-\nrichts",
+   "t": "JURA"
+  }
+ ],
+ "INDER": [
+  "Bewoh-\nner von\nDelhi"
+ ],
+ "BUDE": [
+  "Kleines\nHaus"
+ ],
+ "BYTE": [
+  "Acht Bit"
+ ],
+ "DOLCH": [
+  "Kurze\nStich-\nwaffe"
+ ],
+ "GROSS": [
+  "Umfang-\nreich"
+ ],
+ "BAU": [
+  "Errich-\ntung"
+ ],
+ "MYKOLAJIW": [
+  "Stadt am\nSüdli-\nchen\nBug"
+ ],
+ "SPIONAGE": [
+  "Geheime\nAusspä-\nhung"
+ ],
+ "STELLE": [
+  "Arbeits-\nplatz"
+ ],
+ "TEE": [
+  "Sud aus\nBlät-\ntern"
+ ],
+ "PUB": [
+  "Britische\nKneipe"
+ ],
+ "WEG": [
+  "Pfad"
+ ],
+ "WEH": [
+  "voller\nSchmerz"
+ ],
+ "FREI": [
+  "Ohne\nZwang"
+ ],
+ "WEIT": [
+  "Ausge-\ndehnt"
+ ],
+ "ARMEE": [
+  "Streit-\nmacht"
+ ],
+ "AKNE": [
+  "Unreine\nHaut",
+  "Haut-\nunrein-\nheiten"
+ ],
+ "LORBEER": [
+  "Gewürz-\nblatt"
+ ],
+ "RUEGE": [
+  "Tadel"
+ ],
+ "ENORM": [
+  "Gewaltig"
+ ],
+ "TONER": [
+  "Klären-\ndes\nWasser"
+ ],
+ "WIEN": [
+  "Stadt an\nder\nDonau",
+  "Haupt-\nstadt\nÖster-\nreichs"
+ ],
+ "INTERNET": [
+  "Weltwei-\ntes\nDaten-\nnetz"
+ ],
+ "ESEL": [
+  "Grautier",
+  "Störri-\nsches\nLasttier"
+ ],
+ "REST": [
+  "Übriges"
+ ],
+ "TEIL": [
+  "Stück\nvom\nGanzen"
+ ],
+ "REDE": [
+  "Anspra-\nche"
+ ],
+ "MAI": [
+  "Wonne-\nmonat"
+ ],
+ "SEE": [
+  "Binnen-\ngewäs-\nser"
+ ],
+ "EBEN": [
+  "Flach",
+  "gerade\njetzt"
+ ],
+ "BOY": [
+  "Junge\n(engl.)"
+ ],
+ "RIES": [
+  "Papier-\nmaß"
+ ],
+ "DIODE": [
+  "Bauteil\nfür eine\nRichtung"
+ ],
+ "NIE": [
+  "Zu keiner\nZeit"
+ ],
+ "TUMULT": [
+  "Lärmen-\nder\nAufruhr"
+ ],
+ "FLYER": [
+  "Werbe-\nzettel"
+ ],
+ "KRYM": [
+  "Ukrain.\nHalb-\ninsel"
+ ],
+ "GUT": [
+  "Land-\nsitz"
+ ],
+ "PRAG": [
+  "Stadt\nan der\nMoldau",
+  {
+   "c": "Karls-\nbrücke\nsteht\nhier",
+   "t": "REISEN"
+  }
+ ],
+ "ALIBI": [
+  "Nach-\nweis der\nAbwe-\nsenheit"
+ ],
+ "GEDULD": [
+  "Ruhe\nbeim\nWarten"
+ ],
+ "ELLE": [
+  "Altes\nMaß"
+ ],
+ "PERU": [
+  "Anden-\nstaat"
+ ],
+ "TAETER": [
+  "Der es\ngetan\nhat"
+ ],
+ "URTEIL": [
+  "Spruch\ndes\nRichters"
+ ],
+ "BABY": [
+  "Säug-\nling"
+ ],
+ "SLAWA": [
+  "Ruhm\nauf\nukrain."
+ ],
+ "ABT": [
+  "Chef im\nKloster"
+ ],
+ "THOR": [
+  "Nordi-\nscher\nGott"
+ ],
+ "ABBA": [
+  "Pop aus\nSchwe-\nden"
+ ],
+ "BLUT": [
+  "Was\ndurch\nAdern\nfliesst"
+ ],
+ "EINREDE": [
+  "Gegen-\nrecht\nim BGB"
+ ],
+ "ARG": [
+  "Böse"
+ ],
+ "WER": [
+  "Frage-\nwort"
+ ],
+ "UKRAINE": [
+  {
+   "c": "Korn-\nkammer\nEuropas",
+   "t": "UKRAINE"
+  },
+  "Land am\nDnipro"
+ ],
+ "KAMPF": [
+  "Harter\nStreit"
+ ],
+ "IMMER": [
+  "Stets"
+ ],
+ "TAG": [
+  "24 Std."
+ ],
+ "MARS": [
+  "Roter\nPlanet"
+ ],
+ "STAR": [
+  "Promi"
+ ],
+ "PORE": [
+  "Haut-\nloch"
+ ],
+ "FUERSORGE": [
+  "Betreu-\nung und\nSchutz"
+ ],
+ "AHORN": [
+  "Baum\nmit\nBlatt"
+ ],
+ "ALSO": [
+  "Folg-\nlich",
+  "dem-\nnach,\nfolglich"
+ ],
+ "ARZT": [
+  "Weiss-\nkittel"
+ ],
+ "DELHI": [
+  "Stadt\nin\nIndien"
+ ],
+ "EIS": [
+  "Ge-\nfrore-\nnes"
+ ],
+ "ELM": [
+  "Höhen-\nzug\nbei BS"
+ ],
+ "EMULSION": [
+  "Creme\naus Öl\nund\nWasser"
+ ],
+ "HIRN": [
+  "Denk-\norgan"
+ ],
+ "ICH": [
+  "Das\neigene\nSelbst"
+ ],
+ "INSASSE": [
+  "Person\nim Auto"
+ ],
+ "INSEL": [
+  "Land\nringsum\nvon\nWasser",
+  "Land\nim\nMeer",
+  "Eiland\nim Meer"
+ ],
+ "JUSTIZ": [
+  "Recht-\nspre-\nchung"
+ ],
+ "LEIHE": [
+  "Gratis\nnutzen\nlassen"
+ ],
+ "NENA": [
+  "99\nLuft-\nballons"
+ ],
+ "NETT": [
+  "Lieb,\nfreund-\nlich"
+ ],
+ "OBWOHL": [
+  "Wenn\nauch"
+ ],
+ "ORGAN": [
+  "Teil\ndes\nLeibes"
+ ],
+ "PRIESTER": [
+  "Geist-\nlicher"
+ ],
+ "RECHTSGUT": [
+  "Ge-\nschütz-\ntes Ziel"
+ ],
+ "REDNER": [
+  "Wer\nvor-\ntraegt"
+ ],
+ "RICHTIG": [
+  "Korrekt"
+ ],
+ "RIZZI": [
+  "Buntes\nHaus in\nBS"
+ ],
+ "RUHIG": [
+  "Still"
+ ],
+ "SCHULD": [
+  "Vor-\nwerf-\nbarkeit"
+ ],
+ "SEHR": [
+  "Ganz\ndoll"
+ ],
+ "TOT": [
+  "Ohne\nLeben"
+ ],
+ "VORLAGE": [
+  "Muster,\nEntwurf"
+ ],
+ "ZUG": [
+  "Bahn"
+ ],
+ "ABITUR": [
+  "Reife-\nprüfung"
+ ],
+ "ABRUPT": [
+  "Ganz\nplötz-\nlich"
+ ],
+ "AGGRESSIV": [
+  "Streit-\nlustig"
+ ],
+ "AMPERE": [
+  "Strom-\nstärke"
+ ],
+ "ANALOGIE": [
+  "Lücke\nim\nGesetz\nfüllen"
+ ],
+ "ANIS": [
+  "Würze\nim\nOuzo",
+  "Gewürz\nmit\nLakritz-\nnote"
+ ],
+ "ANORAK": [
+  "Winter-\njacke"
+ ],
+ "ANSTRENGEND": [
+  "Hart"
+ ],
+ "ANTRAG": [
+  "Bitte\nans\nGericht"
+ ],
+ "ARREST": [
+  {
+   "c": "Haft\nals\nStrafe",
+   "t": "JURA"
+  }
+ ],
+ "BAND": [
+  "Musik-\ngruppe"
+ ],
+ "BIKINI": [
+  "Zwei-\nteiler"
+ ],
+ "DEAL": [
+  "Handel"
+ ],
+ "DORF": [
+  "Kleiner\nOrt"
+ ],
+ "EBER": [
+  "Männ-\nliche\nSau"
+ ],
+ "EINHALT": [
+  "Stopp\ngebie-\nten"
+ ],
+ "EKLIPSE": [
+  "Ver-\nfinste-\nrung"
+ ],
+ "ERFURT": [
+  "BAG-\nSitz in\nThürin-\ngen"
+ ],
+ "ERZAEHLER": [
+  "Wer die\nStory\nspricht"
+ ],
+ "FAEHRE": [
+  "Schiff\nfür die\nÜber-\nfahrt"
+ ],
+ "FRANSE": [
+  "Loser\nFaden"
+ ],
+ "FRIST": [
+  "Termin\nvor\nGericht"
+ ],
+ "FRUEH": [
+  "Zeitig"
+ ],
+ "GAUSS": [
+  "Mathe-\nmatiker\naus BS"
+ ],
+ "GESETZ": [
+  "Norm\nvom\nStaat"
+ ],
+ "GOTIK": [
+  "Stil mit\nSpitz-\nbogen"
+ ],
+ "GRUENKOHL": [
+  "Kohl\nfür die\nKohl-\nfahrt"
+ ],
+ "HAGENMARKT": [
+  "Platz\nin BS"
+ ],
+ "HAUTTYP": [
+  "Fettig\noder\ntrocken"
+ ],
+ "HEIMWEH": [
+  "Sehn-\nsucht\nnach\nHause"
+ ],
+ "HELMSTEDT": [
+  "Kreis-\nstadt\nöstl.\nvon BS"
+ ],
+ "IGEL": [
+  "Tier mit\nSta-\ncheln"
+ ],
+ "KAKTEE": [
+  "Pflanze\nmit\nDornen"
+ ],
+ "KALYNA": [
+  "Beere,\nUA-\nSymbol"
+ ],
+ "KAMASUTRA": [
+  "Alte\nLiebes-\nlehre"
+ ],
+ "KLAGE": [
+  "Start\nins\nVer-\nfahren"
+ ],
+ "KLAR": [
+  "Deut-\nlich"
+ ],
+ "KNEIPE": [
+  "Lokal\nzum\nZapfen"
+ ],
+ "KOPF": [
+  "Sitz\ndes\nHirns"
+ ],
+ "KURIE": [
+  "Papst-\namt"
+ ],
+ "LADUNG": [
+  "Auf-\nruf zur\nSitzung"
+ ],
+ "LEER": [
+  "Ohne\nInhalt"
+ ],
+ "LEIBRENTE": [
+  "Geld\nbis zum\nTod"
+ ],
+ "LIED": [
+  "Sang-\nbares\nStück"
+ ],
+ "LIZENZ": [
+  "Erlaub-\nnis-\nschein"
+ ],
+ "LOTION": [
+  "Dünne\nPflege-\nmilch"
+ ],
+ "MAGNI": [
+  "Alt-\nviertel\nin BS"
+ ],
+ "MAXI": [
+  "Große\nSingle\nder 80er"
+ ],
+ "MUMME": [
+  "Bier\naus BS"
+ ],
+ "NAEHE": [
+  "Kurze\nDistanz"
+ ],
+ "NAGEL": [
+  "Wird\nlackiert"
+ ],
+ "NAMIBIA": [
+  "Land\nsüdl.\nvon\nAngola"
+ ],
+ "NOTAR": [
+  "Beur-\nkundet\nVer-\nträge"
+ ],
+ "OPER": [
+  "Haus\nfür\nArien"
+ ],
+ "OSTEUROPA": [
+  "Halb\nEuropas,\nöstlich"
+ ],
+ "PEPERONI": [
+  "Scharf,\nklein\nSchote"
+ ],
+ "PEPTID": [
+  "Kette\naus\nAmino-\nsäuren"
+ ],
+ "PFAND": [
+  "Sicher-\nheit\nfür\nKredit"
+ ],
+ "PORTO": [
+  "Stadt\nam\nDouro"
+ ],
+ "PRESTIGE": [
+  "Hohes\nAn-\nsehen"
+ ],
+ "PSALTER": [
+  "Lieder-\nbuch\nder\nBibel"
+ ],
+ "REAL": [
+  "Echt"
+ ],
+ "REEDER": [
+  "Schiffs-\neigner"
+ ],
+ "RIGA": [
+  "Haupt-\nstadt\nLett-\nlands",
+  "Stadt an\nder\nOstsee"
+ ],
+ "SCHWEIZ": [
+  "Land\nder\nAlpen"
+ ],
+ "SIRENE": [
+  "Heult\nbei\nAlarm"
+ ],
+ "SOLEI": [
+  "Ei aus\ndem\nSalz-\nwasser"
+ ],
+ "SPION": [
+  "Agent"
+ ],
+ "SPIRALE": [
+  "Ge-\nwun-\ndene\nLinie"
+ ],
+ "SPUERNASE": [
+  "Guter\nRie-\ncher"
+ ],
+ "STARR": [
+  "Un-\nbeweg-\nlich"
+ ],
+ "STEPPE": [
+  {
+   "c": "Weites\nGras-\nland",
+   "t": "UKRAINE"
+  }
+ ],
+ "SYMBOL": [
+  "Sinn-\nbild"
+ ],
+ "TAUSENDER": [
+  "Schein\nüber\n1000"
+ ],
+ "TEMPELBAU": [
+  "Bau\neines\nHeilig-\ntums"
+ ],
+ "TIPP": [
+  {
+   "c": "Guter\nRat",
+   "t": "QUIZSHOW"
+  },
+  "Wink mit\ndem\nZaun-\npfahl"
+ ],
+ "TONNE": [
+  "1000\nKilo"
+ ],
+ "TRAFALGAR": [
+  "Kap in\nSpa-\nnien"
+ ],
+ "UEBEL": [
+  "Mies"
+ ],
+ "UMHANG": [
+  "Cape,\nMantel"
+ ],
+ "URKUNDE": [
+  "Amtli-\nches\nPapier"
+ ],
+ "UTRECHT": [
+  "Stadt\nin den\nNieder-\nlanden"
+ ],
+ "VOTUM": [
+  "Vor-\nschlag\nzum\nUrteil"
+ ],
+ "VULKAN": [
+  "Feuer-\nspeien-\nder Berg"
+ ],
+ "WILLE": [
+  "Innerer\nEnt-\nschluss"
+ ],
+ "ZEUGE": [
+  "Sagt vor\nGericht\naus"
+ ],
+ "ZWEIFEL": [
+  "Un-\nsicher-\nheit"
+ ],
+ "ACETON": [
+  "Riecht\nnach\nNagel-\nstudio"
+ ],
+ "KULT": [
+  "Fast wie\neine\nReligion"
+ ],
+ "LESER": [
+  {
+   "c": "Wer im\nBuch\nblättert",
+   "t": "BUECHER"
+  }
+ ],
+ "ANGINA": [
+  "Hals-\nentzün-\ndung"
+ ],
+ "ASSEL": [
+  "Kleiner\nKeller-\nkrebs"
+ ],
+ "BAER": [
+  "Brummt\nim Wald"
+ ],
+ "BALKON": [
+  "Freisitz\nam Haus"
+ ],
+ "BETON": [
+  "Zement\nmit Kies"
+ ],
+ "EGAL": [
+  "Einerlei"
+ ],
+ "ENDE": [
+  "Letzter\nAb-\nschnitt",
+  "Schluss"
+ ],
+ "ENTE": [
+  "Vogel\nam Teich",
+  "Wat-\nschelt\nam Teich"
+ ],
+ "EXAMEN": [
+  "Große\nPrüfung"
+ ],
+ "FALL": [
+  "Sache\nvor\nGericht"
+ ],
+ "FRAGE": [
+  "Was der\nBlock\nstellt"
+ ],
+ "GENF": [
+  "Stadt\nam Rhône-\nsee"
+ ],
+ "GETTO": [
+  "Abge-\nsperrtes\nViertel"
+ ],
+ "GROLL": [
+  "Stiller\nZorn"
+ ],
+ "GRUEN": [
+  "Farbe\nder\nWiese"
+ ],
+ "HAUT": [
+  "Größtes\nOrgan"
+ ],
+ "INDES": [
+  "Jedoch"
+ ],
+ "INVESTOR": [
+  "Wer Geld\nanlegt"
+ ],
+ "KARLSRUHER": [
+  "Aus der\nBVerfG-\nStadt"
+ ],
+ "KIESSAND": [
+  "Baustoff\naus der\nGrube"
+ ],
+ "KUEKEN": [
+  "Junges\nHuhn"
+ ],
+ "LAGUNE": [
+  "Bucht\nhinter\nRiff"
+ ],
+ "LAKEN": [
+  "Tuch\nfürs Bett"
+ ],
+ "MANIE": [
+  "Krank-\nhafter\nDrang"
+ ],
+ "MELONE": [
+  "Große\nsüße\nFrucht"
+ ],
+ "MINUTE": [
+  "60\nSekun-\nden"
+ ],
+ "NATRON": [
+  "Pulver\nzum\nBacken"
+ ],
+ "ORDEN": [
+  "Ehren-\nzeichen"
+ ],
+ "PARTEI": [
+  "Seite\nim\nProzess"
+ ],
+ "SEIFE": [
+  "Schäumt\nam\nWasch-\nbecken"
+ ],
+ "SENIL": [
+  "Alters-\nverwirrt"
+ ],
+ "TANK": [
+  "Behälter\nfür\nSprit"
+ ],
+ "TEUER": [
+  "Kostet\nviel"
+ ],
+ "TORONTO": [
+  "Stadt\nam\nOntario-\nsee"
+ ],
+ "TORTE": [
+  "Kuchen\nmit\nSahne"
+ ],
+ "UFER": [
+  "Rand\ndes\nFlusses"
+ ],
+ "UMAN": [
+  "Wall-\nfahrtsort\nin der\nUkraine",
+  "Ukraini-\nsche\nKlein-\nstadt",
+  "Stadt in\nTscher-\nkassy"
+ ],
+ "UNIKUM": [
+  "Einziges\nExem-\nplar"
+ ],
+ "VERB": [
+  "Tuwort"
+ ],
+ "AMEISE": [
+  "Fleißiges\nKrabbel-\ntier"
+ ],
+ "ASPIK": [
+  "Sülze\naus\nGelee"
+ ],
+ "BALKEN": [
+  "Träger\naus\nHolz"
+ ],
+ "EIDES": [
+  "An ...\nstatt"
+ ],
+ "EKZEM": [
+  "Juck-\nende\nHaut-\nstelle"
+ ],
+ "FRESKO": [
+  "Malerei\nauf\nfrischem\nPutz"
+ ],
+ "GIER": [
+  "Maßlose\nSucht"
+ ],
+ "INVENTUR": [
+  "Zählen\ndes\nLagers"
+ ],
+ "KEIM": [
+  "Anfang\ndes\nLebens"
+ ],
+ "KOENIG": [
+  "Herr auf\ndem\nThron"
+ ],
+ "KORPS": [
+  "Truppen-\nverband"
+ ],
+ "LIRE": [
+  "Alte\nMünzen\nItaliens\n(Pl.)"
+ ],
+ "MAIDAN": [
+  "Platz\nin Kyjiw"
+ ],
+ "NAIV": [
+  "Arglos,\ntreu-\nherzig"
+ ],
+ "NIZZA": [
+  "Stadt an\nder Côte\ndAzur"
+ ],
+ "PULT": [
+  "Möbel\nvor dem\nRichter"
+ ],
+ "REGEN": [
+  "Nasses\nUrlaubs-\nwetter"
+ ],
+ "ROCK": [
+  "Musik\nmit\nGitarre"
+ ],
+ "SIESTA": [
+  "Ruhe in\nder\nMittags-\nhitze"
+ ],
+ "STIEFVATER": [
+  "Neuer\nMann der\nMutter"
+ ],
+ "TAKT": [
+  "Einheit\nin den\nNoten",
+  "Feines\nGespür\nim\nUmgang"
+ ],
+ "ZEIT": [
+  "Läuft\nunauf-\nhörlich"
+ ],
+ "ZIRKUS": [
+  "Zelt mit\nManege"
+ ],
+ "ABSURD": [
+  "Völlig\nwider-\nsinnig"
+ ],
+ "AKTEUR": [
+  "Wer im\nProzess\nhandelt"
+ ],
+ "AMPHIBIE": [
+  "Frosch\noder\nMolch"
+ ],
+ "BASE": [
+  "Gegen-\nteil der\nSäure"
+ ],
+ "BEAMTE": [
+  "Staats-\ndiener"
+ ],
+ "BITTER": [
+  "Herb"
+ ],
+ "BROT": [
+  "Kommt\naus dem\nOfen"
+ ],
+ "BUCH": [
+  "Hat\nSeiten\nund Rücken"
+ ],
+ "DJANE": [
+  "Frau am\nPlatten-\nteller"
+ ],
+ "ERNST": [
+  "Ohne\nSpaß"
+ ],
+ "EUTER": [
+  "Milch-\norgan\nder Kuh"
+ ],
+ "FALTE": [
+  "Linie\nin\nalter Haut"
+ ],
+ "FEIER": [
+  "Fest\nmit\nGästen"
+ ],
+ "FRUCHT": [
+  "Was der\nBaum\nträgt"
+ ],
+ "GIRO": [
+  "Konto\nfür den\nAlltag"
+ ],
+ "HERR": [
+  "Anrede\nvor dem\nNamen"
+ ],
+ "HYGIENE": [
+  "Sauber-\nkeit"
+ ],
+ "KORFU": [
+  "Griech.\nFerien-\ninsel"
+ ],
+ "KREDIT": [
+  "Geld\nvon der\nBank"
+ ],
+ "MARKT": [
+  "Platz\nmit\nStänden"
+ ],
+ "MEUTEREI": [
+  "Aufstand\nan Bord"
+ ],
+ "MIEZE": [
+  "Kose-\nname der\nKatze"
+ ],
+ "MOTEL": [
+  "Hotel\nan der\nStraße"
+ ],
+ "ORGEL": [
+  {
+   "c": "Pfeifen\nin der\nKirche",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "PLAKAT": [
+  "Aushang\nan der\nWand"
+ ],
+ "RECHT": [
+  "Ordnung\nder\nGesetze"
+ ],
+ "REICH": [
+  "Nicht\narm"
+ ],
+ "RIFF": [
+  "Bank\naus\nKorallen"
+ ],
+ "RUHE": [
+  {
+   "c": "Kein\nLärm",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "SAEULE": [
+  "Runde\nStütze\nam Tempel"
+ ],
+ "STATISCH": [
+  "Ohne\nBewe-\ngung"
+ ],
+ "STEUER": [
+  {
+   "c": "Abgabe\nans Amt",
+   "t": "JURA"
+  },
+  "Rad am\nSchiff",
+  "Abgabe\nan den\nFiskus"
+ ],
+ "STIER": [
+  "Rind mit\nHörnern"
+ ],
+ "TEER": [
+  "Schwarz\nauf der\nStraße"
+ ],
+ "THEMA": [
+  "Gegen-\nstand\neiner Rede"
+ ],
+ "TURM": [
+  "Hoher\nBau der\nKirche",
+  "Figur\nbeim\nSchach"
+ ],
+ "UNBEIRRBAR": [
+  "Fest\nent-\nschlos-\nsen"
+ ],
+ "ZONE": [
+  "Abge-\ngrenzter\nBereich"
+ ],
+ "MEIN": [
+  "Nicht\ndein"
+ ],
+ "SELBE": [
+  "Nicht die\nandere"
+ ],
+ "HARZ": [
+  {
+   "c": "Gebirge\nmit dem\nBrocken",
+   "t": "HARZ"
+  },
+  {
+   "c": "Mittel-\ngebirge\nim Norden",
+   "t": "HARZ"
+  }
+ ],
+ "ADEL": [
+  "Blaues\nBlut"
+ ],
+ "AGENDA": [
+  "Tages-\nordnung"
+ ],
+ "ANDEN": [
+  "Gebirge\nin Peru",
+  {
+   "c": "Langes\nGebirge\nin Peru",
+   "t": "BERGSTEIGEN"
+  }
+ ],
+ "ANWAERTER": [
+  "Kandidat",
+  "Bewer-\nber um\nein Amt"
+ ],
+ "ASCHE": [
+  "Rest\nnach dem\nFeuer"
+ ],
+ "ASIAT": [
+  "Chinese\noder\nInder",
+  "Bewoh-\nner des\ngrößten\nErdteils"
+ ],
+ "BEWEIS": [
+  {
+   "c": "Beleg im\nProzess",
+   "t": "JURA"
+  },
+  {
+   "c": "Nach-\nweis vor\nGericht",
+   "t": "JURA"
+  }
+ ],
+ "BLOED": [
+  "Wenig\nklug"
+ ],
+ "DESNA": [
+  {
+   "c": "Fluss bei\nKyjiw",
+   "t": "UKRAINE"
+  }
+ ],
+ "DIEB": [
+  {
+   "c": "Lang-\nfinger",
+   "t": "JURA"
+  }
+ ],
+ "ETWA": [
+  "Unge-\nfähr"
+ ],
+ "GALA": [
+  "Fest-\nabend"
+ ],
+ "GEWAND": [
+  "Feier-\nliches\nKleid"
+ ],
+ "GLAS": [
+  "Stoff der\nScheibe"
+ ],
+ "GRAETE": [
+  "Fisch-\nknochen"
+ ],
+ "HANG": [
+  "Schräge\nam Berg"
+ ],
+ "HEBRON": [
+  "Stadt im\nWest-\njordan-\nland"
+ ],
+ "INDIZ": [
+  "Hinweis\nfür den\nRichter",
+  {
+   "c": "Anzei-\nchen im\nProzess",
+   "t": "JURA"
+  }
+ ],
+ "IRAK": [
+  "Staat am\nEuphrat",
+  "Land am\nZwei-\nstrom-\nland"
+ ],
+ "KISTE": [
+  "Holz-\nbehälter"
+ ],
+ "KLEIN": [
+  "Nicht\ngroß"
+ ],
+ "LAENGST": [
+  "Schon\nlange"
+ ],
+ "LUNTE": [
+  "Zünd-\nschnur"
+ ],
+ "NAIROBI": [
+  "Haupt-\nstadt\nKenias"
+ ],
+ "NOTARIAT": [
+  "Büro für\nBeur-\nkundung",
+  {
+   "c": "Amt für\nBeur-\nkundung",
+   "t": "JURA"
+  }
+ ],
+ "PARADOX": [
+  "Wider-\nsinnig"
+ ],
+ "RHEIN": [
+  "Strom\ndurch\nKöln"
+ ],
+ "RUINE": [
+  "Rest\neines\nBaus",
+  {
+   "c": "Alter\nMauer-\nrest",
+   "t": "REISEN"
+  }
+ ],
+ "SKALA": [
+  "Eintei-\nlung am\nMess-\ngerät"
+ ],
+ "STAPEL": [
+  "Turm aus\nAkten"
+ ],
+ "TESTAMENT": [
+  {
+   "c": "Letzter\nWille",
+   "t": "JURA"
+  }
+ ],
+ "THEATER": [
+  {
+   "c": "Haus für\nSchau-\nspiel",
+   "t": "REISEN"
+  }
+ ],
+ "UPDATE": [
+  "Neue Pro-\ngramm-\nversion"
+ ],
+ "VETO": [
+  {
+   "c": "Ein-\nspruch\nmit\nWirkung",
+   "t": "JURA"
+  },
+  "Ein-\nspruch"
+ ],
+ "ZWIESPALT": [
+  "Innerer\nKonflikt"
+ ],
+ "VIOLA": [
+  "Bratsche"
+ ],
+ "BALLADE": [
+  "Erzäh-\nlendes\nGedicht"
+ ],
+ "SONETT": [
+  "Gedicht\naus 14\nZeilen"
+ ],
+ "ELEGIE": [
+  "Klage-\nlied"
+ ],
+ "EPOS": [
+  "Helden-\ngedicht"
+ ],
+ "SAGA": [
+  "Nordi-\nsche\nErzäh-\nlung"
+ ],
+ "LYRIK": [
+  "Dicht-\nkunst"
+ ],
+ "PROSA": [
+  "Unge-\nbun-\ndene\nRede"
+ ],
+ "SATIRE": [
+  "Spott-\ndichtung"
+ ],
+ "FABEL": [
+  "Tier-\nge-\nschichte"
+ ],
+ "LEGENDE": [
+  "Heiligen-\nerzäh-\nlung"
+ ],
+ "MYTHOS": [
+  "Götter-\nsage"
+ ],
+ "DRAMA": [
+  "Bühnen-\nstück"
+ ],
+ "KULISSE": [
+  "Bühnen-\nbild"
+ ],
+ "REQUISIT": [
+  "Bühnen-\nzubehör"
+ ],
+ "SOUFFLEUR": [
+  "Einsager\nam\nTheater"
+ ],
+ "GAGE": [
+  "Künst-\nlerlohn"
+ ],
+ "PREMIERE": [
+  "Erst-\nauffüh-\nrung"
+ ],
+ "DEBUET": [
+  "Erstes\nAuftre-\nten"
+ ],
+ "FINALE": [
+  "Schluss-\nsatz"
+ ],
+ "OUVERTUERE": [
+  "Vorspiel\nder Oper"
+ ],
+ "DUETT": [
+  "Gesang\nzu zweit"
+ ],
+ "TERZETT": [
+  "Musik-\nstück zu\ndritt"
+ ],
+ "QUARTETT": [
+  "Vierer-\ngruppe"
+ ],
+ "KANTATE": [
+  "Geistli-\nches\nTon-\nwerk"
+ ],
+ "ORATORIUM": [
+  "Großes\nChor-\nwerk"
+ ],
+ "MOTETTE": [
+  "Mehr-\nstimmi-\nger\nChorsatz"
+ ],
+ "FUGE": [
+  "Streng\ngebaute\nTonfolge"
+ ],
+ "ETUEDE": [
+  "Übungs-\nstück"
+ ],
+ "SONATE": [
+  "Instru-\nmen-\ntalstück"
+ ],
+ "RONDO": [
+  "Musik-\nform mit\nKehr-\nreim"
+ ],
+ "ADAGIO": [
+  "Langsa-\nmes\nZeitmaß"
+ ],
+ "ALLEGRO": [
+  "Munte-\nres\nZeitmaß"
+ ],
+ "LARGO": [
+  "Breites\nZeitmaß"
+ ],
+ "STACCATO": [
+  "Kurz\nabge-\nsetzt"
+ ],
+ "LEGATO": [
+  "Gebun-\nden\ngespielt"
+ ],
+ "CRESCENDO": [
+  "An-\nschwel-\nlend"
+ ],
+ "OKTAVE": [
+  "Achter\nTon-\nschritt"
+ ],
+ "QUINTE": [
+  "Fünfter\nTon-\nschritt"
+ ],
+ "MOLL": [
+  "Weiches\nTonge-\nschlecht"
+ ],
+ "NOTE": [
+  "Zeichen\nfür Töne"
+ ],
+ "KLAVE": [
+  "Rhyth-\nmus-\nstab"
+ ],
+ "HARFE": [
+  "Zupf-\ninstru-\nment"
+ ],
+ "LAUTE": [
+  "Altes\nZupfin-\nstrument"
+ ],
+ "ZITHER": [
+  "Alpen-\ninstru-\nment"
+ ],
+ "OBOE": [
+  "Holz-\nblasin-\nstrument"
+ ],
+ "FAGOTT": [
+  "Tiefes\nHolz-\nblasrohr"
+ ],
+ "TUBA": [
+  "Tiefes\nBlech-\nhorn"
+ ],
+ "POSAUNE": [
+  "Zug-\ninstru-\nment"
+ ],
+ "CEMBALO": [
+  "Tasten-\ninstru-\nment"
+ ],
+ "SPINETT": [
+  "Kleines\nCembalo"
+ ],
+ "TIMPANI": [
+  "Kessel-\npauken"
+ ],
+ "GONG": [
+  "Klang-\nscheibe"
+ ],
+ "TRIANGEL": [
+  "Dreieck\nals\nInstru-\nment"
+ ],
+ "BANJO": [
+  "Instru-\nment der\nFolkmu-\nsik"
+ ],
+ "CHANSON": [
+  "Franzö-\nsisches\nLied"
+ ],
+ "KANON": [
+  "Gesang\nim\nNachein-\nander"
+ ],
+ "MADRIGAL": [
+  "Weltli-\nches\nLied"
+ ],
+ "MOSAIK": [
+  "Bild aus\nStein-\nchen"
+ ],
+ "RELIEF": [
+  "Erhaben-\nes\nBildwerk"
+ ],
+ "TORSO": [
+  "Rumpf\neiner\nFigur"
+ ],
+ "STAFFELEI": [
+  "Maler-\nbock"
+ ],
+ "PALETTE": [
+  "Farb-\nbrett"
+ ],
+ "VERNISSAGE": [
+  "Ausstel-\nlungs-\neröff-\nnung"
+ ],
+ "AQUARELL": [
+  "Wasser-\nfarben-\nbild"
+ ],
+ "RADIERUNG": [
+  "Kupfer-\nstichart"
+ ],
+ "LITHO": [
+  "Stein-\ndruck"
+ ],
+ "SKIZZE": [
+  "Erster\nEntwurf"
+ ],
+ "KOLORIT": [
+  "Farbge-\nbung"
+ ],
+ "PORTRAET": [
+  "Bildnis"
+ ],
+ "STILLLEBEN": [
+  "Bild mit\nFrüchten"
+ ],
+ "PANORAMA": [
+  "Rund-\nblick"
+ ],
+ "GALERIE": [
+  "Bilder-\nsaal"
+ ],
+ "KURATOR": [
+  "Ausstel-\nlungslei-\nter"
+ ],
+ "MAEZEN": [
+  {
+   "c": "Förderer\nder\nKunst",
+   "t": "KULTUR"
+  }
+ ],
+ "ATELIER": [
+  "Künst-\nler-\nwerk-\nstatt"
+ ],
+ "TITISEE": [
+  "See im\nHoch-\nschwarz-\nwald"
+ ],
+ "EDERSEE": [
+  "Stausee\nin\nHessen"
+ ],
+ "CHIEMSEE": [
+  "Bayeri-\nsches\nMeer"
+ ],
+ "MUERITZ": [
+  "Größter\nSee der\nMark"
+ ],
+ "LAACHER": [
+  "... See in\nder Eifel"
+ ],
+ "ISAR": [
+  "Fluss\ndurch\nMün-\nchen",
+  "Fluss\naus den\nAlpen"
+ ],
+ "LECH": [
+  "Alpen-\nfluss"
+ ],
+ "EDER": [
+  "Fluss in\nHessen"
+ ],
+ "AARE": [
+  "Schwei-\nzer Fluss"
+ ],
+ "REUSS": [
+  "Fluss\naus dem\nGott-\nhard"
+ ],
+ "TESSIN": [
+  "Fluss\nund\nKanton"
+ ],
+ "ETSCH": [
+  "Fluss in\nSüdtirol"
+ ],
+ "EBRO": [
+  "Strom in\nSpanien"
+ ],
+ "TAJO": [
+  "Fluss\ndurch\nToledo"
+ ],
+ "DOURO": [
+  "Fluss bei\nPorto"
+ ],
+ "LOIRE": [
+  "Längster\nFluss\nFrank-\nreichs"
+ ],
+ "RHONE": [
+  "Fluss\ndurch\nLyon"
+ ],
+ "SAONE": [
+  "Neben-\nfluss der\nRhone"
+ ],
+ "MAAS": [
+  "Strom in\nden\nNieder-\nlanden"
+ ],
+ "SCHELDE": [
+  "Strom\nbei\nAntwer-\npen"
+ ],
+ "ALLER": [
+  "Neben-\nfluss der\nWeser"
+ ],
+ "LEINE": [
+  "Fluss\ndurch\nHanno-\nver"
+ ],
+ "FULDA": [
+  "Quell-\nfluss der\nWeser"
+ ],
+ "WERRA": [
+  "Fluss\naus\nThürin-\ngen"
+ ],
+ "SAALE": [
+  "Neben-\nfluss der\nElbe"
+ ],
+ "HAVEL": [
+  "Fluss\ndurch\nPotsdam"
+ ],
+ "SPREE": [
+  "Fluss\ndurch\nBerlin"
+ ],
+ "NAHE": [
+  "Neben-\nfluss des\nRheins"
+ ],
+ "RUHR": [
+  "Fluss im\nWesten"
+ ],
+ "LIPPE": [
+  "Fluss in\nWestfa-\nlen"
+ ],
+ "SIEG": [
+  {
+   "c": "Erfolg im\nSpiel",
+   "t": "FUSSBALL"
+  },
+  "Neben-\nfluss des\nRheins"
+ ],
+ "MOSEL": [
+  "Wein-\nfluss"
+ ],
+ "NECKAR": [
+  "Fluss\ndurch\nHeidel-\nberg"
+ ],
+ "MAIN": [
+  "Fluss\ndurch\nFrank-\nfurt"
+ ],
+ "ODER": [
+  "Grenz-\nfluss im\nOsten"
+ ],
+ "NEISSE": [
+  "Grenz-\nfluss zu\nPolen"
+ ],
+ "WOLGA": [
+  "Längster\nStrom\nEuropas"
+ ],
+ "NEWA": [
+  "Fluss bei\nSankt\nPeters-\nburg"
+ ],
+ "DUERO": [
+  "Spani-\nscher\nStrom"
+ ],
+ "ELBRUS": [
+  "Höchster\nBerg\nEuropas"
+ ],
+ "ETNA": [
+  "Vulkan\nauf\nSizilien"
+ ],
+ "VESUV": [
+  "Vulkan\nbei\nNeapel"
+ ],
+ "HEKLA": [
+  "Vulkan\nauf\nIsland"
+ ],
+ "FUJI": [
+  "Heiliger\nBerg\nJapans"
+ ],
+ "EIGER": [
+  "Berner\nAlpen-\ngipfel"
+ ],
+ "RIGI": [
+  "Berg in\nder\nSchweiz"
+ ],
+ "SAENTIS": [
+  "Berg im\nAppen-\nzeller\nLand"
+ ],
+ "ORTLER": [
+  "Höchster\nBerg\nSüdtirols"
+ ],
+ "BROCKEN": [
+  "Berg\n1.141m",
+  "Höchster\nBerg im\nNorden"
+ ],
+ "FELDBERG": [
+  "Höchster\nGipfel im\nSüden"
+ ],
+ "ARBER": [
+  "Gipfel im\nBayeri-\nschen\nWald"
+ ],
+ "RHOEN": [
+  "Mittel-\ngebirge\nin\nHessen"
+ ],
+ "EIFEL": [
+  "Gebirge\nan der\nMosel"
+ ],
+ "TAUNUS": [
+  "Gebirge\nbei\nFrank-\nfurt"
+ ],
+ "HUNSRUECK": [
+  "Gebirge\nlinks des\nRheins"
+ ],
+ "SPESSART": [
+  "Gebirge\nin\nBayern"
+ ],
+ "ELBA": [
+  "Insel im\nMittel-\nmeer"
+ ],
+ "CAPRI": [
+  "Insel bei\nNeapel"
+ ],
+ "MALTA": [
+  "Insel-\nstaat im\nSüden"
+ ],
+ "RHODOS": [
+  "Griechi-\nsche\nInsel"
+ ],
+ "KRETA": [
+  "Größte\ngriechi-\nsche\nInsel"
+ ],
+ "SAMOS": [
+  "Insel in\nder\nÄgäis"
+ ],
+ "IBIZA": [
+  "Balea-\nren-\ninsel",
+  "Insel der\nParty"
+ ],
+ "MALLORCA": [
+  "Insel im\nMittel-\nmeer",
+  "Größte\nBalea-\nren-\ninsel"
+ ],
+ "SYLT": [
+  "Nordsee-\ninsel"
+ ],
+ "AMRUM": [
+  "Nordsee-\ninsel"
+ ],
+ "FOEHR": [
+  "Nordfrie-\nsische\nInsel"
+ ],
+ "RUEGEN": [
+  "Größte\ndeut-\nsche\nInsel"
+ ],
+ "USEDOM": [
+  "Ostsee-\ninsel"
+ ],
+ "HIDDENSEE": [
+  "Insel bei\nRügen"
+ ],
+ "BORKUM": [
+  "Ostfrie-\nsische\nInsel"
+ ],
+ "JUIST": [
+  "Ostfrie-\nsische\nInsel"
+ ],
+ "NORDERNEY": [
+  "Insel der\nNordsee"
+ ],
+ "HELGOLAND": [
+  "Hoch-\nsee-\ninsel"
+ ],
+ "FEHMARN": [
+  "Insel in\nder\nOstsee"
+ ],
+ "TALLINN": [
+  "Haupt-\nstadt\nEstlands"
+ ],
+ "OSLO": [
+  "Haupt-\nstadt\nNorwe-\ngens"
+ ],
+ "BERN": [
+  "Haupt-\nstadt der\nSchweiz"
+ ],
+ "LIMA": [
+  "Haupt-\nstadt\nPerus"
+ ],
+ "QUITO": [
+  "Haupt-\nstadt\nEcua-\ndors"
+ ],
+ "DAKAR": [
+  "Haupt-\nstadt\nSene-\ngals"
+ ],
+ "NASSAU": [
+  "Haupt-\nstadt der\nBaha-\nmas"
+ ],
+ "BAKU": [
+  "Haupt-\nstadt am\nKaspi-\nsee"
+ ],
+ "SUKRE": [
+  "Haupt-\nstadt\nBolivi-\nens"
+ ],
+ "KANDAHAR": [
+  "Stadt in\nAfghani-\nstan"
+ ],
+ "GENUA": [
+  "Hafen in\nItalien"
+ ],
+ "TRIENT": [
+  "Stadt in\nSüdtirol"
+ ],
+ "BRIXEN": [
+  "Stadt in\nSüdtirol"
+ ],
+ "MERAN": [
+  "Kurort in\nSüdtirol"
+ ],
+ "LUGANO": [
+  "Stadt am\nSee im\nTessin"
+ ],
+ "CHUR": [
+  "Stadt in\nGrau-\nbünden"
+ ],
+ "LINZ": [
+  "Stadt an\nder\nDonau"
+ ],
+ "GRAZ": [
+  "Stadt in\nder\nSteier-\nmark"
+ ],
+ "TRIER": [
+  "Älteste\nStadt am\nRhein"
+ ],
+ "XANTEN": [
+  "Römer-\nstadt am\nRhein"
+ ],
+ "SPEYER": [
+  "Dom-\nstadt am\nRhein"
+ ],
+ "WORMS": [
+  "Nibelun-\ngenstadt"
+ ],
+ "HAMELN": [
+  "Stadt\ndes\nRatten-\nfängers"
+ ],
+ "GOSLAR": [
+  "Kaiser-\nstadt am\nHarz"
+ ],
+ "STINKTIER": [
+  "Skunk"
+ ],
+ "ILTIS": [
+  "Marder-\nart"
+ ],
+ "MARDER": [
+  "Raubtier\nauf dem\nDachbo-\nden"
+ ],
+ "DACHS": [
+  "Nächtli-\ncher\nErdbau-\ner"
+ ],
+ "OTTER": [
+  "Marder\nam Bach"
+ ],
+ "LUCHS": [
+  "Pinsel-\nohriges\nRaubtier"
+ ],
+ "WISENT": [
+  "Europä-\nischer\nBüffel"
+ ],
+ "ELCH": [
+  "Großer\nHirsch\ndes\nNordens"
+ ],
+ "GEMSE": [
+  "Bergzie-\nge"
+ ],
+ "STEINBOCK": [
+  "Alpen-\nkletterer"
+ ],
+ "MUFFLON": [
+  "Wild-\nschaf"
+ ],
+ "TAPIR": [
+  "Rüssel-\ntier"
+ ],
+ "ORYX": [
+  "Spieß-\nantilope"
+ ],
+ "IMPALA": [
+  "Afrikani-\nsche\nAntilope"
+ ],
+ "OKAPI": [
+  "Ver-\nwandter\nder\nGiraffe"
+ ],
+ "LEMUR": [
+  "Halbaffe\nauf\nMada-\ngaskar"
+ ],
+ "GIBBON": [
+  "Langar-\nmaffe"
+ ],
+ "MAKAK": [
+  "Affenart"
+ ],
+ "ORANG": [
+  "Men-\nschen-\naffe auf\nBorneo"
+ ],
+ "KOALA": [
+  "Beutel-\nbär"
+ ],
+ "WOMBAT": [
+  "Beutel-\ntier\nAustra-\nliens"
+ ],
+ "DINGO": [
+  "Wild-\nhund\nAustra-\nliens"
+ ],
+ "NANDU": [
+  "Laufvo-\ngel der\nPampa"
+ ],
+ "KIWI": [
+  {
+   "c": "Frucht\nmit\nbrauner\nSchale",
+   "t": "PFLANZEN"
+  },
+  "Vogel\nNeusee-\nlands"
+ ],
+ "KONDOR": [
+  "Großer\nGeier"
+ ],
+ "IBIS": [
+  "Stelzvo-\ngel am\nNil"
+ ],
+ "REIHER": [
+  "Langbei-\nniger\nWatvo-\ngel"
+ ],
+ "KRANICH": [
+  "Zugvo-\ngel mit\nRuf"
+ ],
+ "STORCH": [
+  "Klapper-\nnder\nVogel"
+ ],
+ "KIEBITZ": [
+  "Wiesen-\nvogel\nmit\nHaube"
+ ],
+ "PIROL": [
+  "Gelber\nSingvo-\ngel"
+ ],
+ "AMMER": [
+  "Kleiner\nSingvo-\ngel"
+ ],
+ "FINK": [
+  "Kleiner\nSingvo-\ngel"
+ ],
+ "LERCHE": [
+  "Vogel\ndes\nMorgens"
+ ],
+ "DROSSEL": [
+  "Sing-\nvogelart"
+ ],
+ "SPECHT": [
+  "Vogel\nmit\nKlopfton"
+ ],
+ "EULE": [
+  "Nächtli-\ncher\nGreifvo-\ngel"
+ ],
+ "KAUZ": [
+  "Kleine\nEule"
+ ],
+ "FALKE": [
+  "Schnel-\nler\nGreifvo-\ngel"
+ ],
+ "MILAN": [
+  "Greifvo-\ngel mit\nGabel-\nschwanz"
+ ],
+ "BUSSARD": [
+  "Häufiger\nGreifvo-\ngel"
+ ],
+ "ALBATROS": [
+  "Großer\nSeevo-\ngel"
+ ],
+ "TOELPEL": [
+  "Seevo-\ngel mit\nSturz-\nflug"
+ ],
+ "MOEWE": [
+  "Vogel\nder\nKüste"
+ ],
+ "KORMORAN": [
+  "Tau-\nchender\nSeevo-\ngel"
+ ],
+ "PINGUIN": [
+  "Vogel\ndes\nSüdpols"
+ ],
+ "ROCHEN": [
+  "Flacher\nMeer-\nfisch"
+ ],
+ "MURAENE": [
+  "Aalarti-\nger\nRaub-\nfisch"
+ ],
+ "BARSCH": [
+  "Speise-\nfisch mit\nStacheln"
+ ],
+ "ZANDER": [
+  "Raub-\nfisch im\nSee"
+ ],
+ "HECHT": [
+  "Räuber\nim Teich"
+ ],
+ "KARPFEN": [
+  "Teich-\nfisch"
+ ],
+ "SCHLEIE": [
+  "Fisch im\nTeich-\ngrund"
+ ],
+ "FORELLE": [
+  "Fisch im\nBach"
+ ],
+ "LACHS": [
+  "Wan-\ndernder\nFisch"
+ ],
+ "HERING": [
+  "Fisch\naus der\nNordsee"
+ ],
+ "SARDINE": [
+  "Kleiner\nSpeise-\nfisch"
+ ],
+ "MAKRELE": [
+  "Fisch\nmit\nStreifen"
+ ],
+ "SCHOLLE": [
+  "Platt-\nfisch"
+ ],
+ "DORSCH": [
+  "Fisch\nder\nOstsee"
+ ],
+ "STINT": [
+  "Kleiner\nWander-\nfisch"
+ ],
+ "KAULQUAPPE": [
+  "Frosch-\nlarve"
+ ],
+ "MOLCH": [
+  "Kleiner\nLurch"
+ ],
+ "UNKE": [
+  "Kleiner\nFrosch-\nlurch"
+ ],
+ "NATTER": [
+  "Ungiftige\nSchlan-\nge"
+ ],
+ "VIPER": [
+  "Giftige\nSchlan-\nge"
+ ],
+ "LEGUAN": [
+  "Große\nEidech-\nse"
+ ],
+ "GECKO": [
+  "Haftende\nEidech-\nse"
+ ],
+ "CHAMAELEON": [
+  "Farb-\nwechs-\nler"
+ ],
+ "ZIKADE": [
+  "Zirpen-\ndes\nInsekt"
+ ],
+ "GRILLE": [
+  "Zirpen-\ndes\nInsekt"
+ ],
+ "LIBELLE": [
+  "Insekt\nam Teich"
+ ],
+ "HORNISSE": [
+  "Große\nWespen-\nart"
+ ],
+ "DROHNE": [
+  "Männ-\nliche\nBiene"
+ ],
+ "IMKER": [
+  "Bienen-\nhalter"
+ ],
+ "LARVE": [
+  "Früh-\nform des\nInsekts"
+ ],
+ "KOKON": [
+  "Hülle der\nRaupe"
+ ],
+ "GEWEIH": [
+  "Kopf-\nschmuck\ndes\nHirsches"
+ ],
+ "MAEHNE": [
+  "Nacken-\nhaar des\nLöwen"
+ ],
+ "ZOTTEL": [
+  "Struppi-\nges Haar"
+ ],
+ "REVIER": [
+  {
+   "c": "Jagd-\ngebiet",
+   "t": "JURA"
+  }
+ ],
+ "ENZIAN": [
+  "Blaue\nAlpen-\nblume"
+ ],
+ "EDELWEISS": [
+  "Blume\nder\nAlpen"
+ ],
+ "ARNIKA": [
+  "Heil-\npflanze\nder\nBerge"
+ ],
+ "BALDRIAN": [
+  "Beruhi-\ngende\nPflanze"
+ ],
+ "SALBEI": [
+  "Heilkraut\nim Tee"
+ ],
+ "THYMIAN": [
+  "Kraut\nder\nPro-\nvence"
+ ],
+ "BEIFUSS": [
+  "Würz-\nkraut zur\nGans"
+ ],
+ "KUEMMEL": [
+  "Gewürz\nim Brot"
+ ],
+ "KORIANDER": [
+  "Asiati-\nsches\nGewürz"
+ ],
+ "INGWER": [
+  "Scharfe\nWurzel"
+ ],
+ "KURKUMA": [
+  "Gelbe\nGewürz-\nwurzel"
+ ],
+ "MUSKAT": [
+  "Nussge-\nwürz"
+ ],
+ "NELKE": [
+  "Blume\nund\nGewürz"
+ ],
+ "SAFRAN": [
+  "Teuers-\ntes\nGewürz"
+ ],
+ "VANILLE": [
+  "Schote\nals\nGewürz"
+ ],
+ "ZIMT": [
+  "Gewürz-\nrinde"
+ ],
+ "KAPER": [
+  "Einge-\nlegte\nBlütenk-\nnospe"
+ ],
+ "OLIVE": [
+  "Frucht\nam\nMittel-\nmeer"
+ ],
+ "DATTEL": [
+  "Frucht\nder\nPalme"
+ ],
+ "FEIGE": [
+  "Süd-\nfrucht"
+ ],
+ "GRANATE": [
+  "... apfel:\nrote\nSüd-\nfrucht"
+ ],
+ "QUITTE": [
+  "Herbe\nGelb-\nfrucht"
+ ],
+ "MISPEL": [
+  "Herbst-\nobst"
+ ],
+ "HOLUNDER": [
+  "Strauch\nmit\nBeeren"
+ ],
+ "WACHOLDER": [
+  "Beere im\nGin"
+ ],
+ "SCHLEHE": [
+  "Herber\nWil-\ndobst-\nstrauch"
+ ],
+ "EIBE": [
+  "Giftiger\nNadel-\nbaum"
+ ],
+ "LAERCHE": [
+  "Nadel-\nbaum\nmit\nNadelfall"
+ ],
+ "ZEDER": [
+  "Baum im\nLibanon"
+ ],
+ "ULME": [
+  "Baum\nmit\nRüster-\nholz"
+ ],
+ "ESCHE": [
+  "Baum\nmit\nFieder-\nblatt"
+ ],
+ "ERLE": [
+  "Baum\nam\nBachufer"
+ ],
+ "LINDE": [
+  "Duften-\nder\nLaub-\nbaum"
+ ],
+ "PLATANE": [
+  "Baum\nmit\nRinden-\nfall"
+ ],
+ "AKAZIE": [
+  "Baum\nmit\nDornen"
+ ],
+ "MAGNOLIE": [
+  "Baum\nmit\ngroßen\nBlüten"
+ ],
+ "FLIEDER": [
+  "Duften-\nder\nZier-\nstrauch"
+ ],
+ "JASMIN": [
+  "Duften-\nder\nStrauch"
+ ],
+ "HORTENSIE": [
+  "Zierblu-\nme mit\nBall\nBlüte"
+ ],
+ "DAHLIE": [
+  "Herbst-\nblume\nder\nGärten"
+ ],
+ "ASTER": [
+  "Herbst-\nblume"
+ ],
+ "NARZISSE": [
+  "Früh-\nlings-\nblume"
+ ],
+ "KROKUS": [
+  "Früh-\nlings-\nblüher"
+ ],
+ "TULPE": [
+  "Blume\naus\nHolland"
+ ],
+ "LOTOS": [
+  "Heilige\nWasser-\nblume"
+ ],
+ "SEEROSE": [
+  "Blume\nauf dem\nTeich"
+ ],
+ "ALGE": [
+  "Wasser-\npflanze"
+ ],
+ "MOOS": [
+  "Pflanze\nam\nWaldbo-\nden"
+ ],
+ "FLECHTE": [
+  "Verbin-\ndung\naus Pilz\nund Alge"
+ ],
+ "TRUEFFEL": [
+  "Edelpilz\nunter der\nErde"
+ ],
+ "MORCHEL": [
+  "Früh-\nlings-\npilz"
+ ],
+ "PFIFFERLING": [
+  "Gelber\nSpeise-\npilz"
+ ],
+ "STEINPILZ": [
+  "Beliebter\nWaldpilz"
+ ],
+ "SMUTJE": [
+  "Schiffs-\nkoch"
+ ],
+ "PINNE": [
+  "Hebel\nam\nRuder"
+ ],
+ "HECK": [
+  "Hinterteil\ndes\nSchiffes"
+ ],
+ "KIEL": [
+  {
+   "c": "Feder\nzum\nSchrei-\nben",
+   "t": "BUECHER"
+  },
+  "Längs-\nbalken\nunten\nam Boot"
+ ],
+ "REELING": [
+  "Geländer\nan Deck"
+ ],
+ "KOMBUESE": [
+  "Küche\nan Bord"
+ ],
+ "KOJE": [
+  "Bett an\nBord"
+ ],
+ "LOGGE": [
+  "Fahrt-\nmesser\nan Bord"
+ ],
+ "PEILUNG": [
+  "Rich-\ntungs-\nmes-\nsung"
+ ],
+ "KOMPASS": [
+  "Gerät\nmit\nNadel"
+ ],
+ "SEXTANT": [
+  "Winkel-\nmesser\nder\nSeefahrt"
+ ],
+ "BAKE": [
+  "Seezei-\nchen an\nLand"
+ ],
+ "BOJE": [
+  "Schwim-\nmendes\nSeezei-\nchen"
+ ],
+ "MOLE": [
+  "Hafen-\nschutz-\nmauer"
+ ],
+ "PIER": [
+  "Anlege-\nsteg"
+ ],
+ "SCHOTT": [
+  "Trenn-\nwand im\nSchiff"
+ ],
+ "ANKER": [
+  "Halt am\nMeeres-\ngrund"
+ ],
+ "TROSSE": [
+  "Dickes\nSchiffs-\nseil"
+ ],
+ "WANTE": [
+  "Halte-\nseil des\nMastes"
+ ],
+ "FOCK": [
+  "Vorderes\nSegel"
+ ],
+ "SPINNAKER": [
+  "Bauchi-\nges\nVorsegel"
+ ],
+ "TAKELAGE": [
+  "Segel-\nwerk"
+ ],
+ "KUTTER": [
+  "Kleines\nFisch-\nschiff"
+ ],
+ "EWER": [
+  "Alter\nFracht-\nsegler"
+ ],
+ "BARKASSE": [
+  "Kleines\nHafen-\nboot"
+ ],
+ "JOLLE": [
+  "Kleines\nSegel-\nboot"
+ ],
+ "KATAMARAN": [
+  "Boot mit\nzwei\nRümpfen"
+ ],
+ "GALEERE": [
+  "Ruder-\nschiff\nder\nAntike"
+ ],
+ "FREGATTE": [
+  "Kriegs-\nschiff"
+ ],
+ "KARAVELLE": [
+  "Segler\ndes\nKolum-\nbus"
+ ],
+ "KLABAUTER": [
+  "Schiffs-\nkobold"
+ ],
+ "LOTSE": [
+  "Führer\nins\nFahr-\nwasser"
+ ],
+ "MAAT": [
+  "Unter-\noffizier\nzur See",
+  "Gehilfe\ndes\nKapitäns"
+ ],
+ "STEWARD": [
+  "Diener\nan Bord"
+ ],
+ "DECKHAND": [
+  "Matrose\nan Deck"
+ ],
+ "PROVIANT": [
+  "Vorrat\nan Bord"
+ ],
+ "KLAFTER": [
+  "Altes\nLängen-\nmaß"
+ ],
+ "MEILE": [
+  {
+   "c": "Weg-\nstrecke\nzur See",
+   "t": "REISEN"
+  }
+ ],
+ "KNOTEN": [
+  "Fahrt-\nmaß zur\nSee"
+ ],
+ "UNZE": [
+  "Maß des\nGoldes"
+ ],
+ "KARAT": [
+  "Maß für\nDiaman-\nten"
+ ],
+ "ZENTNER": [
+  "Fünfzig\nKilo"
+ ],
+ "MORGEN": [
+  "Altes\nFeldmaß"
+ ],
+ "HEKTAR": [
+  "Flächen-\nmaß des\nBauern"
+ ],
+ "LITER": [
+  "Maß für\nFlüssig-\nkeit"
+ ],
+ "BARREL": [
+  "Fass als\nÖlmaß"
+ ],
+ "DEZIBEL": [
+  "Maß der\nLautstär-\nke"
+ ],
+ "WATT": [
+  "Maß der\nLeistung"
+ ],
+ "VOLT": [
+  "Maß der\nSpan-\nnung"
+ ],
+ "HERTZ": [
+  "Maß der\nSchwin-\ngung"
+ ],
+ "KELVIN": [
+  "Maß der\nTempe-\nratur"
+ ],
+ "NEWTON": [
+  "Maß der\nKraft"
+ ],
+ "JOULE": [
+  "Maß der\nEnergie"
+ ],
+ "PASCAL": [
+  "Maß des\nDrucks"
+ ],
+ "KNAUF": [
+  "Griff an\nder Tür"
+ ],
+ "ANGEL": [
+  "Drehteil\nam\nTürband"
+ ],
+ "ZARGE": [
+  "Rahmen\nder Tür"
+ ],
+ "SIMS": [
+  "Vor-\nsprung\nam Bau"
+ ],
+ "GIEBEL": [
+  "Dreieck\nunter\ndem\nDach"
+ ],
+ "FIRST": [
+  "Oberste\nKante\ndes\nDaches"
+ ],
+ "SPARREN": [
+  "Balken\nim\nDach-\nstuhl"
+ ],
+ "TRAUFE": [
+  "Untere\nDach-\nkante"
+ ],
+ "GAUBE": [
+  "Dach-\nfenster\nmit\nAufbau"
+ ],
+ "ERKER": [
+  "Vorbau\nam Haus"
+ ],
+ "ARKADE": [
+  "Bogen-\ngang"
+ ],
+ "PORTAL": [
+  "Großes\nTor"
+ ],
+ "FRIES": [
+  "Zierband\nam Bau"
+ ],
+ "KAPITELL": [
+  "Kopf der\nSäule"
+ ],
+ "SOCKEL": [
+  "Unter-\nbau der\nSäule"
+ ],
+ "GEWOELBE": [
+  "Bogen-\ndecke"
+ ],
+ "KUPPEL": [
+  "Runde\nDach-\nform"
+ ],
+ "ZINNE": [
+  "Zacke\nder\nBurg-\nmauer"
+ ],
+ "BERGFRIED": [
+  "Turm der\nBurg"
+ ],
+ "ZUGBRUECKE": [
+  "Bewegli-\ncher\nZugang\nzur Burg"
+ ],
+ "BURGGRABEN": [
+  "Wasser\num die\nBurg"
+ ],
+ "MEISSEL": [
+  "Werk-\nzeug des\nStein-\nmetzen"
+ ],
+ "AHLE": [
+  "Werk-\nzeug\nzum\nStechen"
+ ],
+ "RASPEL": [
+  "Grobe\nFeile"
+ ],
+ "HOBEL": [
+  "Werk-\nzeug des\nSchrei-\nners"
+ ],
+ "ZWINGE": [
+  "Halte-\nwerk-\nzeug"
+ ],
+ "AMBOSS": [
+  "Unterla-\nge beim\nSchmie-\nden"
+ ],
+ "BLASEBALG": [
+  "Gerät für\nLuftzug"
+ ],
+ "SCHMELZE": [
+  "Flüssi-\nges\nMetall"
+ ],
+ "LEGIERUNG": [
+  "Mi-\nschung\naus\nMetallen"
+ ],
+ "MESSING": [
+  "Legie-\nrung aus\nKupfer\nund Zink"
+ ],
+ "BRONZE": [
+  "Legie-\nrung aus\nKupfer\nund Zinn"
+ ],
+ "ZINK": [
+  "Metall im\nMessing"
+ ],
+ "NICKEL": [
+  "Metall in\nMünzen"
+ ],
+ "CHROM": [
+  "Glänzen-\ndes\nMetall"
+ ],
+ "WOLFRAM": [
+  "Metall im\nGlüh-\ndraht"
+ ],
+ "PLATIN": [
+  "Edelme-\ntall"
+ ],
+ "ASBEST": [
+  "Feuer-\nfester\nFaser-\nstoff"
+ ],
+ "BASALT": [
+  "Dunkles\nVulkan-\ngestein"
+ ],
+ "GNEIS": [
+  "Schiefe-\nriges\nGestein"
+ ],
+ "MARMOR": [
+  "Stein der\nBildhau-\ner"
+ ],
+ "GRANIT": [
+  "Harter\nTiefen-\nstein"
+ ],
+ "KALKSTEIN": [
+  "Stein\naus\nMuschel-\nresten"
+ ],
+ "QUARZ": [
+  "Häufiges\nMineral"
+ ],
+ "GLIMMER": [
+  "Blättri-\nges\nMineral"
+ ],
+ "FELDSPAT": [
+  "Mineral\nim\nGranit"
+ ],
+ "BERNSTEIN": [
+  "Fossiles\nHarz"
+ ],
+ "OPAL": [
+  "Schil-\nlernder\nStein"
+ ],
+ "ONYX": [
+  "Dunkler\nZierstein"
+ ],
+ "JADE": [
+  "Grüner\nZierstein"
+ ],
+ "TOPAS": [
+  "Gelber\nEdel-\nstein"
+ ],
+ "BERYLL": [
+  "Mineral\nder\nSmarag-\nde"
+ ],
+ "ERDGAS": [
+  "Natür-\nlicher\nBrenn-\nstoff"
+ ],
+ "TORF": [
+  "Brenn-\nstoff aus\ndem\nMoor"
+ ],
+ "KOKS": [
+  "Brenn-\nstoff aus\nKohle"
+ ],
+ "BRIKETT": [
+  "Gepress-\nter\nBrenn-\nstoff"
+ ],
+ "PECH": [
+  "Zähes\nHarzpro-\ndukt"
+ ],
+ "LAUGE": [
+  "Gegen-\nteil der\nSäure"
+ ],
+ "SALPETER": [
+  "Stoff im\nSchieß-\npulver"
+ ],
+ "ATTEST": [
+  {
+   "c": "Ärztliche\nBeschei-\nnigung",
+   "t": "JURA"
+  }
+ ],
+ "APPELL": [
+  "Aufruf,\nBefehl"
+ ],
+ "IDEELL": [
+  "Nur\ngedank-\nlich"
+ ],
+ "POTENT": [
+  "Einfluss-\nreich,\nkräftig"
+ ],
+ "UNMUT": [
+  "Ärger"
+ ],
+ "OPTISCH": [
+  "Das\nSehen\nbetref-\nfend"
+ ],
+ "PHANTOM": [
+  "Trugbild,\nHirnge-\nspinst"
+ ],
+ "UMLEITUNG": [
+  "Stre-\ncken-\nverle-\ngung"
+ ],
+ "KAVALLERIE": [
+  "Reiterei"
+ ],
+ "ARMLEUCHTER": [
+  "Kerzen-\nhalter"
+ ],
+ "BEGEHRT": [
+  "Gefragt,\ngesucht"
+ ],
+ "ODIUM": [
+  "Übler\nBeige-\nschmack"
+ ],
+ "PLAEDOYER": [
+  "Schluss-\nrede"
+ ],
+ "ELOGE": [
+  "Lobrede"
+ ],
+ "TIRADE": [
+  "Wort-\nschwall"
+ ],
+ "DIATRIBE": [
+  "Scharfe\nStreit-\nschrift"
+ ],
+ "POLEMIK": [
+  "Scharfer\nStreit"
+ ],
+ "PAMPHLET": [
+  "Streit-\nschrift"
+ ],
+ "TRAKTAT": [
+  "Abhand-\nlung"
+ ],
+ "EXPOSE": [
+  "Kurze\nDarstel-\nlung"
+ ],
+ "RESUEMEE": [
+  "Zusam-\nmen-\nfassung"
+ ],
+ "FAZIT": [
+  "Schluss-\nfolge-\nrung"
+ ],
+ "CREDO": [
+  "Glau-\nbens-\nsatz"
+ ],
+ "DOGMA": [
+  "Starrer\nLehrsatz"
+ ],
+ "MAXIME": [
+  "Leitsatz"
+ ],
+ "DEVISE": [
+  "Wahl-\nspruch"
+ ],
+ "POSTULAT": [
+  "Forde-\nrung"
+ ],
+ "PRAEMISSE": [
+  "Voraus-\nsetzung"
+ ],
+ "THESE": [
+  "Behaup-\ntung"
+ ],
+ "ANTITHESE": [
+  "Gegen-\nbehaup-\ntung"
+ ],
+ "PLAUSIBEL": [
+  "Ein-\nleuch-\ntend"
+ ],
+ "EVIDENT": [
+  "Offen-\nsichtlich"
+ ],
+ "LATENT": [
+  "Verbor-\ngen\nvorhan-\nden"
+ ],
+ "IMMANENT": [
+  "Inne-\nwoh-\nnend"
+ ],
+ "MARGINAL": [
+  "Neben-\nbei, am\nRande"
+ ],
+ "RUDIMENTAER": [
+  "Nur in\nAnsät-\nzen"
+ ],
+ "SUBTIL": [
+  "Fein und\nschwer\nfassbar"
+ ],
+ "DEZENT": [
+  "Zurück-\nhaltend"
+ ],
+ "NOBEL": [
+  "Vornehm\nund\ngroß-\nzügig"
+ ],
+ "LIIERT": [
+  "Verbun-\nden"
+ ],
+ "KONZIS": [
+  "Knapp\nund\ngenau"
+ ],
+ "STRINGENT": [
+  "Zwin-\ngend\nfolge-\nrichtig"
+ ],
+ "KOHAERENT": [
+  "In sich\nstimmig"
+ ],
+ "DIFFUS": [
+  "Ver-\nschwom-\nmen"
+ ],
+ "VAGE": [
+  "Unbe-\nstimmt"
+ ],
+ "OBSKUR": [
+  "Zwielich-\ntig"
+ ],
+ "DUBIOS": [
+  "Zweifel-\nhaft"
+ ],
+ "PREKAER": [
+  "Heikel,\nunsicher"
+ ],
+ "FATAL": [
+  "Verhäng-\nnisvoll"
+ ],
+ "FAMOS": [
+  "Ausge-\nzeichnet"
+ ],
+ "KURIOS": [
+  "Sonder-\nbar"
+ ],
+ "BIZARR": [
+  "Seltsam\nverzerrt"
+ ],
+ "GROTESK": [
+  "Verzerrt\nkomisch"
+ ],
+ "SKURRIL": [
+  "Wunder-\nlich"
+ ],
+ "PIKANT": [
+  "Reizvoll\ngewürzt"
+ ],
+ "RUSTIKAL": [
+  "bäuer-\nlich\nschlicht"
+ ],
+ "NOSTALGIE": [
+  "Sehn-\nsucht\nnach\nfrüher"
+ ],
+ "MELANGE": [
+  "Mi-\nschung"
+ ],
+ "NUANCE": [
+  "Feiner\nUnter-\nschied"
+ ],
+ "FACETTE": [
+  "Teila-\nspekt"
+ ],
+ "SPEKTRUM": [
+  "Band-\nbreite"
+ ],
+ "KONTUR": [
+  "Umriss"
+ ],
+ "PROFIL": [
+  "Seiten-\nansicht"
+ ],
+ "SILHOUETTE": [
+  "Schat-\ntenriss"
+ ],
+ "RELIKT": [
+  "Über-\nbleibsel"
+ ],
+ "FRAGMENT": [
+  "Bruch-\nstück"
+ ],
+ "MAKEL": [
+  "Schön-\nheits-\nfehler"
+ ],
+ "MANKO": [
+  "Fehlbe-\ntrag"
+ ],
+ "DEFIZIT": [
+  "Fehl-\nbetrag"
+ ],
+ "SALDO": [
+  "Konto-\nstand"
+ ],
+ "KAUTION": [
+  "Sicher-\nheits-\nleistung"
+ ],
+ "TANTIEME": [
+  "Gewinn-\nanteil"
+ ],
+ "PROVISION": [
+  "Vermitt-\nlerlohn"
+ ],
+ "HONORAR": [
+  "Lohn\ndes\nFreibe-\nruflers"
+ ],
+ "SOLD": [
+  "Löhnung\nbeim\nMilitär"
+ ],
+ "OBOLUS": [
+  "Kleiner\nBeitrag"
+ ],
+ "ALIMENTE": [
+  "Unter-\nhalts-\ngeld"
+ ],
+ "ALMOSEN": [
+  "Milde\nGabe"
+ ],
+ "TRIBUT": [
+  "Abgabe\nan den\nSieger\nZOLL"
+ ],
+ "DIAETEN": [
+  "Bezüge\nim\nBundes-\ntag"
+ ],
+ "DEPUTAT": [
+  "Anteil\nals\nNatural-\nlohn"
+ ],
+ "PENSUM": [
+  "Zugewie-\nsene\nArbeit"
+ ],
+ "DOMAENE": [
+  "Fachge-\nbiet"
+ ],
+ "METIER": [
+  "Berufs-\nfeld"
+ ],
+ "NOVIZE": [
+  "Neuling\nim\nKloster"
+ ],
+ "ADEPT": [
+  "Einge-\nweihter\nSchüler"
+ ],
+ "ELEVE": [
+  "Zögling"
+ ],
+ "MENTOR": [
+  "Erfahre-\nner\nBerater"
+ ],
+ "NESTOR": [
+  "Ältester\neines\nFachs"
+ ],
+ "DOYEN": [
+  "Rang-\nhöch-\nster im\nAmt"
+ ],
+ "EMERITUS": [
+  "Profes-\nsor im\nRuhe-\nstand"
+ ],
+ "LAIE": [
+  "Nicht-\nfach-\nmann"
+ ],
+ "DILETTANT": [
+  "Ungeüb-\nter\nLiebha-\nber"
+ ],
+ "VIRTUOSE": [
+  "Meister\nseines\nFachs"
+ ],
+ "KORYPHAEE": [
+  "Berühm-\nter\nFach-\nmann"
+ ],
+ "AUTODIDAKT": [
+  "Selbst-\nlerner"
+ ],
+ "PROTEGE": [
+  "Schütz-\nling"
+ ],
+ "FAKTOTUM": [
+  "Mädchen\nfür alles"
+ ],
+ "ADLATUS": [
+  "Gehilfe"
+ ],
+ "EMISSAER": [
+  "Heimli-\ncher\nAbge-\nsandter"
+ ],
+ "KURIER": [
+  "Über-\nbringer"
+ ],
+ "NUNTIUS": [
+  "Bot-\nschafter\ndes\nVatikans"
+ ],
+ "ATTACHE": [
+  "Bot-\nschafts-\nmitarbei-\nter"
+ ],
+ "KONSUL": [
+  "Vertreter\nim\nAusland"
+ ],
+ "DEPESCHE": [
+  "Eilige\nNach-\nricht"
+ ],
+ "KOMMUNIQUE": [
+  "Amtliche\nMittei-\nlung"
+ ],
+ "BULLETIN": [
+  "Amtli-\ncher\nBericht"
+ ],
+ "DOSSIER": [
+  "Akten-\nbündel"
+ ],
+ "MEMORANDUM": [
+  "Denk-\nschrift"
+ ],
+ "PROTOKOLL": [
+  "Nieder-\nschrift"
+ ],
+ "KODEX": [
+  "Geset-\nzes-\nsamm-\nlung"
+ ],
+ "ANNALEN": [
+  "Jahrbü-\ncher"
+ ],
+ "CHRONIK": [
+  "Werk zur\nZeitge-\nschichte"
+ ],
+ "KOMPENDIUM": [
+  "Kurzge-\nfasstes\nHand-\nbuch"
+ ],
+ "GLOSSAR": [
+  "Wörter-\nverzeich-\nnis"
+ ],
+ "INDEX": [
+  "Sachre-\ngister"
+ ],
+ "HADES": [
+  "Reich\nder\nToten"
+ ],
+ "STYX": [
+  "Fluss\nder\nUnter-\nwelt"
+ ],
+ "CHARON": [
+  "Fähr-\nmann\nder\nToten"
+ ],
+ "ZERBERUS": [
+  "Hund\nder\nUnter-\nwelt"
+ ],
+ "ORAKEL": [
+  "Weissa-\ngung in\nDelphi"
+ ],
+ "NEKTAR": [
+  "Trank\nder\nGötter",
+  "Süßer\nSaft der\nBlüte"
+ ],
+ "AMBROSIA": [
+  "Speise\nder\nGötter"
+ ],
+ "OLYMP": [
+  "Sitz der\ngriechi-\nschen\nGötter"
+ ],
+ "TITAN": [
+  "Riese\nder Sage"
+ ],
+ "ZYKLOP": [
+  "Riese\nmit\neinem\nAuge"
+ ],
+ "HYDRA": [
+  "Vielköp-\nfiges\nUnge-\nheuer"
+ ],
+ "SPHINX": [
+  "Rätsel-\nwesen"
+ ],
+ "ZENTAUR": [
+  "Halb\nMensch\nhalb\nPferd"
+ ],
+ "FAUN": [
+  "Wald-\ngeist der\nRömer"
+ ],
+ "NYMPHE": [
+  "Geist der\nQuelle"
+ ],
+ "MUSE": [
+  "Göttin\nder\nKunst"
+ ],
+ "PARZE": [
+  "Schick-\nsals-\ngöttin"
+ ],
+ "NORNE": [
+  "Schick-\nsalsfrau\nder Edda"
+ ],
+ "WALKUERE": [
+  "Kriege-\nrin der\nEdda"
+ ],
+ "ODIN": [
+  "Höchster\nGott im\nNorden"
+ ],
+ "LOKI": [
+  "Listiger\nGott der\nEdda"
+ ],
+ "ASEN": [
+  "Götter-\nsippe im\nNorden"
+ ],
+ "EDDA": [
+  "Nordi-\nsches\nSagen-\nwerk"
+ ],
+ "RUNE": [
+  "Altes\nSchrift-\nzeichen"
+ ],
+ "DRUIDE": [
+  "Kelti-\nscher\nPriester"
+ ],
+ "BARDE": [
+  "Sänger\nder\nKelten"
+ ],
+ "SKALDE": [
+  "Nordi-\nscher\nDichter"
+ ],
+ "MINNE": [
+  "Höfische\nLiebe"
+ ],
+ "FEHDE": [
+  "Streit im\nMittelal-\nter"
+ ],
+ "VASALL": [
+  "Lehns-\nmann"
+ ],
+ "LEHEN": [
+  "Gut zur\nNutzung"
+ ],
+ "ZUNFT": [
+  "Verband\nder\nHand-\nwerker"
+ ],
+ "GILDE": [
+  "Kauf-\nmanns-\nbund"
+ ],
+ "HANSE": [
+  "Alter\nStädte-\nbund"
+ ],
+ "KONTOR": [
+  "Handels-\nnieder-\nlassung"
+ ],
+ "DUKAT": [
+  "Alte\nGold-\nmünze"
+ ],
+ "TALER": [
+  "Alte\nSilber-\nmünze"
+ ],
+ "GULDEN": [
+  "Alte\nMünze"
+ ],
+ "HELLER": [
+  "Kleine\nalte\nMünze"
+ ],
+ "GROSCHEN": [
+  "Kleines\nGelds-\ntück"
+ ],
+ "SESTERZ": [
+  "Münze\nder\nRömer"
+ ],
+ "DRACHME": [
+  "Altes\nGeld in\nAthen"
+ ],
+ "RUPIE": [
+  "Währung\nin Indien"
+ ],
+ "PESO": [
+  "Währung\nin\nMexiko"
+ ],
+ "FORINT": [
+  "Währung\nin\nUngarn"
+ ],
+ "ZLOTY": [
+  "Währung\nin Polen"
+ ],
+ "KUNA": [
+  "Früheres\nGeld in\nKroatien"
+ ],
+ "KAFTAN": [
+  "Langes\nGewand\ndes\nOrients"
+ ],
+ "TURBAN": [
+  "Kopf-\nbede-\nckung"
+ ],
+ "SARI": [
+  "Gewand\nder\nInderin"
+ ],
+ "KIMONO": [
+  "Japani-\nsches\nGewand"
+ ],
+ "PONCHO": [
+  "Umhang\nSüda-\nmerikas"
+ ],
+ "TOGA": [
+  "Gewand\nder\nRömer"
+ ],
+ "TUNIKA": [
+  "Antikes\nUnterge-\nwand"
+ ],
+ "KUTTE": [
+  "Gewand\ndes\nMönchs"
+ ],
+ "TALAR": [
+  {
+   "c": "Amts-\ntracht\nder\nRichter",
+   "t": "JURA"
+  }
+ ],
+ "LIVREE": [
+  "Diener-\nkleid"
+ ],
+ "JABOT": [
+  "Rüsche\nam\nHemd"
+ ],
+ "MANSCHETTE": [
+  "Ärmel-\nab-\nschluss"
+ ],
+ "REVERS": [
+  "Auf-\nschlag\nam\nJackett"
+ ],
+ "SAUM": [
+  "Rand\ndes\nStoffes"
+ ],
+ "BORTE": [
+  "Zierband\nam Stoff"
+ ],
+ "BROKAT": [
+  "Schwe-\nrer\nSeiden-\nstoff"
+ ],
+ "DAMAST": [
+  "Gemus-\nterter\nGewebe-\nstoff"
+ ],
+ "CHIFFON": [
+  "Dünner\nSeiden-\nstoff"
+ ],
+ "BATIST": [
+  "Feines\nBaum-\nwoll-\ngewebe"
+ ],
+ "LEINEN": [
+  "Stoff aus\nFlachs"
+ ],
+ "JUTE": [
+  "Faser für\nSäcke"
+ ],
+ "SISAL": [
+  "Faser für\nSeile"
+ ],
+ "FILZ": [
+  "Verdich-\ntete\nWolle"
+ ],
+ "LODEN": [
+  "Grober\nWollstoff"
+ ],
+ "TWEED": [
+  "Rauer\nWollstoff"
+ ],
+ "CORD": [
+  "Stoff mit\nRippen"
+ ],
+ "SAMT": [
+  "Weicher\nStoff mit\nFlor"
+ ],
+ "GOBELIN": [
+  "Gewirk-\nter\nWand-\nteppich"
+ ],
+ "KELIM": [
+  "Orienta-\nlischer\nTeppich"
+ ],
+ "KARAFFE": [
+  "Gefäß\nfür Wein"
+ ],
+ "POKAL": [
+  "Trinkge-\nfäß mit\nFuß"
+ ],
+ "HUMPEN": [
+  "Großes\nTrinkge-\nfäß"
+ ],
+ "KRUG": [
+  "Bauchi-\nges\nTrinkge-\nfäß"
+ ],
+ "KELCH": [
+  "Gefäß\ndes\nAltars"
+ ],
+ "AMPHORE": [
+  "Antikes\nTonge-\nfäß"
+ ],
+ "URNE": [
+  "Gefäß\nfür\nAsche"
+ ],
+ "VITRINE": [
+  "Schau-\nkasten"
+ ],
+ "KOMMODE": [
+  "Möbel\nmit\nSchubla-\nden"
+ ],
+ "SEKRETAER": [
+  "Schreib-\nmöbel"
+ ],
+ "TRUHE": [
+  "Kasten\nmit\nDeckel"
+ ],
+ "CHAISE": [
+  "Leichter\nWagen"
+ ],
+ "KUTSCHE": [
+  "Wagen\nmit\nPferden"
+ ],
+ "DROSCHKE": [
+  "Mietwa-\ngen von\nfrüher"
+ ],
+ "KAROSSE": [
+  "Prunk-\nwagen"
+ ],
+ "SCHLITTEN": [
+  "Fahr-\nzeug auf\nKufen"
+ ],
+ "GONDEL": [
+  "Boot in\nVenedig"
+ ],
+ "RIKSCHA": [
+  "Zweirad-\nkarren in\nAsien"
+ ],
+ "KARAWANE": [
+  "Zug\ndurch\ndie\nWüste"
+ ],
+ "OASE": [
+  "Grüne\nStelle in\nder\nWüste"
+ ],
+ "FATA": [
+  "...\nMorga-\nna:\nTrugbild",
+  "Morgana\nim\nWüsten-\nsand"
+ ],
+ "DUENE": [
+  "Sandhü-\ngel"
+ ],
+ "GEYSIR": [
+  "Heiße\nSpring-\nqülle"
+ ],
+ "FJORD": [
+  "Meeres-\narm im\nNorden"
+ ],
+ "GLETSCHER": [
+  "Ewiges\nEis im\nGebirge"
+ ],
+ "LAWINE": [
+  "Schnee-\nsturz"
+ ],
+ "MURE": [],
+ "MONSUN": [
+  "Regen-\nzeit-\nwind"
+ ],
+ "PASSAT": [
+  "Bestän-\ndiger\nSeewind"
+ ],
+ "FOEHN": [
+  "Warmer\nFallwind"
+ ],
+ "ORKAN": [
+  "Sturm\nder\nstärks-\nten Art"
+ ],
+ "TAIFUN": [
+  "Wirbel-\nsturm in\nAsien"
+ ],
+ "ZYKLON": [
+  "Wirbel-\nsturm"
+ ],
+ "TORNADO": [
+  "Wirbel-\nsturm in\nAmerika"
+ ],
+ "KORONA": [
+  "Strahlen-\nkranz\nder\nSonne"
+ ],
+ "ZENIT": [
+  "Höchster\nStand"
+ ],
+ "NADIR": [
+  "Fuß-\npunkt\nam\nHimmel"
+ ],
+ "AEQUATOR": [
+  "Gürtel-\nlinie der\nErde"
+ ],
+ "MERIDIAN": [
+  "Längen-\nkreis"
+ ],
+ "POLARIS": [
+  "Nords-\ntern"
+ ],
+ "KOMET": [
+  "Schweif-\nstern"
+ ],
+ "METEOR": [
+  "Stern-\nsch-\nnuppe"
+ ],
+ "QUASAR": [
+  "Fernes\nleuch-\ntendes\nObjekt"
+ ],
+ "PULSAR": [
+  "Rotie-\nrender\nStern-\nrest"
+ ],
+ "NOVA": [
+  "Neuer\nheller\nStern"
+ ],
+ "LAPPE": [
+  "Volk im\nhohen\nNorden"
+ ],
+ "INUIT": [
+  "Volk der\nArktis"
+ ],
+ "MAORI": [
+  "Urein-\nwohner\nNeusee-\nlands"
+ ],
+ "AZTEKE": [
+  "Alter\nBewoh-\nner\nMexikos",
+  "Mann\naus\naltem\nMexiko"
+ ],
+ "INKA": [
+  "Altes\nVolk in\nPeru"
+ ],
+ "MAYA": [
+  "Altes\nVolk in\nYucatan"
+ ],
+ "TUAREG": [
+  "Volk der\nSahara"
+ ],
+ "BEDUINE": [
+  "Nomade\nder\nWüste"
+ ],
+ "NOMADE": [
+  "Wan-\ndernder\nHirte"
+ ],
+ "PYGMAEE": [
+  "Kleines\nVolk\nAfrikas"
+ ],
+ "SUEDSEE": [
+  "Meer bei\nden\nFidschi-\ninseln"
+ ],
+ "ESSE": [
+  "Schmie-\ndefeuer"
+ ],
+ "ZEREBRUM": [
+  "Großhirn"
+ ],
+ "SCHLAEFE": [
+  "Stelle\nneben\ndem\nAuge"
+ ],
+ "NETZHAUT": [
+  "Innen-\nschicht\ndes\nAuges"
+ ],
+ "HORNHAUT": [
+  "Vordere\nSchicht\ndes\nAuges"
+ ],
+ "PUPILLE": [
+  "Öffnung\nin der\nIris"
+ ],
+ "IRIS": [
+  "Regen-\nbogen-\nhaut"
+ ],
+ "TRAENE": [
+  "Tropfen\nbeim\nWeinen"
+ ],
+ "WIMPER": [
+  "Haar am\nLid"
+ ],
+ "SPEICHEL": [
+  "Flüssig-\nkeit im\nMund"
+ ],
+ "GAUMEN": [
+  "Dach der\nMund-\nhöhle"
+ ],
+ "KEHLE": [
+  "Weg der\nStimme"
+ ],
+ "LUFTROEHRE": [
+  "Weg zur\nLunge"
+ ],
+ "BRONCHIE": [
+  "Ast der\nLuftröh-\nre"
+ ],
+ "SEHNE": [
+  "Band am\nMuskel"
+ ],
+ "KNORPEL": [
+  "Weiches\nStützge-\nwebe"
+ ],
+ "WIRBEL": [
+  "Baustein\ndes\nRück-\ngrats"
+ ],
+ "BECKEN": [
+  "Kno-\nchenring\nder\nHüfte"
+ ],
+ "SCHIENBEIN": [
+  "Knochen\nvorn am\nBein"
+ ],
+ "WADE": [
+  "Muskel\nhinten\nam Bein"
+ ],
+ "FERSE": [
+  "Hinterer\nTeil des\nFußes"
+ ],
+ "DAUMEN": [
+  "Kürzes-\nter\nFinger"
+ ],
+ "ELLBOGEN": [
+  "Gelenk\nam Arm"
+ ],
+ "NIERE": [
+  "Bohnen-\nförmiges\nOrgan"
+ ],
+ "LEBER": [
+  "Größte\nDrüse"
+ ],
+ "MILZ": [
+  "Organ\nlinks im\nBauch"
+ ],
+ "DRUESE": [
+  "Abson-\nderndes\nOrgan"
+ ],
+ "HORMON": [
+  "Boten-\nstoff im\nKörper"
+ ],
+ "ENZYM": [
+  "Be-\nschleu-\nniger im\nKörper"
+ ],
+ "ZELLKERN": [
+  "Steuer-\nzentrale\nder Zelle"
+ ],
+ "IMPFUNG": [
+  "Schutz\ndurch\nSpritze"
+ ],
+ "SERUM": [
+  {
+   "c": "Blutflüs-\nsigkeit\nohne\nZellen",
+   "t": "KOSMETIK"
+  }
+ ],
+ "PULS": [
+  "Schlag\nder\nSchlag-\nader"
+ ],
+ "FIEBER": [
+  "Erhöhte\nKörper-\nwärme"
+ ],
+ "NARBE": [
+  "Spur\neiner\nWunde"
+ ],
+ "BLASE": [
+  "Beule\nmit\nFlüssig-\nkeit"
+ ],
+ "KRAMPF": [
+  "Enge im\nMuskel"
+ ],
+ "SCHNUPFEN": [
+  "Erkäl-\ntung der\nNase"
+ ],
+ "HUSTEN": [
+  "Reiz in\nden\nBronchi-\nen"
+ ],
+ "MIGRAENE": [
+  "Anfalls-\nweiser\nKopf-\nschmerz"
+ ],
+ "ALLERGIE": [
+  "Über-\nempfind-\nlichkeit"
+ ],
+ "DIAGNOSE": [
+  "Erken-\nnen der\nKrank-\nheit"
+ ],
+ "REZEPT": [
+  "Zettel\nvom Arzt"
+ ],
+ "SALBE": [
+  "Streich-\nbares\nHeilmit-\ntel"
+ ],
+ "TROPFEN": [
+  "Flüssige\nArznei"
+ ],
+ "PFLASTER": [
+  "Klebe-\nverband"
+ ],
+ "BINDE": [
+  "Streifen\nfür die\nWunde"
+ ],
+ "GIPS": [
+  "Fester\nVerband"
+ ],
+ "BAHRE": [
+  "Trage für\nKranke"
+ ],
+ "KLINIK": [
+  "Haus der\nHeilung"
+ ],
+ "LAZARETT": [
+  "Kranken-\nhaus der\nTruppe",
+  "Feld-\nkranken-\nhaus"
+ ],
+ "MASSAGE": [
+  "Kneten-\nde\nBehand-\nlung"
+ ],
+ "DIAET": [
+  "Be-\nstimmte\nKost-\nform"
+ ],
+ "KALORIE": [
+  "Maß der\nNah-\nrungs-\nenergie"
+ ],
+ "VITAMIN": [
+  "Wichti-\nger\nNähr-\nstoff"
+ ],
+ "EIWEISS": [
+  "Baustoff\nder\nNahrung"
+ ],
+ "GLUKOSE": [
+  "Trauben-\nzucker"
+ ],
+ "LAKTOSE": [
+  "Milchzu-\ncker"
+ ],
+ "HEFE": [
+  "Pilz zum\nBacken"
+ ],
+ "SAUERTEIG": [
+  "Ansatz\nfür\ndunkles\nBrot"
+ ],
+ "KRUSTE": [
+  "Harte\nBrotrin-\nde"
+ ],
+ "KRUEMEL": [
+  "Kleines\nBröck-\nchen"
+ ],
+ "BAGUETTE": [
+  "Langes\nWeißbrot"
+ ],
+ "BREZEL": [
+  "Laugen-\ngebäck"
+ ],
+ "STRUDEL": [
+  "Gerollter\nKuchen"
+ ],
+ "BAISER": [
+  "Gebäck\naus\nEi-\nschnee"
+ ],
+ "MARZIPAN": [
+  "Masse\naus\nMandeln"
+ ],
+ "NOUGAT": [
+  "Süße\nNuss-\nmasse"
+ ],
+ "KARAMELL": [
+  "Ge-\nbrannter\nZucker"
+ ],
+ "PRALINE": [
+  "Kleine\nSchoko-\nlade"
+ ],
+ "KAKAO": [
+  "Getränk\naus\nBohnen"
+ ],
+ "ESPRESSO": [
+  "Starker\nkurzer\nKaffee"
+ ],
+ "MOKKA": [
+  "Feiner\nKaffee"
+ ],
+ "LATTE": [
+  "Kaffee\nmit viel\nMilch"
+ ],
+ "TEEBEUTEL": [
+  "Portion\nzum\nZiehen"
+ ],
+ "KAMILLE": [
+  "Blume\nfür den\nTee"
+ ],
+ "PFEFFERMINZ": [
+  "Frische\nTeesorte"
+ ],
+ "LIMONADE": [
+  "Süßes\nSprudel-\ngetränk"
+ ],
+ "SIRUP": [
+  "Dicker\nFrucht-\nsaft"
+ ],
+ "MOST": [
+  "Frisch\ngepress-\nter Saft"
+ ],
+ "CIDRE": [
+  "Wein\naus\nÄpfeln"
+ ],
+ "RIESLING": [
+  "Weiße\nRebsorte"
+ ],
+ "MERLOT": [
+  "Rote\nRebsorte"
+ ],
+ "WINZER": [
+  "Bauer im\nWein-\nberg"
+ ],
+ "KELTER": [
+  "Presse\nfür\nTrauben"
+ ],
+ "FASSBIER": [
+  "Bier vom\nZapf-\nhahn"
+ ],
+ "MALZ": [
+  "Gekeim-\ntes\nGetreide"
+ ],
+ "HOPFEN": [
+  "Bittere\nBier-\npflanze"
+ ],
+ "BRAUEREI": [
+  "Werk-\nstatt des\nBieres"
+ ],
+ "DESTILLE": [
+  "Kleine\nBrenne-\nrei"
+ ],
+ "FLEISCHER": [
+  "Hand-\nwerker\nmit\nWurst"
+ ],
+ "BAECKER": [
+  "Hand-\nwerker\nam Ofen"
+ ],
+ "KONDITOR": [
+  "Fach-\nmann für\nTorten"
+ ],
+ "KOCHLOEFFEL": [
+  "Gerät\nzum\nRühren"
+ ],
+ "SIEB": [
+  "Gerät\nzum\nAbgie-\nßen"
+ ],
+ "QUIRL": [
+  "Gerät\nzum\nSchla-\ngen"
+ ],
+ "REIBE": [
+  "Gerät\nzum\nZerklei-\nnern"
+ ],
+ "MOERSER": [
+  "Schale\nzum\nZersto-\nßen"
+ ],
+ "KELLE": [
+  "Großer\nSchöpf-\nlöffel"
+ ],
+ "BRAETER": [
+  "Topf für\nden Ofen"
+ ],
+ "WOK": [
+  "Pfanne\naus\nAsien"
+ ],
+ "KESSEL": [
+  "Großer\nTopf"
+ ],
+ "DECKEL": [
+  "Ver-\nschluss\ndes\nTopfes"
+ ],
+ "SCHUERZE": [
+  "Schutz\nbeim\nKochen"
+ ],
+ "TOPFLAPPEN": [
+  "Schutz\nfür die\nHand"
+ ],
+ "BESEN": [
+  {
+   "c": "Flugmit-\ntel der\nHexe",
+   "t": "HARZ"
+  },
+  "Gerät\nzum\nKehren"
+ ],
+ "KEHRBLECH": [
+  "Helfer\nbeim\nFegen"
+ ],
+ "EIMER": [
+  "Gefäß\nmit\nHenkel"
+ ],
+ "WISCHMOPP": [
+  "Gerät für\nden\nBoden"
+ ],
+ "STAUBTUCH": [
+  "Helfer\nbeim\nPutzen"
+ ],
+ "BUEGELEISEN": [
+  "Gerät\ngegen\nFalten"
+ ],
+ "WAESCHELEINE": [
+  "Seil zum\nTrock-\nnen"
+ ],
+ "KLAMMER": [
+  "Halter\nfür\nWäsche"
+ ],
+ "NAEHNADEL": [
+  "Werk-\nzeug mit\nÖhr"
+ ],
+ "FINGERHUT": [
+  "Schutz\nbeim\nNähen"
+ ],
+ "GARN": [
+  "Zwirn\nzum\nNähen"
+ ],
+ "KNOPFLOCH": [
+  "Schlitz\nim Hemd"
+ ],
+ "REISSVERSCHLUSS": [
+  "Schlie-\nßer mit\nZähnen"
+ ],
+ "BUEGEL": [
+  "Halter\nfür\nKleider"
+ ],
+ "REGAL": [
+  "Möbel\nmit\nBöden"
+ ],
+ "HOCKER": [
+  "Sitz\nohne\nLehne"
+ ],
+ "LIEGE": [
+  "Möbel\nzum\nRuhen"
+ ],
+ "DAUNE": [
+  "Weiche\nFeder"
+ ],
+ "MATRATZE": [
+  "Auflage\nim Bett"
+ ],
+ "KISSEN": [
+  "Stütze\nfür den\nKopf"
+ ],
+ "TEPPICH": [
+  "Belag\nauf dem\nBoden"
+ ],
+ "GARDINE": [
+  "Stoff am\nFenster"
+ ],
+ "JALOUSIE": [
+  "Schutz\nmit\nLamellen"
+ ],
+ "KAMIN": [
+  "Feuer-\nstelle im\nZimmer"
+ ],
+ "OFENROHR": [
+  "Abzug\nam Ofen"
+ ],
+ "KACHEL": [
+  "Platte an\nder\nWand"
+ ],
+ "FLIESE": [
+  "Belag im\nBad"
+ ],
+ "ARMATUR": [
+  "Hahn am\nWasch-\nbecken"
+ ],
+ "DUSCHKOPF": [
+  "Brause\nim Bad"
+ ],
+ "SPIEGEL": [
+  "Glas\nzum\nBetrach-\nten"
+ ],
+ "STECKDOSE": [
+  "An-\nschluss\nan der\nWand"
+ ],
+ "SICHERUNG": [
+  "Schutz\nim\nStrom-\nkasten"
+ ],
+ "GLUEHBIRNE": [
+  "Alte\nLicht-\nquelle"
+ ],
+ "LAMPENSCHIRM": [
+  "Hülle\nüber der\nBirne"
+ ],
+ "KERZE": [
+  {
+   "c": "Wachs-\nlicht mit\nDocht",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "STREICHHOLZ": [
+  "Kleiner\nZünder"
+ ],
+ "FEUERZEUG": [
+  "Gerät\nmit\nFlamme"
+ ],
+ "ASCHENBECHER": [
+  "Schale\nfür\nKippen"
+ ],
+ "SCHLUESSELBUND": [
+  "Ring am\nHausbe-\nsitzer"
+ ],
+ "TUERKLINKE": [
+  "Griff\nzum\nÖffnen"
+ ],
+ "BRIEFKASTEN": [
+  "Behälter\nfür Post"
+ ],
+ "KLINGEL": [
+  "Signal\nam Rad"
+ ],
+ "TREPPENHAUS": [
+  "Weg\nnach\noben"
+ ],
+ "DACHBODEN": [
+  "Raum\nunter\ndem\nDach"
+ ],
+ "KELLER": [
+  "Raum\nunter\ndem\nHaus"
+ ],
+ "GARAGE": [
+  "Unter-\nstand für\ndas Auto"
+ ],
+ "CARPORT": [
+  "Offener\nAutoun-\nterstand"
+ ],
+ "ZAUN": [
+  "Grenze\nam\nGrunds-\ntück"
+ ],
+ "HECKE": [
+  "Grüne\nGrenze"
+ ],
+ "RASEN": [
+  "Kurzes\nGrün im\nGarten"
+ ],
+ "BEET": [
+  "Fläche\nfür\nBlumen"
+ ],
+ "GIESSKANNE": [
+  "Gefäß\nmit Tülle"
+ ],
+ "SCHAUFEL": [
+  "Gerät\nzum\nGraben"
+ ],
+ "HARKE": [
+  "Gerät\nmit\nZinken"
+ ],
+ "SCHUBKARRE": [
+  "Wagen\nmit\neinem\nRad"
+ ],
+ "KOMPOST": [
+  "Haufen\nfür\nGarten-\nabfall"
+ ],
+ "LAUBE": [
+  "Häus-\nchen im\nGarten"
+ ],
+ "GEWAECHSHAUS": [
+  "Glas-\nhaus für\nPflanzen"
+ ],
+ "VOGELHAUS": [
+  "Futter-\nplatz im\nWinter"
+ ],
+ "NISTKASTEN": [
+  "Woh-\nnung für\nVögel"
+ ],
+ "SCHUPPEN": [
+  "Kleines\nNeben-\ngebäude"
+ ],
+ "LEITER": [
+  "Hilfe\nnach\noben"
+ ],
+ "HAMMER": [
+  "Werk-\nzeug für\nNägel"
+ ],
+ "ZANGE": [
+  "Werk-\nzeug\nzum\nGreifen"
+ ],
+ "SCHRAUBER": [
+  "Werk-\nzeug mit\nBit"
+ ],
+ "DUEBEL": [
+  "Halt in\nder\nWand"
+ ],
+ "WASSERWAAGE": [
+  "Prüfge-\nrät für\nGerades"
+ ],
+ "ZOLLSTOCK": [
+  "Faltba-\nres\nMessge-\nrät"
+ ],
+ "SCHRAUBSTOCK": [
+  "Halter\nauf der\nWerk-\nbank"
+ ],
+ "SAEGEBLATT": [
+  "Zahnteil\nam\nWerk-\nzeug"
+ ],
+ "BOHRER": [
+  "Werk-\nzeug für\nLöcher"
+ ],
+ "PINSEL": [
+  "Gerät\nzum\nStrei-\nchen"
+ ],
+ "WALZE": [
+  "Rolle\nzum\nStrei-\nchen"
+ ],
+ "LACK": [
+  "Glänzen-\nder\nAnstrich"
+ ],
+ "TAPETE": [
+  "Papier\nan der\nWand"
+ ],
+ "KLEISTER": [
+  "Kleber\nfür\nTapeten"
+ ],
+ "KITT": [
+  "Masse\nzum\nAbdich-\nten"
+ ],
+ "MOERTEL": [
+  "Binde-\nmittel\nam Bau"
+ ],
+ "ZEMENT": [
+  "Pulver\nfür\nBeton"
+ ],
+ "KIES": [
+  "Grobe\nStein-\nchen"
+ ],
+ "SCHOTTER": [
+  "Grober\nSteinbe-\nlag"
+ ],
+ "BAGGER": [
+  "Maschi-\nne zum\nGraben"
+ ],
+ "KRAN": [
+  "Maschi-\nne zum\nHeben"
+ ],
+ "GERUEST": [
+  "Gestell\nam\nRohbau"
+ ],
+ "POLIER": [
+  "Vorar-\nbeiter\nam Bau"
+ ],
+ "ARCHITEKT": [
+  "Planer\ndes\nHauses"
+ ],
+ "GRUNDRISS": [
+  "Plan von\noben"
+ ],
+ "BAUPLAN": [
+  "Zeich-\nnung\ndes\nHauses"
+ ],
+ "RICHTFEST": [
+  "Feier am\nRohbau"
+ ],
+ "LENKRAD": [
+  "Steuer\nim Auto"
+ ],
+ "KUPPLUNG": [
+  "Pedal\nbeim\nSchalten"
+ ],
+ "BLINKER": [
+  "Anzeiger\nder\nRichtung"
+ ],
+ "SCHEIBENWISCHER": [
+  "Helfer\nbei\nRegen"
+ ],
+ "KOFFERRAUM": [
+  "Stau-\nraum im\nAuto"
+ ],
+ "AUSPUFF": [
+  "Rohr für\nAbgase"
+ ],
+ "ZUENDKERZE": [
+  "Funken-\ngeber im\nMotor"
+ ],
+ "GETRIEBE": [
+  "Teil mit\nden\nGängen"
+ ],
+ "BREMSE": [
+  "Halt für\ndas Rad"
+ ],
+ "REIFEN": [
+  "Gummi\nauf der\nFelge"
+ ],
+ "FELGE": [
+  "Rad\nohne\nGummi"
+ ],
+ "TACHO": [
+  "Anzeige\ndes\nTempos"
+ ],
+ "TANKSTELLE": [
+  "Halt zum\nAuftan-\nken"
+ ],
+ "STAU": [
+  "Stocken-\nder\nVerkehr"
+ ],
+ "KREISEL": [
+  "Runde\nKreu-\nzung"
+ ],
+ "AMPEL": [
+  "Signal\nan der\nKreu-\nzung"
+ ],
+ "ZEBRASTREIFEN": [
+  "Weg für\nFußgän-\nger"
+ ],
+ "BORDSTEIN": [
+  "Kante\nam\nGehweg"
+ ],
+ "PARKUHR": [
+  "Automat\nam\nStraßen-\nrand"
+ ],
+ "FUEHRERSCHEIN": [
+  "Erlaub-\nnis zum\nFahren"
+ ],
+ "NUMMERNSCHILD": [
+  "Kennzei-\nchen am\nAuto"
+ ],
+ "ANHAENGER": [
+  "Wagen\nzum\nZiehen"
+ ],
+ "LKW": [
+  "Schwe-\nrer\nLastwa-\ngen"
+ ],
+ "GEPAECKTRAEGER": [
+  "Ablage\nam\nFahrrad"
+ ],
+ "SPEICHE": [
+  "Stab im\nFahrrad"
+ ],
+ "SATTEL": [
+  "Sitz auf\ndem Rad"
+ ],
+ "PEDAL": [
+  "Tritt am\nFahrrad"
+ ],
+ "HELM": [
+  "Schutz\nfür den\nKopf"
+ ],
+ "SCHIENE": [
+  "Weg der\nBahn"
+ ],
+ "WEICHE": [
+  "Verzwei-\ngung im\nGleis"
+ ],
+ "BAHNSTEIG": [
+  "Warte-\nplatz am\nGleis"
+ ],
+ "ABTEIL": [
+  "Raum im\nZugwa-\ngen"
+ ],
+ "SCHAFFNER": [
+  "Prüfer\nim Zug"
+ ],
+ "FAHRKARTE": [
+  "Papier\nfür die\nFahrt"
+ ],
+ "GLEIS": [
+  "Weg der\nZüge"
+ ],
+ "LOKOMOTIVE": [
+  "Zugma-\nschine\nder Bahn"
+ ],
+ "WAGGON": [
+  "Wagen\nder Bahn"
+ ],
+ "TUNNEL": [
+  "Weg\ndurch\nden Berg"
+ ],
+ "VIADUKT": [
+  "Brücke\nüber ein\nTal"
+ ],
+ "ANLEGER": [
+  "Platz\nzum\nFestma-\nchen"
+ ],
+ "STEUERBORD": [
+  "Rechte\nSchiffs-\nseite"
+ ],
+ "BACKBORD": [
+  "Linke\nSchiffs-\nseite"
+ ],
+ "LEUCHTTURM": [
+  "Licht für\ndie\nSchiffe"
+ ],
+ "ROLLBAHN": [
+  "Weg des\nFlug-\nzeugs"
+ ],
+ "COCKPIT": [
+  "Kanzel\nder\nPiloten"
+ ],
+ "TRAGFLAECHE": [
+  "Flügel\ndes\nFlug-\nzeugs"
+ ],
+ "PROPELLER": [
+  "Luft-\nschrau-\nbe"
+ ],
+ "FALLSCHIRM": [
+  "Rettung\naus der\nLuft"
+ ],
+ "BALLON": [
+  "Fahr-\nzeug mit\nGas"
+ ],
+ "ZEPPELIN": [
+  "Luft-\nschiff\nmit\nGerüst"
+ ],
+ "SEGELFLUG": [
+  "Fliegen\nohne\nMotor"
+ ],
+ "STAFFEL": [
+  "Lauf mit\nÜberga-\nbe"
+ ],
+ "HUERDE": [
+  "Hinder-\nnis beim\nLauf"
+ ],
+ "SPRINT": [
+  "Kurzer\nschnel-\nler Lauf"
+ ],
+ "MARATHON": [
+  "Sehr\nlanger\nLauf"
+ ],
+ "DISKUS": [
+  "Wurf-\nscheibe"
+ ],
+ "SPEER": [
+  "Wurfge-\nrät der\nLeicht-\nathletik",
+  "Lanze\nder\nGerma-\nnen",
+  "Wurfge-\nrät im\nSport"
+ ],
+ "KUGELSTOSSEN": [
+  "Wurf in\nder\nLeicht-\nathletik"
+ ],
+ "HOCHSPRUNG": [
+  "Sprung\nüber die\nLatte"
+ ],
+ "WEITSPRUNG": [
+  "Sprung\nin die\nSand-\ngrube"
+ ],
+ "STABHOCHSPRUNG": [
+  "Sprung\nmit\nStange"
+ ],
+ "TURNRIEGE": [
+  "Gruppe\nbeim\nTurnen"
+ ],
+ "BARREN": [
+  "Turnge-\nrät mit\nzwei\nHolmen"
+ ],
+ "RECK": [
+  "Turnge-\nrät mit\nStange"
+ ],
+ "RINGE": [
+  "Turnge-\nrät zum\nHängen"
+ ],
+ "TRIKOT": [
+  "Hemd\nder\nSportler"
+ ],
+ "SCHIEDSRICHTER": [
+  "Leiter\ndes\nSpiels"
+ ],
+ "ABSEITS": [
+  "Regel im\nFußball"
+ ],
+ "ELFMETER": [
+  "Straf-\nstoß im\nFußball"
+ ],
+ "ECKBALL": [
+  "Stoß von\nder Ecke"
+ ],
+ "TORWART": [
+  "Hüter\ndes\nKastens"
+ ],
+ "ANSTOSS": [
+  "Beginn\ndes\nSpiels"
+ ],
+ "HALBZEIT": [
+  "Pause\nim Spiel"
+ ],
+ "VERLAENGERUNG": [
+  "Zusatz-\nzeit im\nSpiel"
+ ],
+ "MEDAILLE": [
+  "Aus-\nzeich-\nnung am\nBand"
+ ],
+ "PODEST": [
+  "Platz der\nSieger"
+ ],
+ "TRAINER": [
+  {
+   "c": "Chef an\nder\nSeitenli-\nnie",
+   "t": "FUSSBALL"
+  },
+  "Betreuer\nder\nMann-\nschaft"
+ ],
+ "KADER": [
+  "Aufge-\nbot der\nSportler"
+ ],
+ "KABINE": [
+  {
+   "c": "Umklei-\nde der\nSportler",
+   "t": "KOSMETIK"
+  }
+ ],
+ "SCHWIMMBAD": [
+  "Haus mit\nBecken"
+ ],
+ "SPRUNGTURM": [
+  "Anlage\nüber\ndem\nBecken"
+ ],
+ "KRAULEN": [
+  "Stil im\nBecken"
+ ],
+ "FLOSSE": [
+  "Hilfe\nbeim\nTauchen"
+ ],
+ "SCHNORCHEL": [
+  "Rohr\nzum\nAtmen"
+ ],
+ "TAUCHERBRILLE": [
+  "Sicht\nunter\nWasser"
+ ],
+ "SEGELREGATTA": [
+  "Wett-\nfahrt auf\ndem\nWasser"
+ ],
+ "PADDEL": [
+  "Ruder\nfür das\nKanu"
+ ],
+ "RUDERBOOT": [
+  "Boot mit\nRiemen"
+ ],
+ "ANGELRUTE": [
+  "Gerät\ndes\nPetrijün-\ngers"
+ ],
+ "KOEDER": [
+  "Lockmit-\ntel am\nHaken"
+ ],
+ "SCHULRANZEN": [
+  "Tasche\ndes\nErst-\nklässlers"
+ ],
+ "FEDERMAPPE": [
+  "Etui für\nStifte"
+ ],
+ "RADIERGUMMI": [
+  "Helfer\ngegen\nFehler"
+ ],
+ "LINEAL": [
+  "Gerät für\ngerade\nStriche"
+ ],
+ "ZIRKEL": [
+  "Gerät für\nKreise"
+ ],
+ "TAFEL": [
+  "Fläche\nfür\nKreide"
+ ],
+ "SCHWAMM": [
+  "Helfer an\nder Tafel"
+ ],
+ "HEFT": [
+  "Gebun-\ndene\nBlätter"
+ ],
+ "ZEUGNIS": [
+  "Papier\nmit\nNoten"
+ ],
+ "DIKTAT": [
+  "Übung\nim\nSchrei-\nben"
+ ],
+ "AUFSATZ": [
+  "Ge-\nschrie-\nbener\nText"
+ ],
+ "PAUSENHOF": [
+  "Freiflä-\nche der\nSchule"
+ ],
+ "KLASSENFAHRT": [
+  "Reise\nmit der\nSchule"
+ ],
+ "STUNDENPLAN": [
+  "Über-\nsicht der\nFächer"
+ ],
+ "KOLLEG": [
+  "Vorle-\nsung an\nder Uni"
+ ],
+ "MENSA": [
+  "Kantine\nder\nStuden-\nten"
+ ],
+ "SEMINAR": [
+  "Kurs an\nder\nHoch-\nschule"
+ ],
+ "DIPLOM": [
+  "Alter\nStudien-\nab-\nschluss"
+ ],
+ "STIPENDIUM": [
+  "Geld für\nStuden-\nten"
+ ],
+ "LEXIKON": [
+  "Werk\nzum\nNach-\nschlagen"
+ ],
+ "ATLAS": [
+  "Erster\nHalswir-\nbel",
+  "Buch mit\nKarten"
+ ],
+ "GLOBUS": [
+  "Kugel\nmit\nLändern"
+ ],
+ "ORDNER": [
+  "Sammler\nfür\nPapier"
+ ],
+ "LOCHER": [
+  "Gerät für\nzwei\nLöcher"
+ ],
+ "TACKER": [
+  "Gerät für\nKlam-\nmern"
+ ],
+ "KLEBEBAND": [
+  "Rolle mit\nHaft-\nschicht"
+ ],
+ "NOTIZBLOCK": [
+  "Papier\nfür\nVermer-\nke"
+ ],
+ "KUGELSCHREIBER": [
+  "Stift mit\nMine"
+ ],
+ "FUELLER": [
+  "Stift mit\nFeder"
+ ],
+ "TINTE": [
+  "Farbe im\nFüller"
+ ],
+ "STEMPELKISSEN": [
+  "Unterla-\nge mit\nFarbe"
+ ],
+ "BRIEFMARKE": [
+  "Freima-\nchung\nder Post"
+ ],
+ "UMSCHLAG": [
+  "Hülle für\nden Brief"
+ ],
+ "POSTKARTE": [
+  "Gruß\nohne\nUm-\nschlag"
+ ],
+ "PAKET": [
+  "Größere\nSendung"
+ ],
+ "QUITTUNG": [
+  "Beleg\nüber\nZahlung"
+ ],
+ "KASSENBON": [
+  "Zettel\nvom\nEinkauf"
+ ],
+ "RABATT": [
+  "Nach-\nlass\nbeim\nPreis"
+ ],
+ "SKONTO": [
+  "Abzug\nbei\nBarzah-\nlung"
+ ],
+ "GUTSCHEIN": [
+  "Papier\nzum\nEinlösen"
+ ],
+ "SCHAUFENSTER": [
+  "Auslage\ndes\nLadens"
+ ],
+ "THEKE": [
+  "Tresen\nim\nGeschäft"
+ ],
+ "REGALREIHE": [
+  "Gang im\nSuper-\nmarkt"
+ ],
+ "EINKAUFSWAGEN": [
+  "Rollen-\nder Korb"
+ ],
+ "TRAGETASCHE": [
+  "Beutel\nfür\nEinkäufe"
+ ],
+ "ADVENT": [
+  "Zeit vor\ndem\nFest"
+ ],
+ "KRANZ": [
+  "Grün mit\nvier\nKerzen"
+ ],
+ "KRIPPE": [
+  "Darstel-\nlung der\nGeburt"
+ ],
+ "CHRISTBAUM": [
+  "Tanne\nim\nWohn-\nzimmer"
+ ],
+ "LAMETTA": [
+  "Glänzen-\nder\nBaum-\nschmuck"
+ ],
+ "KUGELSCHMUCK": [
+  "Zierde\nam\nBaum"
+ ],
+ "STOLLEN": [
+  "Gebäck\nzur\nWeih-\nnacht"
+ ],
+ "LEBKUCHEN": [
+  "Würzi-\nges\nGebäck"
+ ],
+ "SILVESTER": [
+  "Letzter\nTag im\nJahr"
+ ],
+ "RAKETE": [
+  "Feuer-\nwerk\nzum\nNeujahr"
+ ],
+ "KONFETTI": [
+  "Bunte\nPapier-\nschnip-\nsel"
+ ],
+ "KOSTUEM": [
+  "Verklei-\ndung im\nFa-\nsching"
+ ],
+ "NARRENKAPPE": [
+  "Mütze im\nKarneval"
+ ],
+ "UMZUG": [
+  "Zug\ndurch\ndie Stadt"
+ ],
+ "OSTEREI": [
+  "Bemal-\ntes Ei im\nFrühling"
+ ],
+ "OSTERHASE": [
+  "Bringer\nder Eier"
+ ],
+ "PFINGSTEN": [
+  "Fest\nnach\nOstern"
+ ],
+ "ERNTEDANK": [
+  "Fest im\nHerbst"
+ ],
+ "LATERNE": [
+  "Licht am\nMartins-\ntag"
+ ],
+ "NIKOLAUS": [
+  "Gast am\n6.\nDezem-\nber"
+ ],
+ "GEBURTSTAG": [
+  "Jährli-\ncher\nEhrentag"
+ ],
+ "TAUFE": [
+  "Fest mit\nWasser"
+ ],
+ "KONFIRMATION": [
+  "Fest der\nJugend-\nlichen"
+ ],
+ "HOCHZEIT": [
+  "Fest der\nTrauung"
+ ],
+ "JUBILAEUM": [
+  "Runder\nGedenk-\ntag"
+ ],
+ "TERZ": [
+  "Abstand\nvon drei\nTönen"
+ ],
+ "BARBONJA": [
+  "Lustiger\nKuschel-\ntiername"
+ ],
+ "OCHTYRKA": [
+  "Stadt in\nder\nUkraine"
+ ],
+ "WIETOLL": [
+  "Werbe-\nslogan\nNieder-\nsachsen"
+ ],
+ "PIGGELDY": [
+  "ein\nSchwein"
+ ],
+ "BOBIK": [
+  "obdach-\nloser\nHund"
+ ],
+ "ESVEDRA": [
+  "Oh!"
+ ],
+ "MOLLI": [
+  "ein\nKampf-\nhund"
+ ],
+ "KATYPERRY": [
+  "Sängerin"
+ ],
+ "BIBER": [
+  "Nagetier"
+ ],
+ "STRICH": [
+  "Kurze\ngerade\nLinie",
+  {
+   "c": "Kajal-\nlinie am\nLid",
+   "t": "KOSMETIK"
+  }
+ ],
+ "FRED": [
+  "Weasley-\nZwilling"
+ ],
+ "FORMULAR": [
+  "Amtli-\ncher Vor-\ndruck"
+ ],
+ "GLOWUP": [
+  "Verschö-\nnerung\n(engl.)"
+ ],
+ "POINTE": [
+  {
+   "c": "Witz am\nSchluss",
+   "t": "BUECHER"
+  }
+ ],
+ "LESBE": [
+  "Frau, die\nFrauen\nliebt"
+ ],
+ "BRUNO": [
+  {
+   "c": "Sagen-\nhafter\nStadt-\ngründer",
+   "t": "BRAUNSCHWEIG"
+  }
+ ],
+ "WIEDER": [
+  "noch\neinmal"
+ ],
+ "MASKARA": [
+  "Farbe\nfür die\nWimpern"
+ ],
+ "ACHT": [
+  {
+   "c": "Bann im\nMittel-\nalter",
+   "t": "JURA"
+  },
+  "Auf-\nmerk-\nsamkeit,\ngehoben"
+ ],
+ "COOKIE": [
+  "Keks\n(engl.)"
+ ],
+ "BAULAST": [
+  "Last auf\neinem\nGrund-\nstück"
+ ],
+ "STEG": [
+  {
+   "c": "Bruecke\nueber\nden Bach",
+   "t": "HARZ"
+  },
+  {
+   "c": "Kleiner\nAnleger",
+   "t": "REISEN"
+  }
+ ],
+ "REIM": [
+  "Klang\nam\nZeilen-\nende",
+  {
+   "c": "Gleich-\nklang am\nVers-\nende",
+   "t": "BUECHER"
+  },
+  "Kunst-\ngriff des\nDichters"
+ ],
+ "PASTE": [
+  "Streich-\nfähige\nMasse"
+ ],
+ "KOPIE": [
+  {
+   "c": "Abbild\neines\nWerks",
+   "t": "KULTUR"
+  }
+ ],
+ "PAELLA": [
+  "Spani-\nsches\nReis-\ngericht"
+ ],
+ "BIRKE": [
+  {
+   "c": "Baum mit\nweißer\nRinde",
+   "t": "UKRAINE"
+  }
+ ],
+ "KANIW": [
+  "Stadt am\nDnipro"
+ ],
+ "WOLF": [
+  {
+   "c": "Raubtier\nim Wald",
+   "t": "UKRAINE"
+  }
+ ],
+ "VERKEHR": [
+  "Betrieb\nauf der\nStraße"
+ ],
+ "CHIC": [
+  "modisch\nelegant",
+  "elegant\nund\nmodisch"
+ ],
+ "GELB": [
+  "Farbe\nder\nSonne"
+ ],
+ "BOLONKA": [
+  "Kleiner\nSchoß-\nhund"
+ ],
+ "LEBHAFT": [
+  "munter,\nrege"
+ ],
+ "FRISEUR": [
+  "Meister\nder\nSchere"
+ ],
+ "ARGOS": [
+  "Hund des\nOdys-\nseus"
+ ],
+ "CLIP": [
+  "Kurzes\nMusikvi-\ndeo\n(engl.)",
+  "Kurzes\nMusik-\nvideo"
+ ],
+ "LOTTO": [
+  "Zahlen-\nglücks-\nspiel"
+ ],
+ "ORDER": [
+  "Anwei-\nsung von\noben"
+ ],
+ "DRANG": [
+  {
+   "c": "Innerer\nAntrieb",
+   "t": "SELBSTENTWICKLUNG"
+  }
+ ],
+ "HINTER": [
+  "im\nRücken\nvon"
+ ],
+ "KORREKTUR": [
+  {
+   "c": "Verbes-\nserung\nim Text",
+   "t": "BUECHER"
+  }
+ ],
+ "KUVASZ": [
+  "Unga-\nrischer\nHirten-\nhund"
+ ],
+ "STORY": [
+  "Ge-\nschichte\n(engl.)"
+ ],
+ "MOSKAU": [
+  "Wo der\nZar von\nheute\nresidiert"
+ ],
+ "KREML": [
+  "Palast\nder\nschönen\nLügen"
+ ],
+ "RUSSLAND": [
+  "Größter\nNachbar,\nkleinster\nAnstand"
+ ],
+ "FLORA": [
+  "Pflanzen\nund\nBlüten"
+ ],
+ "GELEE": [
+  "Frucht-\naufstrich"
+ ],
+ "QUAL": [
+  "große\nPein"
+ ],
+ "TITEL": [
+  {
+   "c": "Meister-\nschaft\nim Sport",
+   "t": "FUSSBALL"
+  },
+  {
+   "c": "Grund-\nlage der\nPfän-\ndung",
+   "t": "JURA"
+  },
+  "Doktor\noder\nGraf"
+ ],
+ "LUXEMBURG": [
+  "Nachbar-\nland\nBelgiens"
+ ],
+ "UGANDA": [
+  "Staat in\nOst-\nafrika"
+ ],
+ "MANDANT": [
+  "Klient\neines\nJuristen"
+ ],
+ "GEHHILFE": [
+  "Stock\nzum\nLaufen"
+ ],
+ "BRAUEN": [
+  "Bögen\nüber den\nAugen"
+ ],
+ "LEHRE": [
+  "Ausbil-\ndung im\nBetrieb",
+  {
+   "c": "Ort bei\nBraun-\nschweig",
+   "t": "BRAUNSCHWEIG"
+  }
+ ],
+ "ANREDE": [
+  "Sie oder\nDu"
+ ],
+ "ARKTIS": [
+  "Gebiet um\nden\nNordpol"
+ ],
+ "SMETANA": [
+  "Saure\nSahne in\nder\nUkraine"
+ ],
+ "GRABEN": [
+  "Aushe-\nben von\nErde",
+  {
+   "c": "Was der\nHund im\nBeet tut",
+   "t": "HUNDE"
+  }
+ ],
+ "REAKTION": [
+  "Antwort\nauf einen\nReiz"
+ ],
+ "KREUZ": [
+  {
+   "c": "Zeichen\ndes\nGlau-\nbens",
+   "t": "CHRISTENTUM"
+  },
+  {
+   "c": "Zeichen\nauf der\nKarte",
+   "t": "REISEN"
+  }
+ ],
+ "TOEPFER": [
+  "Meister\nan der\nScheibe"
+ ],
+ "OFEN": [
+  "Wärme-\nquelle im\nZimmer",
+  {
+   "c": "Herz der\nSauna",
+   "t": "SPA"
+  }
+ ],
+ "FAHRT": [
+  "Reise mit\ndem Auto"
+ ],
+ "HAAR": [
+  {
+   "c": "Zopf-\nmaterial",
+   "t": "KOSMETIK"
+  }
+ ],
+ "FLOETE": [
+  "Holz-\nblas-\ninstru-\nment"
+ ],
+ "INSTANZ": [
+  "Stufe im\nRechts-\nweg"
+ ],
+ "STREU": [
+  {
+   "c": "Boden-\nbelag im\nKäfig",
+   "t": "MEERSCHWEINCHEN"
+  }
+ ],
+ "AGENTUR": [
+  "Vermitt-\nlungs-\nbüro"
+ ],
+ "BIRNE": [
+  {
+   "c": "Obst mit\ndickem\nEnde",
+   "t": "PFLANZEN"
+  }
+ ],
+ "STETS": [
+  "immer,\njedes Mal",
+  "zu jeder\nZeit"
+ ],
+ "BERGE": [
+  "Alpen und\nAnden\n(Pl.)"
+ ],
+ "ANWALT": [
+  "Jurist",
+  "Rechts-\nbeistand\nvor\nGericht"
+ ],
+ "RABE": [
+  "Krähen-\nvogel",
+  {
+   "c": "Krähen-\nvogel am\nBrocken",
+   "t": "HARZ"
+  }
+ ],
+ "TORI": [
+  "Vorname\nder\nSängerin\nAmos"
+ ],
+ "GERSTE": [
+  {
+   "c": "Getreide\nfür Malz",
+   "t": "ERNAEHRUNG"
+  }
+ ],
+ "BURG": [
+  "Wehrbau\naus Stein"
+ ],
+ "GENUSS": [
+  "Freude am\nSchönen"
+ ],
+ "SERIE": [
+  "Sendung\nin vielen\nFolgen"
+ ],
+ "TOMATE": [
+  "Rote\nFrucht im\nSalat"
+ ],
+ "EIDE": [
+  "Feierli-\nche\nSchwüre\n(Pl.)",
+  {
+   "c": "Schwüre\nvor\nGericht\n(Pl.)",
+   "t": "JURA"
+  }
+ ],
+ "SPOHR": [
+  "Kompo-\nnist\nLouis ..."
+ ],
+ "HAARMASKE": [
+  "Inten-\nsivkur\nfür die\nFrisur"
+ ],
+ "REGATTA": [
+  "Wett-\nfahrt der\nSegler"
+ ],
+ "ROTEBETE": [
+  {
+   "c": "Knolle im\nBor-\nschtsch",
+   "t": "UKRAINE"
+  }
+ ],
+ "SOUK": [
+  {
+   "c": "Basar in\nArabien",
+   "t": "REISEN"
+  }
+ ],
+ "ERTRAG": [
+  "Gewinn\naus\nArbeit"
+ ],
+ "RADA": [
+  "Volks-\nvertre-\ntung in\nKyjiw"
+ ],
+ "GEIGE": [
+  "Streich-\ninstru-\nment"
+ ],
+ "AEMTER": [
+  "Dienst-\nstellen\n(Pl.)"
+ ],
+ "LAUB": [
+  "Blätter\nam Baum"
+ ],
+ "ACHSE": [
+  "Gerade\ndurch\ndie Mitte",
+  "Linie in\nder Mitte"
+ ],
+ "JACKE": [
+  "Kleidung\nfür\ndraußen"
+ ],
+ "SCHLAU": [
+  "clever,\npfiffig"
+ ],
+ "STAB": [
+  {
+   "c": "Stock des\nZaube-\nrers",
+   "t": "HARRYPOTTER"
+  }
+ ],
+ "WOHER": [
+  "Von wo?"
+ ],
+ "REEDEREI": [
+  "Betrieb\nmit\nSchiffen"
+ ],
+ "TYRANNEI": [
+  "Gewalt-\nherr-\nschaft"
+ ],
+ "ESSAY": [
+  "Kleine\nStudie\n(engl.)",
+  "Kurze\nAbhand-\nlung\n(engl.)"
+ ],
+ "STREIT": [
+  "Zank und\nHader"
+ ],
+ "DESSERT": [
+  "Süßes\nzum\nSchluss"
+ ],
+ "CHALET": [
+  {
+   "c": "Hütte in\nden Alpen",
+   "t": "REISEN"
+  }
+ ],
+ "BRAUE": [
+  "Bogen\nüber dem\nAuge"
+ ],
+ "ANLAGE": [
+  {
+   "c": "Beilage\nzum\nSchrift-\nsatz",
+   "t": "JURA"
+  }
+ ],
+ "TUNDRA": [
+  "Kalte\nSteppe im\nNorden"
+ ],
+ "ALERT": [
+  "wach\nund\nmunter\n(engl.)",
+  "wach und\nmunter"
+ ],
+ "SEELENLOS": [
+  "ohne\njedes\nGefühl"
+ ],
+ "OMEN": [
+  "Vorzei-\nchen"
+ ],
+ "ARTERIE": [
+  "Schlag-\nader"
+ ],
+ "NAME": [
+  "Wort zur\nBenen-\nnung"
+ ],
+ "BETRUEGER": [
+  "Gauner\nmit\nMasche"
+ ],
+ "WALDI": [
+  "Klassi-\nscher\nDackel-\nname"
+ ],
+ "REGIME": [
+  "Herr-\nschafts-\nform"
+ ],
+ "KEULE": [
+  {
+   "c": "Fleisch-\nstück\nvom\nBein",
+   "t": "KOCHEN"
+  },
+  "Wuchti-\nge\nSchlag-\nwaffe",
+  {
+   "c": "Hinter-\nlauf\nbeim\nHund",
+   "t": "HUNDE"
+  }
+ ],
+ "PRINZ": [
+  "Sohn\ndes\nKönigs"
+ ],
+ "VOGT": [
+  "Amt-\nmann im\nMittelal-\nter"
+ ],
+ "MAULKORB": [
+  "Schutz\ngegen\nBeißen"
+ ],
+ "BANAL": [
+  "flach\nund\nalltäglich"
+ ],
+ "SIMULANT": [
+  "Falscher\nKranker"
+ ],
+ "LENZ": [
+  "Frühling,\ndichte-\nrisch"
+ ],
+ "HALS": [
+  "Partie\nunter\ndem\nKinn"
+ ],
+ "STEAK": [
+  "Scheibe\nvom Grill"
+ ],
+ "TENNIS": [
+  "Sport\nmit\nFilzball"
+ ],
+ "BEUTEL": [
+  {
+   "c": "Sack aus\nStoff",
+   "t": "JURA"
+  }
+ ],
+ "KOHL": [
+  {
+   "c": "Gemüse\nfür den\nWinter",
+   "t": "ERNAEHRUNG"
+  }
+ ],
+ "DNIPRO": [
+  "Großer\nStrom\nder\nUkraine"
+ ],
+ "HUSKY": [
+  "Schlit-\ntenhund\ndes\nNordens"
+ ],
+ "BRUST": [
+  "Vorder-\nteil des\nRumpfes"
+ ],
+ "URINPROBE": [
+  "Material\nbeim\nDoping-\ntest"
+ ],
+ "MILITAER": [
+  "Streit-\nkräfte\neines\nStaates"
+ ],
+ "SAFARI": [
+  "Fahrt\ndurch\ndie\nWildnis",
+  {
+   "c": "Tierbe-\nobach-\ntung in\nAfrika",
+   "t": "REISEN"
+  }
+ ],
+ "HAFEN": [
+  "Liege-\nplatz für\nSchiffe"
+ ],
+ "CREME": [
+  "Salbe für\ndie Haut"
+ ],
+ "LUPIN": [
+  "Lehrer\nRemus\n..."
+ ],
+ "METRO": [
+  "Bahn\nunter der\nStadt",
+  {
+   "c": "Unter-\ngrund-\nbahn in\nParis",
+   "t": "REISEN"
+  }
+ ],
+ "AERA": [
+  "Zeitalter,\nEpoche"
+ ],
+ "ROUTER": [
+  "Käst-\nchen\nfürs\nWLAN"
+ ],
+ "PATE": [
+  "Zeuge\nbei der\nTaufe"
+ ],
+ "WEINROT": [
+  "dunkler\nTon wie\nBor-\ndeaux"
+ ],
+ "BEGLAUBIGUNG": [
+  "Notariel-\nle\nBestäti-\ngung"
+ ],
+ "BALL": [
+  "Spiel-\nzeug\nzum\nWerfen"
+ ],
+ "HORKRUX": [
+  "Seelen-\nteil bei\nVolde-\nmort"
+ ],
+ "PAPIER": [
+  "Stoff aus\nZellulose"
+ ],
+ "HUND": [
+  "Treuer\nVierbei-\nner"
+ ],
+ "MOEBLIERT": [
+  "mit\nEinrich-\ntung"
+ ],
+ "LILA": [
+  "Farbe\nder\nVeilchen",
+  "Ton wie\nFlieder",
+  "Violetter\nTon"
+ ],
+ "BRACKE": [
+  "Jagd-\nhund mit\nHänge-\nohren"
+ ],
+ "SUSI": [
+  "Vorname\neiner\nFrau"
+ ],
+ "ANNAHME": [
+  {
+   "c": "Zustim-\nmung\nzum\nAngebot",
+   "t": "JURA"
+  }
+ ],
+ "TREU": [
+  "bestän-\ndig,\nverläss-\nlich"
+ ],
+ "ZWANG": [
+  "Druck\nohne\nWahl"
+ ],
+ "ANBAU": [
+  "Erweite-\nrung am\nHaus"
+ ],
+ "OPFER": [
+  {
+   "c": "Gabe\nan den\nAltar",
+   "t": "CHRISTENTUM"
+  },
+  {
+   "c": "Geschä-\ndigter\neiner Tat",
+   "t": "JURA"
+  }
+ ],
+ "INTERN": [
+  "nur für\nden\ninneren\nKreis"
+ ],
+ "CHIP": [
+  "Winziger\nSchalt-\nkreis",
+  "Marke\nunter der\nHaut des\nHundes"
+ ],
+ "RAUCH": [
+  "Schwa-\nden über\ndem\nFeuer"
+ ],
+ "CHOERE": [
+  "Sänger-\ngruppen\n(Pl.)"
+ ],
+ "ACRYL": [
+  {
+   "c": "Kunst-\nstoff für\nNägel",
+   "t": "KOSMETIK"
+  }
+ ],
+ "YOGA": [
+  "Übungen\naus\nIndien"
+ ],
+ "AKTION": [
+  "Vorge-\nhen mit\nZiel"
+ ],
+ "KAUF": [
+  "Erwerb\ngegen\nGeld"
+ ],
+ "OLESKO": [
+  "Burg in\nder\nWestuk-\nraine"
+ ],
+ "METER": [
+  "Einheit\nder\nLänge"
+ ],
+ "REINIGUNG": [
+  {
+   "c": "Erster\nSchritt\nder\nPflege",
+   "t": "KOSMETIK"
+  }
+ ],
+ "SAHARA": [
+  "Größte\nWüste\nAfrikas"
+ ],
+ "ASTHMA": [
+  "Chroni-\nsche\nAtemnot",
+  "Leiden\nder\nAtemwe-\nge"
+ ],
+ "HENNE": [
+  "Weibli-\nches\nHuhn"
+ ],
+ "TRIO": [
+  "Gruppe\naus drei"
+ ],
+ "RATLOS": [
+  "ohne\njede Idee"
+ ],
+ "TOKIO": [
+  "Haupt-\nstadt\nJapans"
+ ],
+ "HARMONIE": [
+  {
+   "c": "Zusam-\nmen-\nklang\nder Töne",
+   "t": "KULTUR"
+  }
+ ],
+ "ECKER": [
+  "Fluss im\nHarz"
+ ],
+ "SINAI": [
+  "Halbin-\nsel in\nÄgypten"
+ ],
+ "KNOCHIG": [
+  "sehr\nmager"
+ ],
+ "GALAXIE": [
+  "Sternen-\ninsel im\nAll"
+ ],
+ "KANU": [
+  "Boot mit\nStech-\npaddel"
+ ],
+ "HASSO": [
+  "Alter\nRufname\nfür Bello"
+ ],
+ "HERZIG": [
+  "niedlich,\nlieb"
+ ],
+ "ADERLASS": [
+  "Herber\nVerlust"
+ ],
+ "STREITER": [
+  "Kämpfer\nfür eine\nSache"
+ ],
+ "BLUFF": [
+  "Täu-\nschung\nbeim\nPokern"
+ ],
+ "REGIE": [
+  "Leitung\nbeim\nFilm"
+ ],
+ "ABORT": [
+  "Stilles\nÖrtchen"
+ ],
+ "ELDERSTAB": [
+  "Mäch-\ntigster\nZauber-\nstab"
+ ],
+ "ATTRAPPE": [
+  "Nachbil-\ndung zur\nTäu-\nschung"
+ ],
+ "WANGE": [
+  "Teil des\nGesichts",
+  {
+   "c": "Stelle für\ndas\nRouge",
+   "t": "KOSMETIK"
+  }
+ ],
+ "PFEIFE": [
+  "Gerät für\nden\nTabak"
+ ],
+ "TREND": [
+  "Neigung\ndes\nMarktes",
+  "Mode\nder\nStunde"
+ ],
+ "EIFER": [
+  {
+   "c": "Feuer\nbei der\nArbeit",
+   "t": "SELBSTENTWICKLUNG"
+  }
+ ],
+ "FREMDARTIG": [
+  "unge-\nwohnt\nund\nseltsam"
+ ],
+ "ISOMATTE": [
+  {
+   "c": "Unterla-\nge im\nZelt",
+   "t": "REISEN"
+  }
+ ],
+ "MAMA": [
+  "Anrede\nfür die\nMutter",
+  "Mutter,\nkindlich"
+ ],
+ "AUSSEHEN": [
+  "Äußerer\nEindruck"
+ ],
+ "SPARTE": [
+  "Zweig\neines\nFachs"
+ ],
+ "TENOR": [
+  "Hohe\nMänner-\nstimme",
+  {
+   "c": "Kern des\nUrteils",
+   "t": "JURA"
+  }
+ ],
+ "RAVENCLAW": [
+  "Haus mit\ndem\nAdler"
+ ],
+ "MEER": [
+  "Salziges\nGewäs-\nser"
+ ],
+ "KRAEUTER": [
+  {
+   "c": "Würzige\nPflanzen\n(Pl.)",
+   "t": "HARZ"
+  }
+ ],
+ "SELO": [
+  "Dorf auf\nUkrai-\nnisch"
+ ],
+ "PARK": [
+  "Öffentli-\nche\nGrünan-\nlage",
+  "Grünan-\nlage in\nder Stadt"
+ ],
+ "PRESSE": [
+  "Zeitun-\ngen und\nBlätter"
+ ],
+ "PSEL": [
+  "Neben-\nfluss des\nDnipro"
+ ],
+ "DECKE": [
+  "Warme\nAuflage\nfürs Bett"
+ ],
+ "KALI": [
+  "Salz für\nden\nDünger"
+ ],
+ "SAEURE": [
+  "Gegen-\nteil der\nLauge"
+ ],
+ "RITT": [
+  "Ausflug\nauf dem\nPferd"
+ ],
+ "LANZE": [
+  "Waffe\ndes\nRitters"
+ ],
+ "STIL": [
+  "Eigene\nArt des\nAuftre-\ntens",
+  "Eigene\nArt"
+ ],
+ "SAAL": [
+  {
+   "c": "Großer\nRaum\nfür Feste",
+   "t": "HARRYPOTTER"
+  }
+ ],
+ "KLOSETT": [
+  "Toilette\nmit\nSpülung"
+ ],
+ "ZWIST": [
+  "Streit\nunter\nNach-\nbarn"
+ ],
+ "WERTE": [
+  "Grund-\nsätze\n(Pl.)"
+ ],
+ "MAUSER": [
+  {
+   "c": "Wechsel\ndes\nFeder-\nkleids",
+   "t": "MEERSCHWEINCHEN"
+  }
+ ],
+ "KAELTE": [
+  "Frost im\nWinter"
+ ],
+ "ABGABE": [
+  "Steuer\nan den\nStaat"
+ ],
+ "ARTIG": [
+  "brav und\nfolgsam"
+ ],
+ "AUSLAUF": [
+  {
+   "c": "Freier\nBereich\nzum\nToben",
+   "t": "MEERSCHWEINCHEN"
+  }
+ ],
+ "BESTRITTEN": [
+  "in\nAbrede\ngestellt"
+ ],
+ "BLAMAGE": [
+  "Peinli-\nche\nNiederla-\nge"
+ ],
+ "BLAUGELB": [
+  "Farben\nder\nUkraine"
+ ],
+ "BLEI": [
+  {
+   "c": "Weiches\nMetall\naus der\nGrube",
+   "t": "HARZ"
+  }
+ ],
+ "BREIT": [
+  "nicht\nschmal",
+  "von\nRand zu\nRand\nweit"
+ ],
+ "BUECHSE": [
+  "Dose\naus\nBlech"
+ ],
+ "CLOU": [
+  "Knack-\npunkt\neiner\nSache"
+ ],
+ "DELTA": [
+  "Mün-\ndung mit\nvielen\nArmen"
+ ],
+ "DIALOG": [
+  "Zwiege-\nspräch",
+  {
+   "c": "Ge-\nspräch\nim\nRoman",
+   "t": "BUECHER"
+  }
+ ],
+ "EDITOR": [
+  "Heraus-\ngeber\neines\nTextes"
+ ],
+ "EINSTREU": [
+  {
+   "c": "Material\nam\nKäfigbo-\nden",
+   "t": "MEERSCHWEINCHEN"
+  }
+ ],
+ "ELSTER": [
+  "Diebi-\nscher\nRaben-\nvogel"
+ ],
+ "ERDE": [
+  "Unser\nPlanet"
+ ],
+ "FELL": [
+  {
+   "c": "Haar-\nkleid des\nVierbei-\nners",
+   "t": "HUNDE"
+  }
+ ],
+ "FELS": [
+  {
+   "c": "Nackter\nStein am\nBerg",
+   "t": "HARZ"
+  }
+ ],
+ "FENCHEL": [
+  "Knolle\nmit\nAnisge-\nschmack"
+ ],
+ "FETT": [
+  {
+   "c": "Nähr-\nstoff mit\nviel\nEnergie",
+   "t": "ERNAEHRUNG"
+  }
+ ],
+ "FIREWALL": [
+  "Schutz-\nwall im\nNetz\n(engl.)"
+ ],
+ "GEHILFE": [
+  "Helfer im\nBetrieb"
+ ],
+ "GEWERBE": [
+  "Hand-\nwerk\nund\nHandel",
+  {
+   "c": "Selbst-\nständige\nTätigkeit",
+   "t": "JURA"
+  }
+ ],
+ "GLAUBE": [
+  "Feste\nÜberzeu-\ngung"
+ ],
+ "GNOM": [
+  "Kleiner\nKobold"
+ ],
+ "ABTEI": [
+  "Kloster\nunter\neinem\nPrälaten"
+ ],
+ "AGILITY": [
+  "Parcours\nfür\nHunde\n(engl.)",
+  "Hunde-\nsport mit\nHürden\n(engl.)"
+ ],
+ "DAUERWELLE": [
+  "Bleiben-\nde\nLocken"
+ ],
+ "EINIG": [
+  "der\ngleichen\nAnsicht"
+ ],
+ "GEBUEHR": [
+  {
+   "c": "Entgelt\nfürs Amt",
+   "t": "JURA"
+  }
+ ],
+ "GOENNER": [
+  "Förderer\nmit Geld"
+ ],
+ "HAARGEL": [
+  "Styling\naus der\nTube"
+ ],
+ "HEIMKEHR": [
+  {
+   "c": "Rück-\nkunft\nnach\nHause",
+   "t": "REISEN"
+  }
+ ],
+ "HELL": [
+  "voller\nLicht"
+ ],
+ "HUETTE": [
+  {
+   "c": "Unter-\nkunft im\nGebirge",
+   "t": "HUNDE"
+  }
+ ],
+ "IHRIGE": [
+  "Besitz\neiner\nFrau"
+ ],
+ "IRAN": [
+  "Staat in\nVorder-\nasien",
+  "Land der\nPerser"
+ ],
+ "KNALLER": [
+  "Lauter\nErfolg",
+  {
+   "c": "Böller zu\nSilvester",
+   "t": "HUNDE"
+  }
+ ],
+ "KUNDIN": [
+  "Frau\nbeim\nEinkauf"
+ ],
+ "LEHM": [
+  "Zäher\nBoden\nfür\nZiegel"
+ ],
+ "LEID": [
+  "Tiefer\nKummer"
+ ],
+ "LUMOS": [
+  "Zauber-\nspruch\nfür Licht"
+ ],
+ "MALTESER": [
+  "Kleiner\nweißer\nHund"
+ ],
+ "MASCHINERIE": [
+  "Getriebe\naus\nvielen\nTeilen"
+ ],
+ "MASERN": [
+  "Kinder-\nkrank-\nheit (Pl.)"
+ ],
+ "MIES": [
+  "schlecht\nund übel"
+ ],
+ "MUESLI": [
+  "Flocken\nmit\nFrüchten"
+ ],
+ "NACHWEIS": [
+  {
+   "c": "Beleg für\neine\nBehaup-\ntung",
+   "t": "BUECHER"
+  }
+ ],
+ "NICHT": [
+  "in keiner\nWeise"
+ ],
+ "NOETIGUNG": [
+  "Erzwin-\ngen\ndurch\nDrohung"
+ ],
+ "OHEIM": [
+  "Onkel,\naltertüm-\nlich"
+ ],
+ "ORIGINELL": [
+  "eigenwil-\nlig und\nneu"
+ ],
+ "GOLD": [
+  "Gelbes\nEdelme-\ntall"
+ ],
+ "HONIGKUCHEN": [
+  {
+   "c": "Gebäck\nder\nLöwen-\nstadt",
+   "t": "BRAUNSCHWEIG"
+  }
+ ],
+ "OMNIBUS": [
+  "Wagen\nfür viele\nGäste"
+ ],
+ "OSTERODE": [
+  "Stadt am\nRand\ndes\nHarzes"
+ ],
+ "PARIS": [
+  "Metropo-\nle an der\nSeine"
+ ],
+ "PAUKER": [
+  {
+   "c": "Lehrer,\nsalopp",
+   "t": "KULTUR"
+  }
+ ],
+ "PFAU": [
+  {
+   "c": "Vogel\nmit\nprächti-\ngem Rad",
+   "t": "KATYPERRY"
+  }
+ ],
+ "PFLEGE": [
+  "Sorgsa-\nme\nBetreu-\nung",
+  {
+   "c": "Sorge\num die\nHaut",
+   "t": "KOSMETIK"
+  }
+ ],
+ "RAIN": [
+  "Gras-\nstreifen\nam Feld",
+  "Schma-\nler\nAcker-\nrand"
+ ],
+ "RASUR": [
+  "Entfer-\nnen der\nBarthaa-\nre"
+ ],
+ "REIF": [
+  "Frost am\nMorgen"
+ ],
+ "ROESSER": [
+  "Pferde,\ngehoben\n(Pl.)"
+ ],
+ "RUDERN": [
+  "Fortbe-\nwegung\nmit\nRiemen"
+ ],
+ "RUGBY": [
+  "Sport\nmit\neiförmi-\ngem Ball"
+ ],
+ "RUHELOS": [
+  "ohne\nRast"
+ ],
+ "SALON": [
+  "Vorneh-\nmer Saal",
+  {
+   "c": "Raum\nbeim\nFriseur",
+   "t": "KOSMETIK"
+  }
+ ],
+ "SBAHN": [
+  "Stadt-\nschnell-\nbahn\n(Abk.)"
+ ],
+ "SEGELN": [
+  "Fahrt mit\ndem\nWind"
+ ],
+ "SHIATSU": [
+  "Massage\naus\nJapan"
+ ],
+ "SHIRT": [
+  "Kurzär-\nmeliges\nOberteil\n(engl.)",
+  "Leichtes\nOberteil\n(engl.)"
+ ],
+ "SPATEL": [
+  {
+   "c": "Schaufel\nzum\nAuftra-\ngen",
+   "t": "KOSMETIK"
+  }
+ ],
+ "SPIESS": [
+  "Stab für\nGrillgut"
+ ],
+ "STARK": [
+  "voller\nKraft"
+ ],
+ "STIRN": [
+  "Fläche\nüber den\nAugen"
+ ],
+ "TAUSENDE": [
+  "Sehr\nviele\n(Pl.)"
+ ],
+ "THERME": [
+  "Bad mit\nwarmer\nQuelle"
+ ],
+ "TIROL": [
+  "Land in\nden\nAlpen"
+ ],
+ "TONIC": [
+  "Bitteres\nSprudel-\nwasser\n(engl.)",
+  {
+   "c": "Wasser\nfür die\nHaut\n(engl.)",
+   "t": "KOSMETIK"
+  }
+ ],
+ "TRAN": [
+  "Öl aus\nFischen"
+ ],
+ "UMSCHWUNG": [
+  "Plötzli-\nche\nWende"
+ ],
+ "USCHHOROD": [
+  "Stadt in\nTranska-\nrpatien"
+ ],
+ "WACH": [
+  "nicht\nmehr\nschla-\nfend"
+ ],
+ "WEHRLOS": [
+  "ohne\njeden\nSchutz"
+ ],
+ "WEIMARANER": [
+  "Grauer\nJagd-\nhund"
+ ],
+ "WELLA": [
+  "Marke\nfür\nHaarpfle-\nge"
+ ],
+ "WELPE": [
+  "Junger\nHund",
+  "Hunde-\nkind"
+ ],
+ "WERTEP": [
+  "Ukraini-\nsches\nKrippen-\nspiel"
+ ],
+ "ZWECKLOS": [
+  "ohne\njeden\nSinn"
+ ],
+ "PERLE": [
+  "Rundes\nKleinod"
+ ],
+ "SAGE": [
+  {
+   "c": "Alte Mär\nvom\nBrocken",
+   "t": "HARZ"
+  }
+ ],
+ "TEEBAR": [
+  {
+   "c": "Theke im\nRuhebe-\nreich",
+   "t": "SPA"
+  }
+ ],
+ "CURRY": [
+  "Scharfe\nGewürz-\nmi-\nschung"
+ ],
+ "ECUADOR": [
+  "Anden-\nstaat am\nÄquator"
+ ],
+ "EINZEL": [
+  "Spiel\nMann\ngegen\nMann"
+ ],
+ "FAKT": [
+  "Nackte\nTatsache"
+ ],
+ "FIRMA": [
+  {
+   "c": "Name\neines\nKauf-\nmanns",
+   "t": "JURA"
+  }
+ ],
+ "FORM": [
+  "Gestalt\neiner\nSache"
+ ],
+ "GEWINN": [
+  "Ertrag\nüber den\nKosten"
+ ],
+ "IDEAL": [
+  "Vollkom-\nmenes\nVorbild",
+  "Erstreb-\ntes\nMuster"
+ ],
+ "KALAHARI": [
+  "Wüste\nim\nSüden\nAfrikas"
+ ],
+ "KEIMFREI": [
+  "völlig\nsauber"
+ ],
+ "KREMATORIUM": [
+  "Halle für\nEinä-\nsche-\nrung"
+ ],
+ "MATERIE": [
+  {
+   "c": "Sachge-\nbiet des\nRechts",
+   "t": "JURA"
+  }
+ ],
+ "MIENE": [
+  "Aus-\ndruck im\nGesicht"
+ ],
+ "MIME": [
+  "Schau-\nspieler,\ngehoben"
+ ],
+ "NASS": [
+  "voller\nWasser"
+ ],
+ "NERVIG": [
+  "auf die\nDauer\nlästig"
+ ],
+ "ODYSSEE": [
+  "Epos\nüber\neine\nIrrfahrt"
+ ],
+ "PROSTATA": [
+  "Drüse\nbeim\nMann"
+ ],
+ "REISE": [
+  "Fahrt in\ndie\nFerne"
+ ],
+ "REIZDARM": [
+  "Empfind-\nliche\nVerdau-\nung"
+ ],
+ "ROAR": [
+  "Lied von\nKaty\nPerry"
+ ],
+ "SEGEN": [
+  "Gutes\nvon\noben"
+ ],
+ "TATO": [
+  "Vater auf\nUkrai-\nnisch"
+ ],
+ "UBAHN": [
+  "Unter-\ngrund-\nbahn\n(Abk.)"
+ ],
+ "VISAGE": [
+  "Gesicht,\nabfällig"
+ ],
+ "ILSESTEIN": [
+  "Klippe\nim\nNordha-\nrz"
+ ],
+ "RICO": [
+  "Männer-\nname"
+ ],
+ "SPEDITEUR": [
+  "Chef\neiner\nFuhrfir-\nma"
+ ],
+ "ODESSA": [
+  "Hafen\nam\nSchwar-\nzen Meer"
+ ],
+ "ODESA": [
+  "Hafen\nam\nSchwar-\nzen Meer"
+ ],
+ "SEINE": [
+  "Fluss\ndurch\nParis"
+ ],
+ "AASGEIER": [
+  "Vogel\nam\nKadaver"
+ ],
+ "ABSATZ": [
+  "Teil des\nSchuhs"
+ ],
+ "AEUSSERST": [
+  "in\nhöchs-\ntem\nMaße"
+ ],
+ "AKTIE": [
+  "Anteil\nam\nKapital"
+ ],
+ "APRIL": [
+  "Vierter\nMonat"
+ ],
+ "ASSESSOR": [
+  "Jurist\nnach\ndem\nExamen"
+ ],
+ "BEIRAT": [
+  "Gremi-\num zur\nBera-\ntung"
+ ],
+ "BEUTE": [
+  "Erjagtes\nGut"
+ ],
+ "BOCCIA": [
+  "Kugel-\nspiel aus\nItalien"
+ ],
+ "BOTE": [
+  "Wer\nNach-\nrichten\nbringt"
+ ],
+ "BYPASS": [
+  "Umge-\nhung am\nHerzen"
+ ],
+ "DEVISEN": [
+  "Fremde\nWährun-\ngen (Pl.)"
+ ],
+ "DISK": [
+  "Scheibe\nim\nRechner\n(engl.)"
+ ],
+ "DUAL": [
+  "in zwei\nFormen"
+ ],
+ "DUFT": [
+  "Ange-\nnehmer\nGeruch"
+ ],
+ "DUISBURG": [
+  "Stadt am\nRhein"
+ ],
+ "EDINBURGH": [
+  "Haupt-\nstadt\nSchott-\nlands"
+ ],
+ "EILE": [
+  "Hast und\nHetze",
+  "Grosser\nZeit-\ndruck",
+  "Große\nHast"
+ ],
+ "ESSENZ": [
+  "Konzen-\ntrierter\nAuszug"
+ ],
+ "EXTRAKT": [
+  "Gewon-\nnener\nKern"
+ ],
+ "FAHNE": [
+  "Tuch am\nMast"
+ ],
+ "FANGO": [
+  "Heil-\nschlamm\nim Bad"
+ ],
+ "FEIN": [
+  "zart und\ndünn"
+ ],
+ "FLOH": [
+  "Sprin-\ngender\nBlutsau-\nger"
+ ],
+ "FUND": [
+  "Was\nman\nentdeckt\nhat"
+ ],
+ "GEHEISS": [
+  "Auftrag\nvon\noben"
+ ],
+ "GELAENDE": [
+  "Freies\nAreal"
+ ],
+ "GELNAGEL": [
+  "Kunstna-\ngel im\nStudio"
+ ],
+ "GLOCKE": [
+  "Läutet\nim Turm"
+ ],
+ "GNADE": [
+  "Milde\ndes\nMächti-\ngen"
+ ],
+ "HEIDENGELD": [
+  "Sehr\nhohe\nSumme"
+ ],
+ "COLLIE": [
+  "Schotti-\nscher\nHüte-\nhund"
+ ],
+ "HOFHUND": [
+  "Wächter\nam\nGehöft"
+ ],
+ "HORN": [
+  "Blasin-\nstrument\naus\nBlech"
+ ],
+ "HOSTOMEL": [
+  "Flug-\nplatz bei\nKyjiw"
+ ],
+ "ISCHIAS": [
+  "Schmerz\nim Bein"
+ ],
+ "ISJUM": [
+  "Stadt am\nSiwers-\nkyj\nDonez"
+ ],
+ "ISRAELI": [
+  "Bewoh-\nner in\nNahost"
+ ],
+ "KEGEL": [
+  "Figur\nbeim\nKugel-\nspiel"
+ ],
+ "KENT": [
+  "Graf-\nschaft in\nEngland"
+ ],
+ "KINN": [
+  "Partie\nunter\ndem\nMund"
+ ],
+ "LANGHAAR": [
+  "Fellart\nbeim\nNager"
+ ],
+ "LASSIE": [
+  "Berühm-\nter\nFilm-\nhund"
+ ],
+ "LAST": [
+  "Schwere\nBürde",
+  "Schwere\nFracht"
+ ],
+ "LOHN": [
+  "Geld für\nArbeit"
+ ],
+ "LUNA": [
+  "Römi-\nsche\nMond-\ngöttin"
+ ],
+ "LUZK": [
+  "Stadt in\nWolhyni-\nen"
+ ],
+ "MAENTEL": [
+  "Warme\nÜberklei-\nder (Pl.)"
+ ],
+ "MITTAG": [
+  "Zeit um\nzwölf"
+ ],
+ "MOLLIG": [
+  "rundlich\nund\nwarm"
+ ],
+ "MYTHEN": [
+  "Alte\nGötter-\nsagen\n(Pl.)"
+ ],
+ "NAEHTE": [
+  "Verbin-\ndungen\nim Stoff\n(Pl.)"
+ ],
+ "NOTARIELL": [
+  "amtlich\nbeurkun-\ndet"
+ ],
+ "NOTSTAND": [
+  "Lage\nohne\nAusweg"
+ ],
+ "NUDE": [
+  "Hautfar-\nbener\nTon\n(engl.)"
+ ],
+ "OELBILD": [
+  "Gemälde\nauf\nLein-\nwand"
+ ],
+ "OLYMPIADE": [
+  "Zeitraum\nder\nSpiele"
+ ],
+ "PANDA": [
+  "Bär aus\nChina",
+  "Bär im\nBambus-\nwald"
+ ],
+ "PANNE": [
+  "Schaden\nunter-\nwegs"
+ ],
+ "PAPRIKA": [
+  "Scharfes\nGewürz"
+ ],
+ "BRAT": [
+  "Streich-\ninstru-\nment,\nkurz"
+ ],
+ "KNOEPFE": [
+  "Ver-\nschlüsse\n(Pl.)"
+ ],
+ "MAFIA": [
+  "Bund\naus\nSizilien"
+ ],
+ "MORD": [
+  "Vorsätz-\nliche\nTötung"
+ ],
+ "MOTTO": [
+  "Wahl-\nspruch"
+ ],
+ "RAUB": [
+  "Wegnah-\nme mit\nGewalt"
+ ],
+ "RAZZIA": [
+  "Zugriff\nder\nPolizei"
+ ],
+ "RECHNUNG": [
+  "Papier\nmit dem\nBetrag"
+ ],
+ "RETORTE": [
+  "Kolben\nim Labor"
+ ],
+ "RING": [
+  "Reif für\nden\nFinger"
+ ],
+ "RITEN": [
+  "Feste\nBräuche\n(Pl.)"
+ ],
+ "RIVALE": [
+  "Gegner\nim\nWett-\nstreit"
+ ],
+ "ROBE": [
+  "Amts-\nkleid vor\nGericht"
+ ],
+ "ROSE": [
+  "Blume\nmit\nDornen"
+ ],
+ "RUBEL": [
+  "Währung\nim freien\nFall"
+ ],
+ "RUTE": [
+  "Schwanz\ndes\nHundes"
+ ],
+ "SALZ": [
+  "Würze\naus dem\nMeer"
+ ],
+ "SCHAR": [
+  "Große\nGruppe"
+ ],
+ "SCHLAFSACK": [
+  "Warme\nHülle im\nZelt"
+ ],
+ "SITTE": [
+  "Alter\nBrauch"
+ ],
+ "SOFIA": [
+  "Haupt-\nstadt\nBulgari-\nens"
+ ],
+ "SOZIUS": [
+  "Partner\nin der\nKanzlei"
+ ],
+ "STALL": [
+  "Unter-\nkunft für\nTiere"
+ ],
+ "STERIL": [
+  "völlig\nkeimfrei"
+ ],
+ "STYLE": [
+  "Art des\nAuftre-\ntens\n(engl.)"
+ ],
+ "SUSHI": [
+  "Reis mit\nrohem\nFisch"
+ ],
+ "TADEL": [
+  "Scharfer\nVerweis"
+ ],
+ "TERMIN": [
+  "Verein-\nbarte\nZeit"
+ ],
+ "TERRIER": [
+  "Kleiner\nJagd-\nhund"
+ ],
+ "THEMSE": [
+  "Fluss\ndurch\nLondon"
+ ],
+ "TOASTER": [
+  "Gerät für\nBrot-\nscheiben"
+ ],
+ "TOENUNG": [
+  "Sanfte\nHaarfar-\nbe"
+ ],
+ "TREK": [
+  "Lange\nWande-\nrung\n(engl.)"
+ ],
+ "UNFEHLBAR": [
+  "ohne\njeden\nIrrtum"
+ ],
+ "UNTIER": [
+  "Schreck-\nliches\nWesen"
+ ],
+ "UROLOGE": [
+  "Facharzt\nfür die\nBlase"
+ ],
+ "VATI": [
+  "Kosena-\nme für\nden\nPapa"
+ ],
+ "WAAGE": [
+  "Gerät\nzum\nWiegen"
+ ],
+ "SPRAY": [
+  "Nebel\naus der\nDose\n(engl.)"
+ ],
+ "LEHRENS": [
+  "Vermit-\nteln von\nStoff"
+ ],
+ "ADLER": [
+  "Wappen-\nvogel\nDeutsch-\nlands"
+ ],
+ "AGIO": [
+  "Aufgeld\nbeim\nUm-\ntausch"
+ ],
+ "AMOR": [
+  "Römi-\nscher\nLiebes-\ngott"
+ ],
+ "AMPULLE": [
+  "Glas-\nfläsch-\nchen mit\nWirkstoff"
+ ],
+ "BEETHOVEN": [
+  "Kompo-\nnist der\nNeunten"
+ ],
+ "BERG": [
+  "Erhe-\nbung im\nGelände"
+ ],
+ "BESCHEID": [
+  "Antwort\nder\nBehörde"
+ ],
+ "BLIND": [
+  "ohne\nAugen-\nlicht"
+ ],
+ "BUERGE": [
+  "Wer für\nSchul-\nden\neinsteht"
+ ],
+ "BUKETT": [
+  "Duft des\nWeins"
+ ],
+ "BUNT": [
+  "vielfar-\nbig"
+ ],
+ "COMIC": [
+  "Bilderge-\nschichte\n(engl.)"
+ ],
+ "DECK": [
+  "Ebene\nauf dem\nSchiff"
+ ],
+ "DELLE": [
+  "Beule im\nBlech"
+ ],
+ "EBOLA": [
+  "Gefährli-\nches\nFieber"
+ ],
+ "ERPICHT": [
+  "ganz\nverses-\nsen"
+ ],
+ "ESTEE": [
+  "Kosme-\ntikmarke\nLauder"
+ ],
+ "FLYBALL": [
+  "Hunde-\nsport mit\nBall\n(engl.)"
+ ],
+ "GENIE": [
+  "Hochbe-\ngabter\nKopf"
+ ],
+ "HALL": [
+  "Nach-\nklang im\nRaum"
+ ],
+ "HECHELN": [
+  "Kurzes\nAtmen\nbeim\nHund"
+ ],
+ "HUENDIN": [
+  "Weibli-\ncher\nVierbei-\nner"
+ ],
+ "IDEE": [
+  "Plötzli-\ncher\nEinfall"
+ ],
+ "IMBISS": [
+  "Kleine\nZwi-\nschen-\nmahlzeit"
+ ],
+ "INHALT": [
+  "Was\ndrin-\nsteckt"
+ ],
+ "JODLER": [
+  "Ruf aus\nden\nAlpen"
+ ],
+ "KAMM": [
+  {
+   "c": "Grat\nauf dem\nBergrü-\ncken",
+   "t": "HARZ"
+  },
+  "Gerät\nfürs\nHaar"
+ ],
+ "KINO": [
+  "Saal mit\nLein-\nwand"
+ ],
+ "KLAEGER": [
+  "Wer vor\nGericht\nzieht"
+ ],
+ "AMME": [
+  "Stillende\nErsatz-\nmutter"
+ ],
+ "DERUNY": [
+  "Kartof-\nfelpuffer\n(Ukr.)"
+ ],
+ "EISEN": [
+  "Metall im\nErz"
+ ],
+ "LATERAL": [
+  "seitlich\ngelegen"
+ ],
+ "LOMILOMI": [
+  "Massage\naus\nHawaii"
+ ],
+ "MERKMAL": [
+  "Kennzei-\nchen\neiner\nSache"
+ ],
+ "MEUTE": [
+  "Rudel\nJagd-\nhunde"
+ ],
+ "MUEHELOS": [
+  "ganz\nohne\nAnstren-\ngung"
+ ],
+ "NIVEA": [
+  "Marke\nder\nblauen\nDose"
+ ],
+ "NOVELLE": [
+  "Kurze\nProsaer-\nzählung"
+ ],
+ "NULL": [
+  "Ziffer\nohne\nWert"
+ ],
+ "OELPERSEE": [
+  "Badesee\nin\nBraun-\nschweig"
+ ],
+ "OKERTAL": [
+  "Tal im\nNordha-\nrz"
+ ],
+ "OPTIK": [
+  "Lehre\nvom\nLicht"
+ ],
+ "OZEAN": [
+  "Riesiges\nWelt-\nmeer"
+ ],
+ "PRADO": [
+  "Museum\nin\nMadrid"
+ ],
+ "SCHMIERE": [
+  "Fett für\ndas\nLager"
+ ],
+ "SCHULE": [
+  "Ort des\nLernens"
+ ],
+ "SEUFZER": [
+  "Laut der\nErleich-\nterung"
+ ],
+ "SLALOM": [
+  "Lauf um\ndie\nStangen"
+ ],
+ "SORGFALT": [
+  "Gründli-\nche\nArbeits-\nweise"
+ ],
+ "SPRUDELBAD": [
+  "Wanne\nmit\nLuftdü-\nsen"
+ ],
+ "SPUR": [
+  "Zeichen\nim\nSchnee"
+ ],
+ "SUEZ": [
+  "Kanal in\nÄgypten"
+ ],
+ "ULAN": [
+  "Reiter\nmit\nLanze"
+ ],
+ "UNION": [
+  "Bund\nvon\nStaaten"
+ ],
+ "UNTREUE": [
+  "Bruch\ndes\nVertrau-\nens"
+ ],
+ "URAN": [
+  "Stoff im\nReaktor"
+ ],
+ "VERS": [
+  "Zeile im\nGedicht"
+ ],
+ "VIRGINIA": [
+  "Staat der\nUSA"
+ ],
+ "WUESTE": [
+  "Sandi-\nges\nÖdland"
+ ],
+ "ZAEUNE": [
+  "Umfrie-\ndungen\n(Pl.)"
+ ],
+ "ZAHN": [
+  "Beisser\nim Mund"
+ ],
+ "ZELT": [
+  "Unter-\nkunft\naus Stoff"
+ ],
+ "PAPST": [
+  "Bischof\nvon Rom"
+ ],
+ "RETINOL": [
+  "Vitamin\nA in der\nCreme"
+ ],
+ "BEWUCHS": [
+  "Pflanzen\nauf dem\nBoden"
+ ],
+ "TATORT": [
+  "Ort des\nVerbre-\nchens"
+ ],
+ "ZEUG": [
+  "Kram\nund\nKrempel"
+ ],
+ "ATEM": [
+  "Luft aus\nder\nLunge",
+  "Hauch\nbeim\nAusat-\nmen"
+ ],
+ "AUFPREIS": [
+  "Kosten\noben-\ndrauf"
+ ],
+ "NAGELLACK": [
+  "Farbe für\ndie\nFinger"
+ ],
+ "EREIGNIS": [
+  "Beson-\nderer\nVorfall"
+ ],
+ "PIEPSEN": [
+  "Feiner\nLaut des\nNagers"
+ ],
+ "LAGE": [
+  "Stand\nder\nDinge"
+ ],
+ "TRAPPE": [
+  "Grosser\nSteppen-\nvogel"
+ ],
+ "EFEU": [
+  "Klettern-\nde\nRank-\npflanze",
+  "Immer-\ngrüner\nKletterer"
+ ],
+ "GEISTVOLL": [
+  "klug und\nwitzig"
+ ],
+ "ONKEL": [
+  "Bruder\ndes\nVaters"
+ ],
+ "SUENDE": [
+  "Verstoss\ngegen\ndas\nGebot"
+ ],
+ "EHEVERTRAG": [
+  "Abma-\nchung\nvor der\nHochzeit"
+ ],
+ "REITEN": [
+  "Ausritt\nauf dem\nPferd"
+ ],
+ "EWIG": [
+  "ohne\njedes\nEnde"
+ ],
+ "ERGOMETER": [
+  "Rad zum\nTrainie-\nren"
+ ],
+ "ETUI": [
+  "Hülle für\ndie Brille"
+ ],
+ "PAGE": [
+  "Junger\nDiener\nbei Hof"
+ ],
+ "CALL": [
+  "Anruf im\nBüro\n(engl.)"
+ ],
+ "GOSPEL": [
+  "Geistli-\ncher\nGesang\n(engl.)"
+ ],
+ "BESITZ": [
+  "Was\neinem\ngehört"
+ ],
+ "WITNESS": [
+  "Album\nvon Katy\nPerry\n(engl.)"
+ ],
+ "TUERKEI": [
+  "Urlaubs-\nland",
+  "Land am\nBospo-\nrus"
+ ],
+ "KLEVE": [
+  "Stadt am\nNieder-\nrhein"
+ ],
+ "DIKTAFON": [
+  "Gerät\nzum\nAnsagen"
+ ],
+ "GELD": [
+  "Münzen\nund\nScheine"
+ ],
+ "GAEULE": [
+  "Pferde,\nsalopp\n(Pl.)"
+ ],
+ "BANN": [
+  "Kirchli-\ncher\nAus-\nschluss"
+ ],
+ "ANWAELTE": [
+  "Rechts-\nbeistän-\nde (Pl.)"
+ ],
+ "URWALD": [
+  "Unbe-\nrührter\nWald"
+ ],
+ "MISTO": [
+  "Stadt auf\nUkrai-\nnisch"
+ ],
+ "FEILE": [
+  "Werk-\nzeug für\ndie\nNägel"
+ ],
+ "URLAUB": [
+  "Freie\nZeit vom\nBeruf"
+ ],
+ "STOCK": [
+  "Stab\nzum\nGehen"
+ ],
+ "EINLAGE": [
+  "Sohle im\nSchuh"
+ ],
+ "TRANK": [
+  "Gebrau-\nter\nZauber-\nsaft"
+ ],
+ "TAKTIK": [
+  "Kluges\nVorge-\nhen"
+ ],
+ "HAAROEL": [
+  "Pflege\nfür die\nSpitzen",
+  "Glanz für\ndie\nFrisur"
+ ],
+ "CHEF": [
+  "Wer den\nLaden\nführt"
+ ],
+ "DUSCHE": [
+  "Brause\nim Bad"
+ ],
+ "SEHER": [
+  "Wer die\nZukunft\ndeutet"
+ ],
+ "REKORD": [
+  "Bestleis-\ntung im\nSport"
+ ],
+ "REPARATUR": [
+  "Instand-\nsetzung"
+ ],
+ "WEITBLICK": [
+  "Gabe der\nVoraus-\nsicht"
+ ],
+ "LIMAN": [
+  "Haff am\nSchwar-\nzen Meer"
+ ],
+ "ITALIEN": [
+  "Land der\nPasta"
+ ],
+ "ULTIMO": [
+  "Letzter\nTag im\nMonat"
+ ],
+ "BARKEEPER": [
+  "Wer\nCock-\ntails mixt\n(engl.)"
+ ],
+ "DUTT": [
+  "Knoten\nim Haar"
+ ],
+ "TEAM": [
+  "Gruppe\nim Sport\n(engl.)"
+ ],
+ "REINHEIT": [
+  "Zustand\nohne\nMakel"
+ ],
+ "KNACKER": [
+  "Kurze\nWurst"
+ ],
+ "ARGON": [
+  "Gas in\nder\nLampe"
+ ],
+ "BUTTON": [
+  "Anste-\ncker am\nRevers\n(engl.)"
+ ],
+ "SCHAEKEREI": [
+  "Harmlo-\nses\nGeplän-\nkel"
+ ],
+ "GEORGE": [
+  "Engli-\nscher\nKönigs-\nname"
+ ],
+ "KERL": [
+  "Stämmi-\nger\nBursche"
+ ],
+ "FARM": [
+  "Hof in\nÜbersee\n(engl.)"
+ ],
+ "POLITIKER": [
+  "Mann im\nParla-\nment"
+ ],
+ "PROKURA": [
+  "Voll-\nmacht\nim\nHandel"
+ ],
+ "LOURDES": [
+  "Gnaden-\nort in\nFrank-\nreich"
+ ],
+ "SCHUHE": [
+  "Paar an\nden\nFüßen\n(Pl.)"
+ ],
+ "BLUTARM": [
+  "kraftlos\nund\nbleich"
+ ],
+ "IRPIN": [
+  "Vorort\nvon\nKyjiw"
+ ],
+ "ARENA": [
+  "Rund für\nWett-\nkämpfe"
+ ],
+ "FARBE": [
+  "Rot,\nGrün\noder\nBlau"
+ ],
+ "NEFFE": [
+  "Sohn der\nSchwes-\nter"
+ ],
+ "TUBE": [
+  "Behälter\nfür\nCreme"
+ ],
+ "STATIST": [
+  "Neben-\nmann im\nFilm"
+ ],
+ "EKEL": [
+  "Starker\nWider-\nwille"
+ ],
+ "HOSPITAL": [
+  "Haus für\nKranke"
+ ],
+ "NIACIN": [
+  "Vitamin\nder\nB-Gru-\nppe"
+ ],
+ "NITRAT": [
+  "Salz der\nSalpeter-\nsäure"
+ ],
+ "MORAL": [
+  "Sittliche\nHaltung"
+ ],
+ "BASIS": [
+  "Feste\nGrundla-\nge"
+ ],
+ "RATHAUS": [
+  "Sitz des\nBürger-\nmeisters"
+ ],
+ "LECKERLI": [
+  "Beloh-\nnung für\nden\nHund"
+ ],
+ "BOEIG": [
+  "stür-\nmisch\nwech-\nselnd"
+ ],
+ "HEILER": [
+  "Wer mit\nHänden\nkuriert"
+ ],
+ "STERN": [
+  "Leucht-\npunkt\nam\nHimmel"
+ ],
+ "DIFFUSOR": [
+  "Aufsatz\nam Föhn"
+ ],
+ "ARAGOG": [
+  "Riesen-\nspinne\nbei Harry\nPotter"
+ ],
+ "BUSINESS": [
+  "Geschäft\n(engl.)"
+ ],
+ "TUER": [
+  "Ver-\nschluss\nim\nRahmen"
+ ],
+ "PFIRSICH": [
+  "Frucht\nmit\nFlaum"
+ ],
+ "LIFT": [
+  "Aufzug\nim Haus\n(engl.)"
+ ],
+ "BREITE": [
+  "Ausdeh-\nnung zur\nSeite"
+ ],
+ "LANGZEIT": [
+  "über\nviele\nJahre"
+ ],
+ "CELLO": [
+  "Grosse\nKniegei-\nge"
+ ],
+ "SERIFE": [
+  "Häkchen\nan der\nLetter"
+ ],
+ "TEILER": [
+  "Zahl\nbeim\nDividie-\nren"
+ ],
+ "HAEFTLING": [
+  "Insasse\nder\nAnstalt"
+ ],
+ "GESTIRN": [
+  "Körper\nam\nFirma-\nment"
+ ],
+ "ANATOMISCH": [
+  "zum\nKörper-\nbau\ngehörig"
+ ],
+ "AKKURAT": [
+  "sehr\ngenau\ngearbei-\ntet"
+ ],
+ "AKZEPTANZ": [
+  "Bereit-\nschaft\nanzu-\nnehmen"
+ ],
+ "ALTAR": [
+  "Tisch in\nder\nKirche"
+ ],
+ "AMTMANN": [
+  "Beamter\nim\nmittleren\nDienst"
+ ],
+ "ANGREIFER": [
+  "Wer\nzuerst\nzu-\nschlägt"
+ ],
+ "ANSAGE": [
+  "Klare\nAnkündi-\ngung"
+ ],
+ "ANSTIEG": [
+  "Zunah-\nme der\nWerte"
+ ],
+ "ANTIFA": [
+  "Linke\nBewe-\ngung\n(Abk.)"
+ ],
+ "AREAL": [
+  "Abge-\ngrenztes\nGelände"
+ ],
+ "ASYLRECHT": [
+  "Schutz\nfür\nVerfolgte"
+ ],
+ "AUGE": [
+  "murmel-\nförmiges\nOrgan",
+  "Organ\nzum\nSehen"
+ ],
+ "BERUF": [
+  "Arbeit\nfürs\nEinkom-\nmen"
+ ],
+ "BLUES": [
+  "Schwer-\nmütige\nMusik\n(engl.)"
+ ],
+ "BROKKOLI": [
+  "Grüner\nKohl mit\nRöschen"
+ ],
+ "BRUT": [
+  "Nach-\nwuchs\nim Nest"
+ ],
+ "BUCHE": [
+  "Baum\nmit\nglatter\nRinde"
+ ],
+ "CHRISTI": [
+  "des\nErlösers"
+ ],
+ "COOL": [
+  "lässig\nund\ngelassen\n(engl.)"
+ ],
+ "EINKAUF": [
+  "Gang in\nden\nLaden"
+ ],
+ "FEHL": [
+  "am\nfalschen\nPlatz"
+ ],
+ "FEST": [
+  "Feier mit\nGästen"
+ ],
+ "FUSSNOTE": [
+  "Anmer-\nkung\nunten"
+ ],
+ "GAUL": [
+  "Klepper\nim Stall"
+ ],
+ "ILLUSTRATOR": [
+  "Zeichner\nim Buch"
+ ],
+ "ILSE": [
+  "Fluss am\nBrocken"
+ ],
+ "KARO": [
+  "Muster\naus\nRauten"
+ ],
+ "KEKS": [
+  "Gebäck\nzum Tee"
+ ],
+ "KIRSCHEN": [
+  "Rote\nStein-\nfrüchte\n(Pl.)"
+ ],
+ "KLEE": [
+  "Futter-\npflanze\nmit drei\nBlättern"
+ ],
+ "KNIRPS": [
+  "Kleiner\nJunge"
+ ],
+ "DATEI": [
+  "Einheit\nauf der\nFestplat-\nte"
+ ],
+ "KNUT": [
+  "Kleinste\nMünze\nder\nZauberer"
+ ],
+ "KUWAIT": [
+  "Staat am\nPersi-\nschen\nGolf"
+ ],
+ "LAKAI": [
+  "Unter-\nwürfiger\nDiener"
+ ],
+ "MATTEL": [
+  "Herstel-\nler der\nBarbie"
+ ],
+ "NADELOEHR": [
+  "Enge\nStelle im\nVerkehr"
+ ],
+ "NIKARAGUA": [
+  "Staat in\nMittel-\namerika"
+ ],
+ "POSSE": [
+  "Derbes\nLust-\nspiel"
+ ],
+ "PROFI": [
+  "Fach-\nmann\nvom\nFach"
+ ],
+ "REALIST": [
+  "Wer\nnüchtern\ndenkt"
+ ],
+ "SIEGER": [
+  "Erster im\nWett-\nkampf"
+ ],
+ "SKRIPT": [
+  "Text zur\nVorle-\nsung"
+ ],
+ "SPERRIG": [
+  "schwer\nzu\nverstau-\nen"
+ ],
+ "SPRINTER": [
+  "Läufer\nauf\nkurzer\nStrecke"
+ ],
+ "STPO": [
+  "Strafpro-\nzessord-\nnung\n(Abk.)"
+ ],
+ "STUDIE": [
+  "Untersu-\nchung\nmit\nErgebnis"
+ ],
+ "TELLER": [
+  "Geschirr\nfür die\nSpeise"
+ ],
+ "TIERARZT": [
+  "Doktor\nfür\nVierbei-\nner"
+ ],
+ "TORUS": [
+  "Ring in\nder\nGeome-\ntrie"
+ ],
+ "TREUE": [
+  "Feste\nVerbun-\ndenheit"
+ ],
+ "VOLK": [
+  "Bewoh-\nner\neines\nStaates"
+ ],
+ "WERBA": [
+  "Weide\nauf\nUkrai-\nnisch"
+ ],
+ "WOCHENPLAN": [
+  "Über-\nsicht für\nsieben\nTage"
+ ],
+ "ZOPF": [
+  "Gefloch-\ntenes\nHaar"
+ ],
+ "DOGMATIK": [
+  "Lehre\nvom\nGlauben"
+ ],
+ "TIERSCHUTZ": [
+  "Sorge\num Hund\nund\nKatze"
+ ],
+ "AERZTE": [
+  "Medizi-\nner (Pl.)"
+ ],
+ "ALGEBRA": [
+  "Rechnen\nmit\nBuchsta-\nben"
+ ],
+ "ANGELEI": [
+  "Fisch-\nfang als\nHobby"
+ ],
+ "ANGORA": [
+  "Lang-\nhaarige\nRasse"
+ ],
+ "BANDAGE": [
+  "Binde\num das\nGelenk"
+ ],
+ "BART": [
+  "Haar-\nwuchs\nam Kinn"
+ ],
+ "BATIK": [
+  "Färbe-\ntechnik\nfür Stoff"
+ ],
+ "BAYEUX": [
+  "Stadt mit\ndem\nWand-\nteppich"
+ ],
+ "BONNER": [
+  "Bewoh-\nner am\nRhein"
+ ],
+ "CAMP": [
+  "Zeltlager\n(engl.)"
+ ],
+ "CHININ": [
+  "Bitter-\nstoff\ngegen\nFieber"
+ ],
+ "CORGI": [
+  "Kurzbei-\nniger\nHüte-\nhund"
+ ],
+ "DEMENTI": [
+  "Amtli-\nches\nWiderru-\nfen"
+ ],
+ "EIDLICH": [
+  "unter\nSchwur"
+ ],
+ "ENKLAVE": [
+  "Gebiet\nim\nfremden\nLand"
+ ],
+ "EPISODE": [
+  "Folge\neiner\nSerie"
+ ],
+ "ERBFOLGE": [
+  "Ordnung\ndes\nNachlas-\nses"
+ ],
+ "ESELEI": [
+  "Grober\nFehler"
+ ],
+ "FESTZUG": [
+  "Umzug\nmit\nMusik"
+ ],
+ "FINNE": [
+  "Bewoh-\nner in\nHelsinki"
+ ],
+ "FLANELL": [
+  "Weicher\nWollstoff"
+ ],
+ "FLORENZ": [
+  "Stadt am\nArno"
+ ],
+ "FRANKO": [
+  "Dichter\naus\nLwiw"
+ ],
+ "FREUD": [
+  "Vater der\nPsycho-\nanalyse"
+ ],
+ "GEROELL": [
+  "Loses\nGestein\nam Hang"
+ ],
+ "GRELL": [
+  "viel zu\nhell"
+ ],
+ "GRENZE": [
+  "Linie\nzwi-\nschen\nStaaten"
+ ],
+ "ABER": [
+  "Wört-\nchen des\nZweifels"
+ ],
+ "ATHENER": [
+  "Griechen\naus der\nMetropo-\nle (Pl.)"
+ ],
+ "BARF": [
+  "Rohkost\nfür\nHunde\n(engl.)"
+ ],
+ "DICHTE": [
+  "Masse je\nVolumen"
+ ],
+ "GRILL": [
+  "Rost\nüber der\nGlut"
+ ],
+ "GURKE": [
+  "Grünes\nSalatge-\nmüse"
+ ],
+ "HORDE": [
+  "Wilde\nSchar"
+ ],
+ "ISRAEL": [
+  "Staat am\nToten\nMeer"
+ ],
+ "JAHR": [
+  "Zwölf\nMonate"
+ ],
+ "KAFKA": [
+  "Dichter\naus Prag"
+ ],
+ "KESS": [
+  "frech\nund flott"
+ ],
+ "KETTE": [
+  "Glied an\nGlied"
+ ],
+ "KLUG": [
+  "hell im\nKopf"
+ ],
+ "KORAN": [
+  "Heilige\nSchrift\ndes\nIslam"
+ ],
+ "KRAKEELER": [
+  "Lauter\nStören-\nfried"
+ ],
+ "KUER": [
+  "Freie\nÜbung\nim\nEislauf"
+ ],
+ "LAPIDAR": [
+  "knapp\nund\nwuchtig"
+ ],
+ "LEBEN": [
+  "Dasein\nvon der\nGeburt\nan"
+ ],
+ "LEGISLATIVE": [
+  "Gewalt\nder\nGesetz-\ngebung"
+ ],
+ "LERNEN": [
+  "Aneig-\nnen von\nWissen"
+ ],
+ "MASKE": [
+  "Verhül-\nlung im\nKarneval"
+ ],
+ "MUETZE": [
+  "Kopfbe-\ndeckung\naus\nWolle"
+ ],
+ "NAEMLICH": [
+  "und zwar"
+ ],
+ "NASSKALT": [
+  "feucht\nund\nfrostig"
+ ],
+ "OPERETTE": [
+  "Heiteres\nSing-\nspiel"
+ ],
+ "ORANGE": [
+  "Farbe\nder\nZitrus-\nfrucht"
+ ],
+ "PFLEGER": [
+  "Helfer im\nKranken-\nhaus"
+ ],
+ "PIGMENT": [
+  "Farbstoff\nin der\nHaut"
+ ],
+ "PILZE": [
+  "Wald-\nfrüchte\nmit Hut\n(Pl.)"
+ ],
+ "HALLE": [
+  "Grosser\nRaum\nfür Sport"
+ ],
+ "LIEBE": [
+  "Tiefe\nZunei-\ngung"
+ ],
+ "PARALLELE": [
+  "Gerade\nohne\nSchnitt-\npunkt"
+ ],
+ "PONY": [
+  "Kleines\nPferd"
+ ],
+ "PREIS": [
+  "Was\netwas\nkostet"
+ ],
+ "PRISM": [
+  "Album\nvon Katy\nPerry\n(engl.)"
+ ],
+ "PROZESSION": [
+  "Feierli-\ncher\nUmzug"
+ ],
+ "PUNKT": [
+  "Zeichen\nam\nSatzen-\nde"
+ ],
+ "RALLYE": [
+  "Wett-\nfahrt\nüber\nEtappen"
+ ],
+ "RENTABEL": [
+  "lohnend\nfür den\nBetrieb"
+ ],
+ "RUDEL": [
+  "Verband\nvon\nWölfen"
+ ],
+ "RUECKFALL": [
+  "Erneute\nStraftat"
+ ],
+ "SELEN": [
+  "Spuren-\nelement\nim\nKörper"
+ ],
+ "SENF": [
+  "Scharfe\nWürz-\npaste"
+ ],
+ "SPAN": [
+  "Splitter\nvom\nHolz"
+ ],
+ "SPIELPLAN": [
+  "Pro-\ngramm\ndes\nTheaters"
+ ],
+ "SPIESSER": [
+  "Enge\nGemüter\n(Pl.)"
+ ],
+ "SPOT": [
+  "Kurzer\nWerbe-\nfilm\n(engl.)"
+ ],
+ "STEHOHR": [
+  "Aufrech-\ntes\nLausch-\norgan"
+ ],
+ "STEIG": [
+  "Schma-\nler Pfad\nam Berg"
+ ],
+ "STOER": [
+  "Fisch\nmit\nKaviar"
+ ],
+ "STREIK": [
+  "Niederle-\ngen der\nArbeit"
+ ],
+ "SUMY": [
+  "Stadt im\nNordos-\nten der\nUkraine"
+ ],
+ "TATAREN": [
+  "Volk auf\nder Krim\n(Pl.)"
+ ],
+ "TRANSFER": [
+  "Wechsel\ndes\nSpielers"
+ ],
+ "TRYZUB": [
+  "Wappen\nder\nUkraine"
+ ],
+ "TURBULENT": [
+  "stür-\nmisch\nbewegt"
+ ],
+ "UEBUNG": [
+  "Wieder-\nholtes\nTraining"
+ ],
+ "UMWEG": [
+  "Längerer\nWeg\nzum Ziel"
+ ],
+ "UNTER": [
+  "Karte im\nSkat-\nspiel"
+ ],
+ "VENE": [
+  "Ader\nzum\nHerzen"
+ ],
+ "WENIG": [
+  "nur ein\nbisschen"
+ ],
+ "WINOK": [
+  "Blumen-\nkranz\nder\nUkraine"
+ ],
+ "ZEBRA": [
+  "Gestreif-\ntes\nSteppen-\npferd"
+ ],
+ "ZIEL": [
+  "Ende der\nStrecke"
+ ],
+ "ANNEXE": [
+  "Anbau-\nten (Pl.)"
+ ],
+ "BIAS": [
+  "Verzer-\nrung im\nUrteil\n(engl.)"
+ ],
+ "STICH": [
+  "Wunde\nvon der\nBiene"
+ ],
+ "TIEF": [
+  "Wetterla-\nge mit\nRegen"
+ ],
+ "MARIUS": [
+  "Enkel"
+ ],
+ "VANESSA": [
+  "Enkelin"
+ ],
+ "DALBERSDORF": [
+  "Dorf in\nPolen"
+ ],
+ "ELSASS": [
+  "Herkunft\ndes\nFlamm-\nkuchens"
+ ],
+ "KUMQUAT": [
+  "Zitrus-\nfrucht"
+ ],
+ "BUCHEN": [
+  "Unter\nden ..."
+ ],
+ "DRACHE": [
+  "Fabelwe-\nsen"
+ ],
+ "BAD": [
+  "Stadtteil\nSZ"
+ ],
+ "KIEW": [
+  "Haupt-\nstadt der\nUkraine"
+ ],
+ "LITZEL": [
+  "Geburts-\nname"
+ ],
+ "PETRA": [
+  "Tochter"
+ ],
+ "ELLI": [
+  "Mutter"
+ ],
+ "KARL": [
+  "Vater"
+ ],
+ "FUSSBALL": [
+  "Ballsport"
+ ],
+ "TSV": [
+  "Turn u.\nSport\nVerein"
+ ],
+ "INNERSTE": [
+  "Fluss im\nHarz"
+ ],
+ "TALSPERRE": [
+  "Stausee"
+ ],
+ "CHERRY": [
+  "Hunde-\nname"
+ ],
+ "JETTA": [
+  "KFZ\nModell"
+ ],
+ "JAGST": [
+  "altes Fiat\nModell"
+ ],
+ "BABYSITTERIN": [
+  "Erster\nJob"
+ ],
+ "BONING": [
+  "Modera-\ntor"
+ ],
+ "PFLAUME": [
+  "Modera-\ntor,\nFrucht"
+ ],
+ "HOECKER": [
+  "Modera-\ntor"
+ ],
+ "JODLERMEISTER": [
+  "alpines\nGe-\nsangsta-\nlent"
+ ],
+ "SALESCH": [
+  "Fernseh-\nrichterin"
+ ],
+ "AGNESSA": [
+  "Schwie-\ngerenke-\nlin"
+ ],
+ "ROT": [
+  "Farbe\nder\nRosen"
+ ],
+ "ALTENBRAK": [
+  "Kleiner\nOrt im\nHarz"
+ ],
+ "BOSKOP": [
+  "Apfel-\nsorte"
+ ],
+ "OKTOBER": [
+  "Hoch-\nzeitsmo-\nnat"
+ ],
+ "HUPENTONI": [
+  "Musiker"
+ ],
+ "BINGO": [
+  "Spiel mit\nZahlen-\nkarten"
+ ],
+ "KNEIPP": [
+  "Pfarrer\nund\nWasser-\ndoktor"
+ ],
+ "KEGELN": [
+  "Sport\nmit neun\nHolz"
+ ],
+ "FLUGANGST": [
+  "Furcht\nvor dem\nAbheben"
+ ],
+ "NORDICWALKING": [
+  "skandin.\nSportart\n(engl.)"
+ ],
+ "FINANZAMT": [
+  "Steuer-\nbehörde"
+ ],
+ "MONACO": [
+  "Fürsten-\ntum"
+ ],
+ "HORST": [
+  "Männer-\nname"
+ ],
+ "FORTUNA": [
+  "Göttin\ndes\nGlücks"
+ ],
+ "BOXER": [
+  "Hunde-\nrasse,\nKämpfer"
+ ],
+ "HAINBACH": [
+  "Fließge-\nwässer\nin\nSZ-Bad"
+ ],
+ "BUESUM": [
+  "Nord-\nseeort"
+ ],
+ "BUSREISE": [
+  "Ausflug\nder\nReise-\ngruppe"
+ ],
+ "ALKALI": [
+  "Base in\nder\nChemie"
+ ],
+ "ANMUT": [
+  "Grazie"
+ ],
+ "ANOMAL": [
+  "regel-\nwidrig"
+ ],
+ "BASILIKUM": [
+  "Würz-\nkraut\naus dem\nTopf"
+ ],
+ "BRESLAU": [
+  "Stadt an\nder Oder",
+  "Größte\nStadt\nSchlesi-\nens"
+ ],
+ "DSCHUNGEL": [
+  "Tropi-\nscher\nUrwald"
+ ],
+ "EHRE": [
+  "Guter\nRuf"
+ ],
+ "EINSEN": [
+  "Beste\nSchulno-\nten (Pl.)"
+ ],
+ "EINWURF": [
+  "Ball von\nder\nSeitenli-\nnie"
+ ],
+ "FLEGEL": [
+  "Ungeho-\nbelter\nKerl"
+ ],
+ "GERTE": [
+  "Biegsa-\nme Rute"
+ ],
+ "KAESE": [
+  {
+   "c": "Harzer\nRolle",
+   "t": "HARZ"
+  },
+  "Milch-\nprodukt\nmit\nLöchern"
+ ],
+ "KLIENTEL": [
+  "Kunden-\nkreis"
+ ],
+ "KOHLE": [
+  {
+   "c": "Erzeug-\nnis des\nKöhlers",
+   "t": "HARZ"
+  },
+  "Schwar-\nzer\nBrenn-\nstoff"
+ ],
+ "LEINOEL": [
+  "Öl aus\nFlachs-\nsamen"
+ ],
+ "LORE": [
+  "Wagen\nim\nStollen"
+ ],
+ "LUEGE": [
+  "Unwahr-\nheit"
+ ],
+ "MUNDART": [
+  "Dialekt"
+ ],
+ "NEURON": [
+  "Nerven-\nzelle"
+ ],
+ "NORWEGEN": [
+  "Land der\nFjorde"
+ ],
+ "OREGANO": [
+  "Kraut für\ndie Pizza"
+ ],
+ "PEKINGER": [
+  "Chinese\naus der\nHaupt-\nstadt"
+ ],
+ "RANKE": [
+  "Trieb der\nKletter-\npflanze"
+ ],
+ "RINNSAL": [
+  "Sehr\nkleiner\nBach"
+ ],
+ "SOLE": [
+  "Salzwas-\nser der\nQuelle"
+ ],
+ "SUEDEN": [
+  "Richtung\nzur\nMittags-\nsonne"
+ ],
+ "TANZ": [
+  {
+   "c": "Reigen\nauf dem\nBlocks-\nberg",
+   "t": "HARZ"
+  },
+  "Bewe-\ngung zur\nMusik"
+ ],
+ "VAKUUM": [
+  "Luftlee-\nrer\nRaum"
+ ],
+ "ANGOLA": [
+  "Staat in\nSüd-\nwestafri-\nka"
+ ],
+ "BURUNDI": [
+  "Kleinsta-\nat in\nOstafrika"
+ ],
+ "DAMWILD": [
+  {
+   "c": "Wild mit\nSchau-\nfelge-\nweih",
+   "t": "HARZ"
+  }
+ ],
+ "EINAKTER": [
+  "Kurzes\nBühnen-\nstück"
+ ],
+ "EMPORE": [
+  {
+   "c": "Galerie\nin der\nKirche",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ERBAUER": [
+  "Schöpfer\neines\nBau-\nwerks"
+ ],
+ "ESKAPADE": [
+  "Törichter\nStreich"
+ ],
+ "HAGER": [
+  "mager\nund\ndünn"
+ ],
+ "IRRIG": [
+  "fehler-\nhaft"
+ ],
+ "KETCHUP": [
+  "Toma-\ntensoße\naus der\nFlasche"
+ ],
+ "LISTE": [
+  "Aufzäh-\nlung auf\nPapier"
+ ],
+ "NARR": [
+  "Figur im\nKarneval"
+ ],
+ "RATE": [
+  "Teilzah-\nlung"
+ ],
+ "RECHEN": [
+  "Harke im\nGarten"
+ ],
+ "ROMANTIK": [
+  "Epoche\nnach der\nKlassik"
+ ],
+ "SEHTEST": [
+  {
+   "c": "Prüfung\nbeim\nAugena-\nrzt",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "SKALP": [
+  "Kopf-\nhaut mit\nHaaren"
+ ],
+ "STOLA": [
+  {
+   "c": "Schal\ndes\nGeistli-\nchen",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "MUSIK": [
+  {
+   "c": "Klang\nbeim\nAltstadt-\nfest",
+   "t": "SALZGITTERBAD"
+  },
+  "Töne in\nFolge"
+ ],
+ "SCHNITT": [
+  {
+   "c": "Arbeit\nmit der\nGarten-\nschere",
+   "t": "PFLANZEN"
+  },
+  "Mittel-\nwert"
+ ],
+ "KONTRA": [
+  {
+   "c": "Ansage\nbeim\nSkat",
+   "t": "BRETTSPIELE"
+  },
+  "Das\nGegen-\nteil von\nPro"
+ ],
+ "BARUM": [
+  {
+   "c": "Ortsteil\nvon\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "LESSE": [
+  {
+   "c": "Dorf bei\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "DUSCHRAUM": [
+  "Raum\nzum\nAbbrau-\nsen",
+  "Letzte\nStation\nder\nSchicht"
+ ],
+ "CHATEAU": [
+  "Schloss\n(frz.)"
+ ],
+ "KORINTHER": [
+  "Griechen\nder\nAntike\n(Pl.)"
+ ],
+ "ANANAS": [
+  "Frucht\nmit\nSchopf"
+ ],
+ "EIER": [
+  "Zutat für\nden\nRührteig\n(Pl.)"
+ ],
+ "MAFIOSI": [
+  "Mitglie-\nder einer\nBande\n(Pl.)"
+ ],
+ "NAGETIER": [
+  "Maus\noder\nBiber"
+ ],
+ "NASHORN": [
+  "Dickhäu-\nter mit\nHorn"
+ ],
+ "NEBLIG": [
+  "diesig\nund trüb"
+ ],
+ "SAURIER": [
+  "Tier der\nUrzeit"
+ ],
+ "AETHER": [
+  "Leichtes\nLö-\nsungs-\nmittel"
+ ],
+ "LUZERNER": [
+  "Schwei-\nzer aus\ndem\nKanton"
+ ],
+ "APSIS": [
+  "Halbrun-\nder\nKirchen-\nanbau"
+ ],
+ "ASKET": [
+  "Mensch\nder\nEntsa-\ngung"
+ ],
+ "BAENKE": [
+  {
+   "c": "Sitzplät-\nze im\nKurpark\n(Pl.)",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BELLO": [
+  "Klassi-\nscher\nHunde-\nname"
+ ],
+ "BLANK": [
+  {
+   "c": "frisch\npoliert",
+   "t": "HARZ"
+  }
+ ],
+ "CHORAL": [
+  {
+   "c": "Lied im\nGottes-\ndienst",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ECHO": [
+  "Wider-\nhall im\nTal"
+ ],
+ "EMSLAND": [
+  {
+   "c": "Region\nan der\nEms",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "GROB": [
+  "nicht\nfein"
+ ],
+ "HUNT": [
+  {
+   "c": "Förder-\nwagen\nim\nBergbau",
+   "t": "BERGWERK"
+  }
+ ],
+ "KLEIE": [
+  "Schalen-\nrest vom\nGetreide"
+ ],
+ "KOKEREI": [
+  {
+   "c": "Anlage\nfür Koks",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "KOTE": [
+  {
+   "c": "Hütte\ndes\nKöhlers",
+   "t": "HARZ"
+  }
+ ],
+ "KURORT": [
+  {
+   "c": "Heilbad\nim\nGebirge",
+   "t": "HARZ"
+  }
+ ],
+ "LIGA": [
+  {
+   "c": "Spiel-\nklasse\nim Sport",
+   "t": "FUSSBALL"
+  }
+ ],
+ "MARTHA": [
+  {
+   "c": "Schwes-\nter des\nLazarus",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "MOENCH": [
+  {
+   "c": "Bewoh-\nner des\nKlosters",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "NADEL": [
+  {
+   "c": "Blatt der\nTanne",
+   "t": "PFLANZEN"
+  }
+ ],
+ "PELZ": [
+  {
+   "c": "Fell des\nVierbei-\nners",
+   "t": "HUNDE"
+  }
+ ],
+ "PILGERFAHRT": [
+  {
+   "c": "Reise\nzum\nheiligen\nOrt",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "RABATTE": [
+  {
+   "c": "Schma-\nles\nBlumen-\nbeet",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ROLLER": [
+  {
+   "c": "Harzer\nSingvo-\ngel",
+   "t": "HARZ"
+  }
+ ],
+ "ROSETTE": [
+  "Rund-\nfenster\nder\nKirche"
+ ],
+ "SKIER": [
+  "Bretter\nfür die\nAbfahrt\n(Pl.)"
+ ],
+ "ZINNOBER": [
+  "Kräftiges\nRot"
+ ],
+ "AEBTE": [
+  "Kloster-\nvorste-\nher (Pl.)",
+  "Obere\nmehrerer\nKlöster\n(Pl.)"
+ ],
+ "AESTE": [
+  {
+   "c": "Zweige\nam\nBaum\n(Pl.)",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ALLEE": [
+  {
+   "c": "Straße\nmit\nBäumen",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BREIIG": [
+  "wie Mus"
+ ],
+ "EICHE": [
+  {
+   "c": "Harter\nLaub-\nbaum",
+   "t": "PFLANZEN"
+  }
+ ],
+ "EUPHRAT": [
+  "Strom in\nVorder-\nasien"
+ ],
+ "FLUCHT": [
+  {
+   "c": "Reise\nder\nheiligen\nFamilie",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "GEMUESE": [
+  {
+   "c": "Beilage\naus dem\nGarten",
+   "t": "KOCHEN"
+  }
+ ],
+ "GOTHA": [
+  "Stadt in\nThürin-\ngen",
+  "Resi-\ndenz in\nThürin-\ngen"
+ ],
+ "HELD": [
+  "Mutiger\nMann"
+ ],
+ "ILMENAU": [
+  {
+   "c": "Fluss\ndurch\nLüne-\nburg",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "KAMERUN": [
+  "Staat in\nWestafri-\nka"
+ ],
+ "KERNER": [
+  {
+   "c": "Fernseh-\nmann\nJohan-\nnes B.",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "MAIS": [
+  {
+   "c": "Getreide\nmit\nKolben",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ORGANISMUS": [
+  "Lebewe-\nsen als\nGanzes"
+ ],
+ "PATT": [
+  {
+   "c": "Unent-\nschieden\nim\nSchach",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "REBE": [
+  {
+   "c": "Wein-\nstock",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ROUTE": [
+  {
+   "c": "Weg der\nFahrt",
+   "t": "REISEN"
+  }
+ ],
+ "SOHN": [
+  "Männli-\ncher\nNach-\nkomme"
+ ],
+ "SPRECHER": [
+  {
+   "c": "Ansager\nim\nStudio",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "STIEGE": [
+  {
+   "c": "Dorf im\nOberha-\nrz",
+   "t": "HARZ"
+  }
+ ],
+ "TABELLE": [
+  {
+   "c": "Ranglis-\nte der\nLiga",
+   "t": "FUSSBALL"
+  }
+ ],
+ "WELTERBE": [
+  {
+   "c": "Titel der\nUnesco",
+   "t": "HARZ"
+  }
+ ],
+ "ZUSATZ": [
+  {
+   "c": "Nach-\nschlag\nzur\nFrage",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "NETZ": [
+  {
+   "c": "Maschen\nhinter\ndem Tor",
+   "t": "FUSSBALL"
+  }
+ ],
+ "RUEHREI": [
+  {
+   "c": "Zerquirl-\ntes aus\nder\nPfanne",
+   "t": "KOCHEN"
+  }
+ ],
+ "STAENDER": [
+  "Gestell\nzum\nAbstel-\nlen"
+ ],
+ "ALBEN": [
+  "Sammel-\nbücher\nfür Fotos\n(Pl.)"
+ ],
+ "ATOMUHR": [
+  "Genau-\nester\nZeitmes-\nser"
+ ],
+ "BAELDE": [
+  "in Kürze,\nveraltet"
+ ],
+ "BAISSE": [
+  "Kursver-\nfall an\nder\nBörse"
+ ],
+ "BANG": [
+  "ängst-\nlich\nzumute"
+ ],
+ "DRESDEN": [
+  {
+   "c": "Stadt an\nder Elbe",
+   "t": "REISEN"
+  }
+ ],
+ "DURST": [
+  "Verlan-\ngen\nnach\nWasser"
+ ],
+ "EINNAHME": [
+  {
+   "c": "Schlu-\ncken der\nTablette",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "ELLENBOGEN": [
+  {
+   "c": "Gelenk\nam Arm",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "ETAPPE": [
+  "Ab-\nschnitt\neiner\nReise"
+ ],
+ "EXIL": [
+  "Leben in\nder\nFremde"
+ ],
+ "GABEL": [
+  {
+   "c": "Verzwei-\ngung am\nBaum",
+   "t": "PFLANZEN"
+  }
+ ],
+ "HEXE": [
+  {
+   "c": "Gestalt\nder\nWalpur-\ngisnacht",
+   "t": "HARZ"
+  }
+ ],
+ "ISLAMISCH": [
+  "musli-\nmisch"
+ ],
+ "KRAENZE": [
+  {
+   "c": "Gebinde\naus\nBlumen\n(Pl.)",
+   "t": "PFLANZEN"
+  }
+ ],
+ "LAMPE": [
+  {
+   "c": "Licht\ndes\nBerg-\nmanns",
+   "t": "HARZ"
+  }
+ ],
+ "LANDSMANN": [
+  "Mensch\naus\ngleicher\nGegend"
+ ],
+ "LATZ": [
+  "Teil der\nSchürze"
+ ],
+ "MUELLER": [
+  {
+   "c": "Hand-\nwerker\nan der\nMühle",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "PALME": [
+  {
+   "c": "Baum\nder Oase",
+   "t": "PFLANZEN"
+  }
+ ],
+ "PAPA": [
+  "Kose-\nwort für\nden\nVater",
+  "Vertrau-\nter Name\ndes\nVaters"
+ ],
+ "REUE": [
+  {
+   "c": "Bedau-\nern der\nSünde",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "SIZILIEN": [
+  "Größte\nRegion\nItaliens"
+ ],
+ "UNGNADE": [
+  {
+   "c": "Verlust\nder\nGunst",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "WAENDE": [
+  {
+   "c": "Steile\nFelssei-\nten (Pl.)",
+   "t": "HARZ"
+  }
+ ],
+ "TEXANER": [
+  "Mann\naus\nDallas"
+ ],
+ "VIRTUELL": [
+  "nur\nschein-\nbar da"
+ ],
+ "SEEBAD": [
+  "Badeort\nan der\nKüste"
+ ],
+ "KOPFHOERER": [
+  "Laut-\nsprecher\ndicht am\nOhr"
+ ],
+ "STOSS": [
+  "Heftiger\nAufprall"
+ ],
+ "UNHEILVOLL": [
+  "düster\nund\ndrohend"
+ ],
+ "BIER": [
+  {
+   "c": "Hopfen-\ngetränk\nin der\nBaude",
+   "t": "HARZ"
+  }
+ ],
+ "JAGD": [
+  {
+   "c": "Pirsch\nim\nRevier",
+   "t": "HARZ"
+  }
+ ],
+ "ELTERN": [
+  "Vater\nund\nMutter\n(Pl.)"
+ ],
+ "BIOLOGIE": [
+  "Lehre\nvom\nLebendi-\ngen"
+ ],
+ "BREI": [
+  {
+   "c": "Weiche\nSpeise",
+   "t": "KOCHEN"
+  }
+ ],
+ "CANBERRA": [
+  "Haupt-\nstadt\nAustrali-\nens"
+ ],
+ "CANNES": [
+  "Film-\nstadt an\nder\nRiviera"
+ ],
+ "ENTEBBE": [
+  "Stadt in\nUganda"
+ ],
+ "ERBSE": [
+  {
+   "c": "Hülsen-\nfrucht im\nBeet",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ESSEN": [
+  {
+   "c": "Mahlzeit\nauf der\nStation",
+   "t": "KRANKENHAUS"
+  },
+  "Stadt im\nRuhrge-\nbiet"
+ ],
+ "HUNTE": [
+  {
+   "c": "Neben-\nfluss der\nWeser",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "INTERESSENT": [
+  "Mögli-\ncher\nKäufer"
+ ],
+ "KLIMA": [
+  "Wetter\nüber\nlange\nZeit"
+ ],
+ "MAUER": [
+  {
+   "c": "Wand\naus\nStein",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "NEON": [
+  "Gas in\nder\nLeucht-\nröhre"
+ ],
+ "OHIO": [
+  "Staat der\nUSA"
+ ],
+ "OKER": [
+  {
+   "c": "Fluss\ndurch\nBraun-\nschweig",
+   "t": "HARZ"
+  },
+  "Fluss\naus dem\nHarz"
+ ],
+ "OZON": [
+  "Gas in\nhoher\nLuft-\nschicht"
+ ],
+ "PARTEILICH": [
+  "nicht\nneutral"
+ ],
+ "PEINE": [
+  {
+   "c": "Stadt bei\nHanno-\nver",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "SCHON": [
+  "bereits\njetzt"
+ ],
+ "SECHSER": [
+  {
+   "c": "Spieler\nvor der\nAbwehr",
+   "t": "FUSSBALL"
+  }
+ ],
+ "SEEMEILE": [
+  "Maß auf\ndem\nWasser"
+ ],
+ "SPINNWEBE": [
+  "Netz im\nDachbal-\nken"
+ ],
+ "TIARA": [
+  "Kopf-\nschmuck\ndes\nPapstes"
+ ],
+ "TONART": [
+  "Dur oder\nMoll"
+ ],
+ "TOURISMUS": [
+  {
+   "c": "Reise-\nverkehr\nim\nGebirge",
+   "t": "HARZ"
+  }
+ ],
+ "WESER": [
+  {
+   "c": "Strom\ndurch\nBremen",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "ZEITLIMIT": [
+  {
+   "c": "Frist bis\nzur\nAntwort",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "ABEND": [
+  {
+   "c": "Zeit vor\nder\nNacht",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "ALTER": [
+  "Zahl der\nLebens-\njahre"
+ ],
+ "BINOM": [
+  "Zwei-\ngliedrige\nSumme"
+ ],
+ "AHNEN": [
+  "Vorfah-\nren der\nFamilie\n(Pl.)"
+ ],
+ "BAUHAUS": [
+  "Schule\nder\nModerne"
+ ],
+ "BEFUGT": [
+  "zu etwas\nberech-\ntigt"
+ ],
+ "BODE": [
+  {
+   "c": "Fluss\ndurchs\nHarzge-\nbirge",
+   "t": "HARZ"
+  }
+ ],
+ "CHINA": [
+  "Reich\nder Mitte"
+ ],
+ "COSTABRAVA": [
+  {
+   "c": "Küste in\nKataloni-\nen",
+   "t": "REISEN"
+  }
+ ],
+ "DORN": [
+  {
+   "c": "Spitze\nan der\nRose",
+   "t": "PFLANZEN"
+  }
+ ],
+ "EINBAU": [
+  "Nach-\nträgliche\nMontage"
+ ],
+ "EINST": [
+  "vor\nlanger\nZeit"
+ ],
+ "FANS": [
+  {
+   "c": "Anhän-\nger im\nStadion\n(Pl.)",
+   "t": "FUSSBALL"
+  }
+ ],
+ "FUECHSE": [
+  {
+   "c": "Rotpelzi-\nge\nWaldtie-\nre (Pl.)",
+   "t": "PFLANZEN"
+  }
+ ],
+ "GIZEH": [
+  "Ort der\ngroßen\nPyrami-\nden"
+ ],
+ "HAMAM": [
+  {
+   "c": "Türki-\nsches\nDampf-\nbad",
+   "t": "REISEN"
+  }
+ ],
+ "HELFER": [
+  "Mann an\nder\nSeitenli-\nnie"
+ ],
+ "HEUBLUME": [
+  {
+   "c": "Auflage\naus dem\nKräuter-\nsack",
+   "t": "SPA"
+  }
+ ],
+ "IRANISCH": [
+  "aus\nPersien\nstam-\nmend"
+ ],
+ "KNIFF": [
+  "Schlauer\nTrick"
+ ],
+ "MINERALIEN": [
+  "Stoffe im\nWasser\n(Pl.)"
+ ],
+ "MISSMUT": [
+  "Schlech-\nte Laune"
+ ],
+ "PLAGIAT": [
+  "Geistiger\nDieb-\nstahl"
+ ],
+ "RAPS": [
+  {
+   "c": "Gelbes\nFeld im\nMai",
+   "t": "PFLANZEN"
+  }
+ ],
+ "REUSE": [
+  {
+   "c": "Korb für\nden\nFisch-\nfang",
+   "t": "NORDSEE"
+  }
+ ],
+ "RHYTHMEN": [
+  "Takte\nder\nMusik\n(Pl.)"
+ ],
+ "RUTH": [
+  "Frau im\nAlten\nTesta-\nment"
+ ],
+ "SAMEN": [
+  {
+   "c": "Korn\nzum\nAussäen",
+   "t": "PFLANZEN"
+  }
+ ],
+ "SINNFREI": [
+  "ohne\njeden\nZweck"
+ ],
+ "SPUELE": [
+  {
+   "c": "Becken\nin der\nKüche",
+   "t": "KOCHEN"
+  }
+ ],
+ "UEBELTAT": [
+  "Böse\nHand-\nlung"
+ ],
+ "VALUTA": [
+  "Fremde\nWährung"
+ ],
+ "WALL": [
+  {
+   "c": "Erdauf-\nschüt-\ntung um\ndie Stadt",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ABRAHAM": [
+  "Stamm-\nvater der\nBibel"
+ ],
+ "ANGETAN": [
+  "sehr\neinge-\nnommen"
+ ],
+ "SHERIFF": [
+  "Hüter\ndes\nGeset-\nzes"
+ ],
+ "AKELEI": [
+  {
+   "c": "Staude\nim\nBauern-\ngarten",
+   "t": "PFLANZEN"
+  }
+ ],
+ "AKUSTIK": [
+  "Klang in\neinem\nRaum"
+ ],
+ "AMATEUR": [
+  "Sportler\nohne\nBezah-\nlung"
+ ],
+ "DEMUT": [
+  {
+   "c": "Beschei-\ndenheit\nvor Gott",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "FRESSER": [
+  "Tier mit\ngroßem\nAppetit"
+ ],
+ "GRAT": [
+  {
+   "c": "Schma-\nler\nBergrü-\ncken",
+   "t": "HARZ"
+  }
+ ],
+ "HIRSCH": [
+  {
+   "c": "Geweih-\nträger im\nWald",
+   "t": "HARZ"
+  }
+ ],
+ "IDYLL": [
+  "Bild des\nFriedens"
+ ],
+ "IMPFPASS": [
+  {
+   "c": "Heft mit\nden\nSpritzen",
+   "t": "REISEN"
+  },
+  "Heft für\ndie\nReise"
+ ],
+ "KRIM": [
+  {
+   "c": "Halbin-\nsel im\nSchwar-\nzen Meer",
+   "t": "UKRAINE"
+  }
+ ],
+ "MADEIRA": [
+  {
+   "c": "Blumen-\ninsel im\nAtlantik",
+   "t": "REISEN"
+  }
+ ],
+ "MUSTER": [
+  "Vorlage\nzum\nNachma-\nchen"
+ ],
+ "OKTAN": [
+  "Kenn-\nzahl\nbeim\nBenzin"
+ ],
+ "PETRUS": [
+  {
+   "c": "Erster\nder\nApostel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "PRIORIN": [
+  {
+   "c": "Vorste-\nherin im\nKloster",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "PSALM": [
+  {
+   "c": "Lied aus\nder Bibel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "REISEBUERO": [
+  {
+   "c": "Laden\nfür\nUrlaubs-\nfahrten",
+   "t": "REISEN"
+  }
+ ],
+ "REMIS": [
+  {
+   "c": "Ausgang\nohne\nSieger",
+   "t": "FUSSBALL"
+  }
+ ],
+ "WEHR": [
+  {
+   "c": "Stau-\nwerk im\nBach",
+   "t": "HARZ"
+  }
+ ],
+ "WURF": [
+  {
+   "c": "Alle\nWelpen\nauf\neinmal",
+   "t": "HUNDE"
+  }
+ ],
+ "EKLAT": [
+  "Lauter\nStreit"
+ ],
+ "RUECKENGUSS": [
+  {
+   "c": "Kalte\nKneip-\npanwen-\ndung",
+   "t": "SPA"
+  }
+ ],
+ "SCHERE": [
+  {
+   "c": "Gerät\nzum\nSchnei-\nden",
+   "t": "PFLANZEN"
+  }
+ ],
+ "FREIBAD": [
+  {
+   "c": "Bassin\nunter\nHimmel",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BEERE": [
+  {
+   "c": "Frucht\nam\nWalds-\ntrauch",
+   "t": "HARZ"
+  }
+ ],
+ "ALIAS": [
+  "auch\ngenannt"
+ ],
+ "ANDROGENE": [
+  "Männli-\nche\nHormo-\nne (Pl.)"
+ ],
+ "ARID": [
+  "trocken,\nvom\nKlima"
+ ],
+ "ATLANTIS": [
+  "Versun-\nkene\nSagenin-\nsel"
+ ],
+ "BRAUCH": [
+  {
+   "c": "Sitte\nbeim\nAltstadt-\nfest",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BRETT": [
+  {
+   "c": "Unterla-\nge zum\nSchnei-\nden",
+   "t": "KOCHEN"
+  }
+ ],
+ "EFEUTUTE": [
+  {
+   "c": "Ranken-\nde\nZimmer-\npflanze",
+   "t": "PFLANZEN"
+  }
+ ],
+ "EGGE": [
+  {
+   "c": "Gerät\nhinter\ndem\nTraktor",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "ERHITZER": [
+  "Gerät\nzum\nAufwär-\nmen"
+ ],
+ "GINSTER": [
+  {
+   "c": "Gelb\nblühen-\nder\nStrauch",
+   "t": "PFLANZEN"
+  }
+ ],
+ "HAENDLER": [
+  {
+   "c": "Kauf-\nmann\nauf dem\nMarkt",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ISAAK": [
+  {
+   "c": "Sohn\nAbra-\nhams",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "JOKER": [
+  {
+   "c": "Hilfe bei\nder\nFrage",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "KRONE": [
+  {
+   "c": "Oberer\nTeil des\nBaumes",
+   "t": "PFLANZEN"
+  },
+  "Reif des\nKönigs",
+  "Zacken\nauf dem\nHaupt"
+ ],
+ "LAKE": [
+  {
+   "c": "Salzige\nFlüssig-\nkeit",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "OBERARM": [
+  {
+   "c": "Glied\nunter der\nSchulter",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "RASSE": [
+  "Zucht-\nform\nbeim\nTier"
+ ],
+ "SAEGE": [
+  {
+   "c": "Werk-\nzeug des\nWaldar-\nbeiters",
+   "t": "HARZ"
+  }
+ ],
+ "SATURN": [
+  "Planet\nmit\nRingen"
+ ],
+ "SCHOEN": [
+  "hübsch\nanzuse-\nhen"
+ ],
+ "STUDIO": [
+  {
+   "c": "Raum\nfür die\nSendung",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "SUELZE": [
+  "Fleisch\nin Gelee"
+ ],
+ "TAXI": [
+  {
+   "c": "Wagen\nmit\nFahrer",
+   "t": "REISEN"
+  }
+ ],
+ "THALASSO": [
+  {
+   "c": "Kur mit\nMeer-\nwasser",
+   "t": "SPA"
+  }
+ ],
+ "WEBEREI": [
+  "Betrieb\nfür\nStoffe"
+ ],
+ "DRUECKER": [
+  "Griff an\nder Tür"
+ ],
+ "PLAENE": [
+  {
+   "c": "Vorha-\nben (Pl.)",
+   "t": "REISEN"
+  }
+ ],
+ "STIPENDIEN": [
+  "Geld für\nStuden-\nten (Pl.)"
+ ],
+ "ALBUM": [
+  {
+   "c": "Buch für\nUrlaubs-\nbilder",
+   "t": "REISEN"
+  }
+ ],
+ "AROSA": [
+  "Kurort in\nGrau-\nbünden"
+ ],
+ "AUGAPFEL": [
+  "Rundes\nSehor-\ngan"
+ ],
+ "BADEOEL": [
+  {
+   "c": "Zusatz\nfür die\nWanne",
+   "t": "KOSMETIK"
+  }
+ ],
+ "BESUCH": [
+  "Gast für\nein paar\nStunden"
+ ],
+ "BRAUN": [
+  "Farbe\nder\nRinde",
+  "Farbe\nder\nKastanie"
+ ],
+ "BRENNER": [
+  "Teil des\nGas-\nherds"
+ ],
+ "DECODER": [
+  "Gerät\nzum\nEntsch-\nlüsseln"
+ ],
+ "DOLLAR": [
+  "Währung\nder USA"
+ ],
+ "FEUER": [
+  {
+   "c": "Flamme\nim\nKamin",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "FLACON": [
+  "Fläsch-\nchen für\nParfüm"
+ ],
+ "FOTO": [
+  {
+   "c": "Bild aus\ndem\nUrlaub",
+   "t": "REISEN"
+  }
+ ],
+ "HARVARD": [
+  "Hoch-\nschule in\nden USA"
+ ],
+ "HERD": [
+  {
+   "c": "Koch-\nstelle in\nder\nStube",
+   "t": "HARZ"
+  }
+ ],
+ "KNABE": [
+  "Junger\nBursche"
+ ],
+ "KRASS": [
+  "sehr\nauffällig"
+ ],
+ "LADEN": [
+  {
+   "c": "Geschäft\nan der\nEcke",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "MOOR": [
+  {
+   "c": "Nasses\nGelände\nim\nGebirge",
+   "t": "HARZ"
+  }
+ ],
+ "QUELL": [
+  {
+   "c": "Ur-\nsprung\ndes\nBaches",
+   "t": "HARZ"
+  }
+ ],
+ "REHA": [
+  {
+   "c": "Kur nach\nder\nKlinik",
+   "t": "KRANKENHAUS"
+  },
+  "Weg\nzurück\nin den\nAlltag"
+ ],
+ "RINNE": [
+  {
+   "c": "Schmale\nFurche\nim Hang",
+   "t": "HARZ"
+  }
+ ],
+ "SCHOEFFE": [
+  {
+   "c": "Laien-\nrichter\nam\nGericht",
+   "t": "JURA"
+  }
+ ],
+ "SEEMANN": [
+  {
+   "c": "Mann\nauf dem\nSchiff",
+   "t": "NORDSEE"
+  }
+ ],
+ "SELKE": [
+  {
+   "c": "Fluss im\nOstharz",
+   "t": "HARZ"
+  }
+ ],
+ "SIDE": [
+  {
+   "c": "Badeort\nin der\nTürkei",
+   "t": "REISEN"
+  }
+ ],
+ "STARTFELD": [
+  {
+   "c": "Beginn\nauf dem\nSpiel-\nplan",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "STIEL": [
+  {
+   "c": "Halm der\nBlume",
+   "t": "PFLANZEN"
+  }
+ ],
+ "WASSERRAD": [
+  {
+   "c": "Antrieb\nder\nMühle",
+   "t": "HARZ"
+  }
+ ],
+ "ZYPERN": [
+  "Insel bei\nder\nTürkei"
+ ],
+ "DATA": [
+  "Anga-\nben,\nlatei-\nnisch"
+ ],
+ "ALGERIEN": [
+  "Staat in\nNordafri-\nka"
+ ],
+ "AMEN": [
+  {
+   "c": "Schluss-\nwort des\nGebets",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "BAUM": [
+  {
+   "c": "Ge-\nwächs\nan der\nAllee",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ELBE": [
+  {
+   "c": "Strom\ndurch\nHam-\nburg",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "HERBERGE": [
+  {
+   "c": "Einfache\nUnter-\nkunft",
+   "t": "REISEN"
+  },
+  "Quartier\nfür die\nNacht"
+ ],
+ "HEUBALLEN": [
+  {
+   "c": "Runde\nRolle auf\ndem\nFeld",
+   "t": "NIEDERSACHSEN"
+  },
+  "Rolle auf\ndem\nFeld"
+ ],
+ "KALT": [
+  "frostig,\nnicht\nwarm"
+ ],
+ "LINIE": [
+  {
+   "c": "Weg des\nStadt-\nbusses",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "MARGERITE": [
+  {
+   "c": "Weiße\nWiesen-\nblume",
+   "t": "PFLANZEN"
+  }
+ ],
+ "MITRA": [
+  {
+   "c": "Mütze\ndes\nBischofs",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "PELMENI": [
+  {
+   "c": "Gefüllte\nTeigta-\nschen\n(Pl.)",
+   "t": "UKRAINE"
+  }
+ ],
+ "SCHLAPP": [
+  {
+   "c": "müde\nvom\nWandern",
+   "t": "HARZ"
+  },
+  "müde\nnach der\nWande-\nrung"
+ ],
+ "STULLE": [
+  "Belegtes\nBrot"
+ ],
+ "TAGESKARTE": [
+  {
+   "c": "Eintritt\nfür einen\nTag",
+   "t": "SPA"
+  }
+ ],
+ "TAUWERK": [
+  {
+   "c": "Seile an\nBord",
+   "t": "NORDSEE"
+  }
+ ],
+ "TURIN": [
+  "Stadt am\nPo"
+ ],
+ "VERLASS": [
+  {
+   "c": "Sicheres\nVertrau-\nen",
+   "t": "FUSSBALL"
+  }
+ ],
+ "INTEGRE": [
+  "Unbe-\nstechli-\nche (Pl.)"
+ ],
+ "TAPAS": [
+  {
+   "c": "Häpp-\nchen in\nSpanien\n(Pl.)",
+   "t": "REISEN"
+  }
+ ],
+ "ABLEGER": [
+  {
+   "c": "Trieb\nzum\nEinpflan-\nzen",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ASIEN": [
+  "Größter\nErdteil"
+ ],
+ "BULETTE": [
+  {
+   "c": "Frikadel-\nle in\nBerlin",
+   "t": "KOCHEN"
+  }
+ ],
+ "BUNDESLIGA": [
+  {
+   "c": "Höchste\nSpiel-\nklasse",
+   "t": "FUSSBALL"
+  }
+ ],
+ "DENKEN": [
+  "Arbeit\ndes\nVerstan-\ndes"
+ ],
+ "ERSTHELFER": [
+  {
+   "c": "Retter\nam\nUnfallort",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "GIFT": [
+  "Schädli-\ncher\nStoff"
+ ],
+ "IMMENS": [
+  {
+   "c": "riesig\ngroß",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "KLEINOD": [
+  {
+   "c": "Kostba-\nres\nStück",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "LEIER": [
+  {
+   "c": "Altes\nZupfin-\nstrument",
+   "t": "HARZ"
+  }
+ ],
+ "PAUSE": [
+  {
+   "c": "Ruhe zur\nHalbzeit",
+   "t": "FUSSBALL"
+  }
+ ],
+ "PFERD": [
+  {
+   "c": "Tier im\nLandes-\nwappen",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "POSTNATAL": [
+  "nach der\nGeburt"
+ ],
+ "PREDIGT": [
+  {
+   "c": "Rede\nvon der\nKanzel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "RARITAET": [
+  "Seltenes\nStück"
+ ],
+ "SESSEL": [
+  {
+   "c": "Sitz des\nKandida-\nten",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "STADT": [
+  "Größere\nSiedlung"
+ ],
+ "STAHL": [
+  {
+   "c": "Erzeug-\nnis des\nHütten-\nwerks",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SYRER": [
+  "Bewoh-\nner von\nDamas-\nkus"
+ ],
+ "TEST": [
+  {
+   "c": "Probe\nbeim\nArzt",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "TREFFPUNKT": [
+  {
+   "c": "Ort zum\nSam-\nmeln",
+   "t": "REISEN"
+  }
+ ],
+ "ZENTRALE": [
+  "Haupt-\nsitz einer\nFirma"
+ ],
+ "ZINS": [
+  {
+   "c": "Entgelt\nfür das\nDarlehen",
+   "t": "JURA"
+  }
+ ],
+ "FLAIR": [
+  "Gewis-\nser\nZauber"
+ ],
+ "TELEKINESE": [
+  "Bewe-\ngen aus\nder\nFerne"
+ ],
+ "ELTON": [
+  {
+   "c": "Mann bei\nRate-\nspielen",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "DENKSPORT": [
+  {
+   "c": "Training\nfürs\nGehirn",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "ADAM": [
+  {
+   "c": "Erster\nMensch\nder Bibel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ALTBAU": [
+  {
+   "c": "Haus\naus alter\nZeit",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BRAEUTE": [
+  {
+   "c": "Frauen\nam\nTraualtar\n(Pl.)",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ERWERB": [
+  "Kauf\neiner\nSache"
+ ],
+ "ERZGEBIRGE": [
+  {
+   "c": "Mittelge-\nbirge in\nSachsen",
+   "t": "REISEN"
+  }
+ ],
+ "FIRN": [
+  {
+   "c": "Alter\nSchnee\nim\nGebirge",
+   "t": "HARZ"
+  }
+ ],
+ "GINKGO": [
+  {
+   "c": "Baum\nmit\nFächer-\nblatt",
+   "t": "PFLANZEN"
+  }
+ ],
+ "GNOSIS": [
+  "Frühe\nGeheim-\nlehre"
+ ],
+ "GRAF": [
+  "Titel im\nAdel",
+  "Adliger\nmit\nSchloss",
+  "Adelsti-\ntel unter\ndem\nFürsten",
+  "Rang\nunter\ndem\nFürsten"
+ ],
+ "INNIG": [
+  "herzlich\nund tief",
+  "aus\ntiefem\nHerzen"
+ ],
+ "LEGIONAER": [
+  {
+   "c": "Spieler\naus dem\nAusland",
+   "t": "FUSSBALL"
+  }
+ ],
+ "LEISE": [
+  "kaum zu\nhören"
+ ],
+ "LIKOER": [
+  {
+   "c": "Süßer\nKräuter-\nschnaps",
+   "t": "HARZ"
+  }
+ ],
+ "LINGEN": [
+  {
+   "c": "Stadt an\nder Ems",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "PASSAU": [
+  {
+   "c": "Stadt an\ndrei\nFlüssen",
+   "t": "REISEN"
+  }
+ ],
+ "PRIOR": [
+  {
+   "c": "Oberer\nim\nKloster",
+   "t": "CHRISTENTUM"
+  },
+  "Kloster-\nvorste-\nher"
+ ],
+ "REPPNER": [
+  {
+   "c": "Ortsteil\nvon\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SATT": [
+  "nicht\nmehr\nhungrig"
+ ],
+ "TROG": [
+  {
+   "c": "Mulde\nfür das\nVieh",
+   "t": "HARZ"
+  }
+ ],
+ "ENGE": [
+  {
+   "c": "Wenig\nPlatz im\nStollen",
+   "t": "BERGWERK"
+  }
+ ],
+ "GEGENSATZ": [
+  "Genaues\nWider-\nspiel"
+ ],
+ "LANDTAG": [
+  {
+   "c": "Parla-\nment in\nHanno-\nver",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "ANGELN": [
+  "Fischen\nmit der\nRute"
+ ],
+ "AVOCADO": [
+  "Birnen-\nförmige\nFrucht"
+ ],
+ "BACH": [
+  {
+   "c": "Kleiner\nLauf im\nTal",
+   "t": "HARZ"
+  }
+ ],
+ "BILDUNG": [
+  "Wissen\ndurch\nLernen"
+ ],
+ "EFFEKT": [
+  "Sichtba-\nre\nWirkung"
+ ],
+ "ENKEL": [
+  {
+   "c": "Kind des\nKindes",
+   "t": "UKRAINE"
+  }
+ ],
+ "FLOP": [
+  "Reinfall,\nMisser-\nfolg"
+ ],
+ "FORST": [
+  {
+   "c": "Bewirt-\nschafte-\nter Wald",
+   "t": "HARZ"
+  }
+ ],
+ "GEDECK": [
+  {
+   "c": "Teller\nund\nBesteck",
+   "t": "KOCHEN"
+  }
+ ],
+ "GLORIA": [
+  {
+   "c": "Lobge-\nsang in\nder\nMesse",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "GRAD": [
+  "Einheit\nder\nTempe-\nratur"
+ ],
+ "GRAPH": [
+  "Kurve im\nSchau-\nbild"
+ ],
+ "HAINBUCHE": [
+  {
+   "c": "Baum\nfür die\nHecke",
+   "t": "PFLANZEN"
+  }
+ ],
+ "HALT": [
+  {
+   "c": "Station\ndes\nBusses",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "HAUTNAH": [
+  "ganz\ndicht\ndabei"
+ ],
+ "HELSINKI": [
+  "Haupt-\nstadt\nFinn-\nlands"
+ ],
+ "HOERTEST": [
+  {
+   "c": "Prüfung\nder\nOhren",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "KIOSK": [
+  {
+   "c": "Bude für\nZeitun-\ngen",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "NAHT": [
+  {
+   "c": "Ver-\nschluss\nder\nWunde",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "SCHAF": [
+  {
+   "c": "Tier bei\nder\nKrippe",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "SIEBEN": [
+  "Zahl vor\nder Acht"
+ ],
+ "SOUTANE": [
+  {
+   "c": "Gewand\ndes\nPriesters",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "SPALT": [
+  "Schma-\nler Riss"
+ ],
+ "VASE": [
+  {
+   "c": "Gefäß\nfür den\nStrauß",
+   "t": "PFLANZEN"
+  }
+ ],
+ "VERBAND": [
+  {
+   "c": "Mull um\ndie\nWunde",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "WICKELN": [
+  {
+   "c": "Teig um\ndie\nFüllung\nlegen",
+   "t": "KOCHEN"
+  }
+ ],
+ "ZINN": [
+  {
+   "c": "Weiches\nMetall\naus Erz",
+   "t": "BERGWERK"
+  }
+ ],
+ "BALLERINA": [
+  "Tänzerin\nauf\nSpitze"
+ ],
+ "AERZTIN": [
+  {
+   "c": "Frau im\nweißen\nKittel",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "AZALEE": [
+  {
+   "c": "Blühen-\nder\nZimmer-\nstrauch",
+   "t": "PFLANZEN"
+  }
+ ],
+ "GASSE": [
+  {
+   "c": "Schmale\nStraße",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "GITTER": [
+  {
+   "c": "Stäbe\nvor dem\nFenster",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "HAARSPANGE": [
+  {
+   "c": "Halt für\ndie\nFrisur",
+   "t": "KOSMETIK"
+  }
+ ],
+ "IMPULS": [
+  "Anstoß\nvon\naußen"
+ ],
+ "KARDAMOM": [
+  {
+   "c": "Gewürz\nim\nLebku-\nchen",
+   "t": "KOCHEN"
+  }
+ ],
+ "KLETTE": [
+  {
+   "c": "Haftende\nPflan-\nzen-\nfrucht",
+   "t": "HARZ"
+  }
+ ],
+ "KUBANER": [
+  "Mann\naus\nHavanna"
+ ],
+ "LEIM": [
+  "Klebstoff\ndes\nTisch-\nlers"
+ ],
+ "LIBERAL": [
+  "freiheit-\nlich\ngesinnt"
+ ],
+ "MOHN": [
+  {
+   "c": "Roter\nBlüher\nim\nKornfeld",
+   "t": "PFLANZEN"
+  }
+ ],
+ "PILLE": [
+  {
+   "c": "Runde\nTablette",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "REGGAE": [
+  "Musik\naus\nJamaika"
+ ],
+ "SALZGAU": [
+  {
+   "c": "Alter\nName\nder\nGegend",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SCHWAENE": [
+  {
+   "c": "Weiße\nVögel\nam Teich\n(Pl.)",
+   "t": "HARZ"
+  }
+ ],
+ "SEPARAT": [
+  "getrennt\nfür sich"
+ ],
+ "STATUR": [
+  "Wuchs\neines\nMen-\nschen"
+ ],
+ "STAUDE": [
+  {
+   "c": "Mehrjäh-\nrige\nPflanze",
+   "t": "PFLANZEN"
+  }
+ ],
+ "TANG": [
+  {
+   "c": "Braune\nAlge am\nStrand",
+   "t": "NORDSEE"
+  }
+ ],
+ "TORERO": [
+  "Kämpfer\nin der\nArena",
+  "Mann\nmit dem\nroten\nTuch"
+ ],
+ "ZIEREREI": [
+  "Übertrie-\nbenes\nGetue"
+ ],
+ "ZUZUG": [
+  "Ankunft\nneuer\nBewoh-\nner"
+ ],
+ "ZWEIG": [
+  {
+   "c": "Kleiner\nAst am\nBaum",
+   "t": "PFLANZEN"
+  }
+ ],
+ "EBENE": [
+  {
+   "c": "Flaches\nweites\nLand",
+   "t": "UKRAINE"
+  }
+ ],
+ "TIERART": [
+  {
+   "c": "Gattung\nim Zoo",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "ASYL": [
+  "Schutz\nfür\nVerfolgte"
+ ],
+ "ATOLL": [
+  {
+   "c": "Ringför-\nmige\nKorallen-\ninsel",
+   "t": "REISEN"
+  }
+ ],
+ "ATZE": [
+  "Kumpel,\nberline-\nrisch"
+ ],
+ "AUFBAU": [
+  {
+   "c": "Spiel\nnach\nhinten\nheraus",
+   "t": "FUSSBALL"
+  }
+ ],
+ "BAUER": [
+  {
+   "c": "Mann\nauf dem\nHof",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "BRISANZ": [
+  "Politi-\nsche\nSpreng-\nkraft"
+ ],
+ "DESASTER": [
+  {
+   "c": "Völliges\nMissge-\nschick",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ELIA": [
+  {
+   "c": "Prophet\nim Alten\nTesta-\nment",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ERITREA": [
+  "Staat am\nRoten\nMeer"
+ ],
+ "FLUCH": [
+  {
+   "c": "Zorniger\nAusruf",
+   "t": "FUSSBALL"
+  }
+ ],
+ "HUTTHAUS": [
+  {
+   "c": "Altes\nGebäude\nder\nGrube",
+   "t": "HARZ"
+  }
+ ],
+ "HYMNE": [
+  {
+   "c": "Lied vor\ndem\nAnpfiff",
+   "t": "FUSSBALL"
+  }
+ ],
+ "KUERBIS": [
+  {
+   "c": "Große\nFrucht\nim\nHerbst",
+   "t": "PFLANZEN"
+  }
+ ],
+ "LIMIT": [
+  "Obere\nGrenze"
+ ],
+ "LUPINE": [
+  {
+   "c": "Blaue\nBlume\nam\nWegrand",
+   "t": "PFLANZEN"
+  }
+ ],
+ "MULL": [
+  {
+   "c": "Weicher\nStoff für\nBinden",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "NAMUR": [
+  "Stadt in\nBelgien"
+ ],
+ "SEEWIND": [
+  {
+   "c": "Frische\nLuft von\nder\nKüste",
+   "t": "NORDSEE"
+  }
+ ],
+ "SOLI": [
+  "Einzel-\nvorträge\n(Pl.)"
+ ],
+ "STUBE": [
+  {
+   "c": "Warmes\nZimmer\nder\nBaude",
+   "t": "HARZ"
+  }
+ ],
+ "STUETZE": [
+  {
+   "c": "Verläss-\nlicher\nSpieler",
+   "t": "FUSSBALL"
+  }
+ ],
+ "STUNTMAN": [
+  "Mann für\ndie\nWagnis-\nse"
+ ],
+ "TURMBAU": [
+  {
+   "c": "Ereignis\nvon\nBabel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "UNBESTRAFT": [
+  "ohne\nFolgen\ngeblie-\nben"
+ ],
+ "VIKAR": [
+  {
+   "c": "Pfarrer\nin der\nAusbil-\ndung",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "WUERFEL": [
+  {
+   "c": "Kubus\nmit\nAugen",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "ALANYA": [
+  {
+   "c": "Badeort\nin der\nTürkei",
+   "t": "REISEN"
+  }
+ ],
+ "DERBY": [
+  {
+   "c": "Spiel\ngegen\nNach-\nbarn",
+   "t": "FUSSBALL"
+  }
+ ],
+ "PFEILER": [
+  {
+   "c": "Rest\nzum\nAbstüt-\nzen",
+   "t": "BERGWERK"
+  }
+ ],
+ "ARCHE": [
+  {
+   "c": "Boot des\nNoah",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ARZNEI": [
+  {
+   "c": "Mittel\naus der\nApothe-\nke",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "AUSREDE": [
+  "Faule\nAus-\nflucht"
+ ],
+ "DEISTER": [
+  {
+   "c": "Höhen-\nzug bei\nHanno-\nver",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "DEUT": [
+  "Kein\nbisschen\ndavon"
+ ],
+ "EILIG": [
+  "in großer\nHast"
+ ],
+ "EISBECHER": [
+  {
+   "c": "Süße\nKugeln\nim Glas",
+   "t": "KOCHEN"
+  }
+ ],
+ "EISIG": [
+  "bitter\nkalt"
+ ],
+ "EMSIG": [
+  "fleißig\nund rege"
+ ],
+ "ESTRADE": [
+  "Erhöhte\nBühne"
+ ],
+ "FAUST": [
+  {
+   "c": "Werk\nvon\nGoethe",
+   "t": "HARZ"
+  }
+ ],
+ "FLANKE": [
+  {
+   "c": "Hoher\nBall vor\ndas Tor",
+   "t": "FUSSBALL"
+  }
+ ],
+ "GUMMI": [
+  {
+   "c": "Elasti-\nsches\nMaterial",
+   "t": "PFLANZEN"
+  }
+ ],
+ "HAARKUR": [
+  {
+   "c": "Pflege\nfür die\nFrisur",
+   "t": "KOSMETIK"
+  }
+ ],
+ "IRONIE": [
+  "Feiner\nSpott"
+ ],
+ "LINEAR": [
+  "geradli-\nnig\nverlau-\nfend"
+ ],
+ "MAAR": [
+  "See in\neinem\nKrater"
+ ],
+ "MEISTER": [
+  {
+   "c": "Hand-\nwerker\nmit Brief",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "PARTIE": [
+  {
+   "c": "Durch-\ngang\nbeim\nSpiel",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "PETERSILIE": [
+  {
+   "c": "Grünes\nKraut\nzur\nSuppe",
+   "t": "PFLANZEN"
+  }
+ ],
+ "PFAD": [
+  {
+   "c": "Schma-\nler Weg\nim Wald",
+   "t": "HARZ"
+  }
+ ],
+ "POTSDAM": [
+  {
+   "c": "Stadt mit\nSchloss\nSans-\nsouci",
+   "t": "REISEN"
+  }
+ ],
+ "ROBINSON": [
+  "Held auf\nder Insel"
+ ],
+ "SANDALE": [
+  "Offener\nSommer-\nschuh"
+ ],
+ "TOPF": [
+  {
+   "c": "Gefäß\nfür die\nPflanze",
+   "t": "PFLANZEN"
+  }
+ ],
+ "TRECK": [
+  {
+   "c": "Zug der\nVertrie-\nbenen",
+   "t": "SCHLESIEN"
+  }
+ ],
+ "UEBRIGENS": [
+  "neben-\nbei\nbemerkt"
+ ],
+ "UNRUH": [
+  "Teil der\nUhr"
+ ],
+ "FUCHSIE": [
+  {
+   "c": "Blume\nmit\nGlöck-\nchen",
+   "t": "PFLANZEN"
+  }
+ ],
+ "SEUCHE": [
+  "Grassie-\nrende\nKrank-\nheit"
+ ],
+ "POTENZ": [
+  "Kraft\nund\nWirkung"
+ ],
+ "EGEL": [
+  "Blutsau-\ngender\nWurm"
+ ],
+ "LATENZ": [
+  "Verzö-\ngerte\nReaktion"
+ ],
+ "ALLMACHT": [
+  {
+   "c": "Unbe-\ngrenzte\nMacht\nGottes",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ANFLUG": [
+  "Leichte\nSpur von\netwas"
+ ],
+ "ARARAT": [
+  "Berg der\nArche"
+ ],
+ "BENZOL": [
+  "Stoff aus\ndem\nTeer"
+ ],
+ "BRUMMER": [
+  "Dicke\nFliege"
+ ],
+ "DAME": [
+  {
+   "c": "Stärkste\nFigur im\nSchach",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "EMDEN": [
+  {
+   "c": "Hafen-\nstadt in\nOstfries-\nland",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "ENGEL": [
+  {
+   "c": "Bote des\nHimmels",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ESTRAGON": [
+  {
+   "c": "Kraut für\ndie\nSauce",
+   "t": "KOCHEN"
+  }
+ ],
+ "FILET": [
+  {
+   "c": "Zartes\nStück\nFleisch",
+   "t": "KOCHEN"
+  }
+ ],
+ "GEOLOGIE": [
+  "Lehre\nvon der\nErde"
+ ],
+ "GRUENLILIE": [
+  {
+   "c": "Robuste\nZimmer-\npflanze",
+   "t": "PFLANZEN"
+  }
+ ],
+ "GURU": [
+  "Geistiger\nLehrer"
+ ],
+ "IKONE": [
+  {
+   "c": "Heiligen-\nbild der\nOstkir-\nche",
+   "t": "UKRAINE"
+  },
+  "Bild in\nder\nOstkir-\nche"
+ ],
+ "KAMERA": [
+  {
+   "c": "Auge der\nSendung",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "KETSCHUP": [
+  {
+   "c": "Rote\nSoße zur\nWurst",
+   "t": "KOSMETIK"
+  }
+ ],
+ "KNURREN": [
+  {
+   "c": "Warnlaut\ndes\nHundes",
+   "t": "HUNDE"
+  }
+ ],
+ "KOGGE": [
+  {
+   "c": "Schiff\nder\nHanse",
+   "t": "NORDSEE"
+  }
+ ],
+ "MANDAT": [
+  {
+   "c": "Auftrag\ndes\nWählers",
+   "t": "JURA"
+  }
+ ],
+ "MEILER": [
+  {
+   "c": "Haufen\ndes\nKöhlers",
+   "t": "HARZ"
+  }
+ ],
+ "ORIENT": [
+  "Der\nNahe\nOsten"
+ ],
+ "PLENUM": [
+  "Volle\nVer-\nsamm-\nlung"
+ ],
+ "PUNSCH": [
+  {
+   "c": "Heißes\nGetränk\nim\nWinter",
+   "t": "KOCHEN"
+  }
+ ],
+ "QUERPASS": [
+  {
+   "c": "Ball zur\nSeite",
+   "t": "FUSSBALL"
+  }
+ ],
+ "SCHEU": [
+  "ängst-\nlich\nzurück-\nhaltend"
+ ],
+ "SEIL": [
+  {
+   "c": "Starkes\nTau am\nSchacht",
+   "t": "HARZ"
+  }
+ ],
+ "TRAGE": [
+  {
+   "c": "Liege für\nden\nKranken",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "UNRAT": [
+  "Müll und\nAbfall"
+ ],
+ "AACHEN": [
+  "Stadt\nKarls\ndes\nGroßen"
+ ],
+ "ABONNEMENT": [
+  "Fester\nBezug\nder\nZeitung"
+ ],
+ "ADRESSAT": [
+  "Empfän-\nger des\nBriefes"
+ ],
+ "AUSTER": [
+  {
+   "c": "Muschel\nmit Perle",
+   "t": "NORDSEE"
+  }
+ ],
+ "BUTTER": [
+  {
+   "c": "Auf-\nstrich\naus\nRahm",
+   "t": "KOCHEN"
+  }
+ ],
+ "CHART": [
+  "Liste der\nVer-\nkaufs-\nzahlen"
+ ],
+ "CHILI": [
+  {
+   "c": "Scharfe\nSchote",
+   "t": "KOCHEN"
+  }
+ ],
+ "EINBECK": [
+  {
+   "c": "Stadt\ndes\nBock-\nbiers",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "EITEL": [
+  {
+   "c": "auf sein\nAusse-\nhen\nbedacht",
+   "t": "KOSMETIK"
+  }
+ ],
+ "ETAGE": [
+  "Stock-\nwerk im\nHaus"
+ ],
+ "INTEGRAL": [
+  "Rech-\nnung der\nFläche"
+ ],
+ "KAIN": [
+  {
+   "c": "Bruder\ndes Abel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "LAMM": [
+  {
+   "c": "Junges\nSchaf",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "LOSTOPF": [
+  {
+   "c": "Behälter\nfür die\nKugeln",
+   "t": "FUSSBALL"
+  }
+ ],
+ "MATTHAEUS": [
+  {
+   "c": "Evange-\nlist der\nBibel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "MESNER": [
+  "Diener\nder\nKirche"
+ ],
+ "OBHUT": [
+  "Schutz\nund\nAufsicht"
+ ],
+ "PARAGUAY": [
+  "Binnen-\nstaat in\nSüdame-\nrika"
+ ],
+ "PRICKE": [
+  {
+   "c": "Zweig\nals\nSeezei-\nchen",
+   "t": "NORDSEE"
+  }
+ ],
+ "SAND": [
+  {
+   "c": "Feines\nKorn am\nUfer",
+   "t": "HARZ"
+  }
+ ],
+ "SCHEIT": [
+  {
+   "c": "Stück\ngespal-\ntenes\nHolz",
+   "t": "HARZ"
+  }
+ ],
+ "SCHMUSEN": [
+  {
+   "c": "Zärtlich\nsein",
+   "t": "HUNDE"
+  }
+ ],
+ "STADTBUS": [
+  {
+   "c": "Wagen\nder\nOrtslinie",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "TANNE": [
+  {
+   "c": "Nadel-\nbaum im\nForst",
+   "t": "HARZ"
+  }
+ ],
+ "TOSKANA": [
+  {
+   "c": "Land-\nschaft\num\nFlorenz",
+   "t": "REISEN"
+  }
+ ],
+ "UMBAU": [
+  "Ände-\nrung am\nGebäude"
+ ],
+ "UNHEIL": [
+  "Großes\nUnglück"
+ ],
+ "KATHETER": [
+  "Röhr-\nchen des\nArztes"
+ ],
+ "ADER": [
+  {
+   "c": "Gang mit\nErz im\nGestein",
+   "t": "BERGWERK"
+  }
+ ],
+ "AERMER": [
+  "weniger\nbegütert"
+ ],
+ "ANRAINER": [
+  "Nachbar\nam\nGrunds-\ntück"
+ ],
+ "ANSPORN": [
+  "Antrieb\nzur\nLeistung"
+ ],
+ "ASTLOCH": [
+  {
+   "c": "Stelle im\nBrett",
+   "t": "HARZ"
+  }
+ ],
+ "BAHN": [
+  {
+   "c": "Zug\ndurch\ndas\nGebirge",
+   "t": "HARZ"
+  }
+ ],
+ "DACH": [
+  {
+   "c": "Deckel\nauf dem\nHaus",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ERERBT": [
+  "vom\nVater\nbekom-\nmen"
+ ],
+ "ESSENSPLAN": [
+  {
+   "c": "Speise-\nfolge der\nWoche",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "FEIND": [
+  "Erklärter\nGegner"
+ ],
+ "GASHERD": [
+  {
+   "c": "Koch-\nstelle mit\nFlamme",
+   "t": "KOCHEN"
+  }
+ ],
+ "GEBET": [
+  {
+   "c": "Zwie-\nsprache\nmit Gott",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "GEBOT": [
+  {
+   "c": "Regel\naus der\nBibel",
+   "t": "JURA"
+  }
+ ],
+ "HEILBUTT": [
+  {
+   "c": "Großer\nPlatt-\nfisch",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "HIMMEL": [
+  {
+   "c": "Reich\nGottes",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "HOSE": [
+  {
+   "c": "Kleidung\ndes\nSpielers",
+   "t": "FUSSBALL"
+  }
+ ],
+ "HOTEL": [
+  "Haus für\nÜber-\nnach-\ntung"
+ ],
+ "IDOL": [
+  "Verehr-\ntes\nVorbild"
+ ],
+ "ISOTOP": [
+  "Spielart\neines\nEle-\nments"
+ ],
+ "KREISRUND": [
+  "völlig\ngerundet"
+ ],
+ "LIBANESE": [
+  "Mann\naus\nBeirut"
+ ],
+ "PFOTE": [
+  {
+   "c": "Fuß des\nVierbei-\nners",
+   "t": "HUNDE"
+  }
+ ],
+ "SOMMER": [
+  {
+   "c": "Wärmste\nJahres-\nzeit",
+   "t": "HARZ"
+  }
+ ],
+ "THIEDE": [
+  {
+   "c": "Ortsteil\nvon\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "TRIEB": [
+  {
+   "c": "Junger\nSpross",
+   "t": "PFLANZEN"
+  }
+ ],
+ "TIBETER": [
+  "Mensch\naus dem\nHimalaja"
+ ],
+ "EHRBAR": [
+  "achtbar\nund\nredlich"
+ ],
+ "ABEL": [
+  {
+   "c": "Sohn\nAdams\nund\nEvas",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ACHIM": [
+  {
+   "c": "Stadt bei\nBremen",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "AZUR": [
+  "Blau des\nHimmels"
+ ],
+ "BELEUMUNDET": [
+  "in einem\nRuf\nstehend"
+ ],
+ "BERUEHRT": [
+  "leicht\nange-\nfasst"
+ ],
+ "BRIEG": [
+  {
+   "c": "Stadt an\nder Oder",
+   "t": "SCHLESIEN"
+  }
+ ],
+ "BRUEHE": [
+  {
+   "c": "Grundla-\nge der\nSuppe",
+   "t": "KOCHEN"
+  }
+ ],
+ "DING": [
+  "Sache,\nGegen-\nstand"
+ ],
+ "ENGERODE": [
+  {
+   "c": "Ortsteil\nvon\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "KIRCHE": [
+  {
+   "c": "Haus mit\ndem\nTurm",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "LANGLAUF": [
+  {
+   "c": "Sport\nauf der\nLoipe",
+   "t": "HARZ"
+  }
+ ],
+ "LOGGIA": [
+  "Über-\ndachter\nBalkon"
+ ],
+ "MAERZ": [
+  "Dritter\nMonat"
+ ],
+ "MISSWAHL": [
+  "Kür der\nSchöns-\nten"
+ ],
+ "OHLAU": [
+  {
+   "c": "Ort in\nNieder-\nschlesi-\nen",
+   "t": "SCHLESIEN"
+  }
+ ],
+ "ORTSRAT": [
+  {
+   "c": "Vertre-\ntung im\nStadtteil",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "RAST": [
+  {
+   "c": "Pause\nauf der\nFahrt",
+   "t": "REISEN"
+  }
+ ],
+ "RATTE": [
+  "Nager im\nKeller"
+ ],
+ "RENITENZ": [
+  "Störri-\nsches\nVerhal-\nten"
+ ],
+ "SHERRY": [
+  "Wein\naus\nSpanien"
+ ],
+ "STREBER": [
+  "Übereif-\nriger\nSchüler"
+ ],
+ "SZENISCH": [
+  "zur\nBühne\ngehö-\nrend"
+ ],
+ "TAFELSPITZ": [
+  "Rind-\nfleisch\naus\nWien"
+ ],
+ "TARA": [
+  "Gewicht\nder\nVerpa-\nckung"
+ ],
+ "FREAK": [
+  "Fan,\nsalopp\n(engl.)"
+ ],
+ "IRAKER": [
+  "Mann\naus\nBagdad"
+ ],
+ "TAICHI": [
+  {
+   "c": "Sanfte\nBewe-\ngung",
+   "t": "SPA"
+  }
+ ],
+ "BEINUM": [
+  {
+   "c": "Ortsteil\nvon\nSalzgit-\nter",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "BOZEN": [
+  "Stadt in\nSüdtirol"
+ ],
+ "BROKDORF": [
+  "Ort an\nder\nUnterel-\nbe"
+ ],
+ "COACH": [
+  {
+   "c": "Betreuer\nder\nMann-\nschaft",
+   "t": "FUSSBALL"
+  }
+ ],
+ "ECHTHEIT": [
+  "Wahrer\nUr-\nsprung"
+ ],
+ "EINZUG": [
+  "Bezug\nder\nWoh-\nnung"
+ ],
+ "ENTGELT": [
+  "Lohn für\nArbeit"
+ ],
+ "EXAKT": [
+  "ganz\ngenau"
+ ],
+ "FARN": [
+  {
+   "c": "Pflanze\nim\nSchatten",
+   "t": "HARZ"
+  }
+ ],
+ "FERNSEHER": [
+  {
+   "c": "Gerät im\nKranken-\nzimmer",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "FOND": [
+  {
+   "c": "Saft vom\nBraten",
+   "t": "KOCHEN"
+  }
+ ],
+ "GRAS": [
+  {
+   "c": "Grüner\nHalm",
+   "t": "PFLANZEN"
+  }
+ ],
+ "JOHANNITER": [
+  {
+   "c": "Helfer im\nRet-\ntungs-\ndienst",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "KASTEN": [
+  {
+   "c": "Behälter\nfür\nBlumen",
+   "t": "PFLANZEN"
+  }
+ ],
+ "KLOTZ": [
+  "Grober\nHolz-\nblock"
+ ],
+ "KNIE": [
+  {
+   "c": "Gelenk\nim Bein",
+   "t": "FUSSBALL"
+  }
+ ],
+ "KREOLE": [
+  "Mensch\nvon den\nAntillen"
+ ],
+ "LOEFFEL": [
+  {
+   "c": "Besteck\nfür die\nSuppe",
+   "t": "KOCHEN"
+  }
+ ],
+ "MECHANIK": [
+  "Lehre\nvon den\nKräften"
+ ],
+ "NERV": [
+  "Leitung\nim\nKörper"
+ ],
+ "NEUERUNG": [
+  "Frische\nÄnde-\nrung"
+ ],
+ "RANZIG": [
+  "alt und\nverdor-\nben"
+ ],
+ "RESERVE": [
+  "Vorrat\nfür\nspäter"
+ ],
+ "STIFT": [
+  {
+   "c": "Gerät\nzum\nSchrei-\nben",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "TOFU": [
+  "Quark\naus\nSojaboh-\nnen"
+ ],
+ "TRANSAKTION": [
+  "Vorgang\nbeim\nGeld"
+ ],
+ "UNGLUECK": [
+  "Schwe-\nres\nMissge-\nschick"
+ ],
+ "HALDE": [
+  {
+   "c": "Schutt\nan der\nGrube",
+   "t": "HARZ"
+  }
+ ],
+ "KEILER": [
+  {
+   "c": "Männli-\nches\nWild-\nschwein",
+   "t": "HARZ"
+  }
+ ],
+ "REIBEN": [
+  {
+   "c": "Käse\nzerklei-\nnern",
+   "t": "KOCHEN"
+  }
+ ],
+ "AERGER": [
+  "Verdruss\nund Zorn"
+ ],
+ "ALPEN": [
+  {
+   "c": "Hohes\nGebirge\n(Pl.)",
+   "t": "REISEN"
+  }
+ ],
+ "ANBRUCH": [
+  "Beginn\ndes\nTages"
+ ],
+ "ANFANG": [
+  {
+   "c": "Start der\nPartie",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "ANGST": [
+  "Große\nFurcht"
+ ],
+ "BADEORT": [
+  {
+   "c": "Ziel am\nSchwar-\nzen Meer",
+   "t": "UKRAINE"
+  }
+ ],
+ "BETT": [
+  {
+   "c": "Möbel im\nKranken-\nzimmer",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "CENT": [
+  "Kleine\nMünze"
+ ],
+ "EDELROSE": [
+  {
+   "c": "Vorneh-\nme\nGarten-\nblume",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ERKLAERER": [
+  "Wer\nalles\nauslegt"
+ ],
+ "ERRUNGEN": [
+  "mit\nMühe\nerlangt"
+ ],
+ "ERZZUG": [
+  {
+   "c": "Bahn mit\nschwe-\nrer\nFracht",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "FLANSCH": [
+  "Ring\nzum\nVerbin-\nden"
+ ],
+ "FOERSTER": [
+  {
+   "c": "Hüter\ndes\nWaldes",
+   "t": "HARZ"
+  }
+ ],
+ "HEBER": [
+  {
+   "c": "Weicher\nBall über\nden\nTorwart",
+   "t": "FUSSBALL"
+  }
+ ],
+ "HIOB": [
+  {
+   "c": "Dulder\nim Alten\nTesta-\nment",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "INTAKT": [
+  "heil und\nunver-\nsehrt"
+ ],
+ "KNETEN": [
+  {
+   "c": "Teig\ndurchar-\nbeiten",
+   "t": "KOCHEN"
+  }
+ ],
+ "KOFFEIN": [
+  "Wach-\nmacher\nim\nKaffee"
+ ],
+ "NARKOSE": [
+  {
+   "c": "Schlaf\nvor der\nOperati-\non",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "RAND": [
+  {
+   "c": "Kante\ndes\nMarkt-\nplatzes",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SPARGEL": [
+  {
+   "c": "Weißes\nStangen-\ngemüse",
+   "t": "PFLANZEN"
+  }
+ ],
+ "TUERKE": [
+  "Mann\naus\nAnkara"
+ ],
+ "UELZEN": [
+  {
+   "c": "Stadt in\nder\nHeide",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "KEMER": [
+  {
+   "c": "Badeort\nin der\nTürkei",
+   "t": "REISEN"
+  }
+ ],
+ "LEMBKE": [
+  {
+   "c": "Alter\nFernseh-\nrater",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "KIEPE": [
+  {
+   "c": "Korb auf\ndem\nRücken",
+   "t": "HARZ"
+  }
+ ],
+ "ROLLE": [
+  {
+   "c": "Walze\nzum\nDrehen",
+   "t": "HARZ"
+  }
+ ],
+ "EIERUHR": [
+  {
+   "c": "Wecker\nfür das\nFrüh-\nstück",
+   "t": "KOCHEN"
+  }
+ ],
+ "EMOTIONELL": [
+  "stark\ngefühls-\nbetont"
+ ],
+ "ESELSOHR": [
+  "Knick in\nder\nBuchsei-\nte"
+ ],
+ "EXPONENT": [
+  "Hochge-\nstellte\nZahl"
+ ],
+ "KNIEFALL": [
+  {
+   "c": "Demüti-\nge Geste\nvor Gott",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "KONKUBINE": [
+  "Gefähr-\ntin ohne\nTrau-\nschein"
+ ],
+ "LAOS": [
+  "Staat in\nHinterin-\ndien"
+ ],
+ "LATEX": [
+  "Milchsaft\ndes\nKau-\ntschuks"
+ ],
+ "LOIPE": [
+  {
+   "c": "Spur für\nden\nLanglauf",
+   "t": "HARZ"
+  }
+ ],
+ "PLAN": [
+  {
+   "c": "Karte für\ndie Fahrt",
+   "t": "REISEN"
+  }
+ ],
+ "RESULTAT": [
+  "Ergebnis\neiner\nRech-\nnung"
+ ],
+ "RUSS": [
+  {
+   "c": "Schwar-\nzer Rest\nvom\nFeuer",
+   "t": "HARZ"
+  }
+ ],
+ "SANTA": [
+  "Heilige,\nitalie-\nnisch"
+ ],
+ "SENIOREN": [
+  {
+   "c": "Ältere\nMann-\nschaft\n(Pl.)",
+   "t": "FUSSBALL"
+  }
+ ],
+ "SETZER": [
+  "Mann in\nder\nDrucke-\nrei"
+ ],
+ "SOZIAL": [
+  {
+   "c": "auf die\nGemein-\nschaft\nbedacht",
+   "t": "HUNDE"
+  }
+ ],
+ "SPECK": [
+  {
+   "c": "Fettes\nStück\nvom\nSchwein",
+   "t": "HARZ"
+  }
+ ],
+ "STAATSDUMA": [
+  "Abnick-\nrunde in\nMoskau"
+ ],
+ "THERAPIE": [
+  {
+   "c": "Behand-\nlung des\nLeidens",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "TOMBOLA": [
+  "Verlo-\nsung auf\ndem\nFest"
+ ],
+ "UNTIEFE": [
+  {
+   "c": "Flache\nStelle im\nWasser",
+   "t": "NORDSEE"
+  }
+ ],
+ "ZEHE": [
+  {
+   "c": "Glied am\nFuß",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "KNOSPE": [
+  {
+   "c": "Blüte vor\ndem\nÖffnen",
+   "t": "PFLANZEN"
+  }
+ ],
+ "ABSAGE": [
+  {
+   "c": "Ende der\nSendung",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "AKROPOLIS": [
+  "Burg-\nberg von\nAthen"
+ ],
+ "ARMUT": [
+  {
+   "c": "Gelübde\nim\nKloster",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "AUSBAU": [
+  {
+   "c": "Stützung\nder\nStrecke",
+   "t": "BERGWERK"
+  }
+ ],
+ "DOKTOR": [
+  "Titel des\nArztes"
+ ],
+ "ETHNIE": [
+  "Volks-\ngruppe"
+ ],
+ "FELD": [
+  {
+   "c": "Acker\nvor dem\nDorf",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "FINAL": [
+  {
+   "c": "abschlie-\nßend",
+   "t": "FUSSBALL"
+  }
+ ],
+ "FORMAT": [
+  "Größe\neines\nBlattes"
+ ],
+ "GIRAFFE": [
+  "Tier mit\nlangem\nHals"
+ ],
+ "HAREM": [
+  "Frauen-\nhaus im\nOrient"
+ ],
+ "IRREAL": [
+  "nicht\nwirklich"
+ ],
+ "ISLAM": [
+  "Religion\ndes\nKorans"
+ ],
+ "KAABA": [
+  "Heilig-\ntum in\nMekka"
+ ],
+ "KAIRO": [
+  {
+   "c": "Stadt am\nNil",
+   "t": "REISEN"
+  }
+ ],
+ "KUEHLER": [
+  "Teil vorn\nim Auto"
+ ],
+ "LIMO": [
+  {
+   "c": "Süßes\nSprudel-\ngetränk",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "MANDARINE": [
+  {
+   "c": "Kleine\nZitrus-\nfrucht",
+   "t": "PFLANZEN"
+  }
+ ],
+ "MODER": [
+  {
+   "c": "Fauliger\nWaldbo-\nden",
+   "t": "PFLANZEN"
+  }
+ ],
+ "NACHFAHRE": [
+  {
+   "c": "Später\nVer-\nwandter",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "NOTDURFT": [
+  "Dringen-\ndes\nBedürf-\nnis"
+ ],
+ "PARAGRAF": [
+  {
+   "c": "Zeichen\nim\nGesetz-\nbuch",
+   "t": "JURA"
+  }
+ ],
+ "ROTEKARTE": [
+  {
+   "c": "Platzver-\nweis im\nSpiel",
+   "t": "FUSSBALL"
+  }
+ ],
+ "SEELE": [
+  {
+   "c": "Inners-\ntes des\nMen-\nschen",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "SEGEL": [
+  {
+   "c": "Tuch am\nMast",
+   "t": "REISEN"
+  }
+ ],
+ "STAUDAMM": [
+  {
+   "c": "Sperre\nim\nFlusstal",
+   "t": "PFLANZEN"
+  }
+ ],
+ "VAMPIR": [
+  "Blutsau-\nger der\nSage"
+ ],
+ "VERRUF": [
+  {
+   "c": "Schlech-\nter Ruf",
+   "t": "KOCHEN"
+  }
+ ],
+ "AURA": [
+  "Feiner\nNimbus"
+ ],
+ "AEFFIN": [
+  "Weibli-\ncher Affe"
+ ],
+ "BELEK": [
+  {
+   "c": "Badeort\nbei\nAntalya",
+   "t": "REISEN"
+  }
+ ],
+ "DAEMMERUNG": [
+  {
+   "c": "Licht vor\nder\nNacht",
+   "t": "HARZ"
+  }
+ ],
+ "DEERN": [
+  {
+   "c": "Mädchen\nauf Platt",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "DUBAI": [
+  {
+   "c": "Stadt am\nPersi-\nschen\nGolf",
+   "t": "REISEN"
+  }
+ ],
+ "ENDRUNDE": [
+  {
+   "c": "Letzter\nDurch-\ngang",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "GAREN": [
+  {
+   "c": "Bei Hitze\nweich\nmachen",
+   "t": "KOCHEN"
+  }
+ ],
+ "GEIST": [
+  {
+   "c": "Spuk im\nalten\nSchloss",
+   "t": "SCHLESIEN"
+  }
+ ],
+ "HAUER": [
+  {
+   "c": "Berg-\nmann\nvor Ort",
+   "t": "HARZ"
+  }
+ ],
+ "HUSAR": [
+  "Leichter\nReiter"
+ ],
+ "KARTE": [
+  {
+   "c": "Gelb\noder Rot\nvom\nSchiri",
+   "t": "FUSSBALL"
+  }
+ ],
+ "KLOSTERBIER": [
+  {
+   "c": "Gebräu\nder\nMönche",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "MARNE": [
+  "Fluss in\nFrank-\nreich"
+ ],
+ "NAGELNEU": [
+  "ganz\nfrisch\ngekauft"
+ ],
+ "NEUNZEHNTE": [
+  "Nach\ndem\nacht-\nzehnten"
+ ],
+ "PUNKTE": [
+  {
+   "c": "Ausbeu-\nte im\nSpiel\n(Pl.)",
+   "t": "FUSSBALL"
+  }
+ ],
+ "TALG": [
+  "Fett der\nHaut"
+ ],
+ "TELEGRAFIE": [
+  "Alte\nNach-\nrichten-\ntechnik"
+ ],
+ "ZURUF": [
+  "Laute\nAuffor-\nderung"
+ ],
+ "ARENEN": [
+  "Kampf-\nplätze\n(Pl.)"
+ ],
+ "SOFA": [
+  {
+   "c": "Möbel im\nWohn-\nzimmer",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "ACKER": [
+  {
+   "c": "Bestell-\ntes Land\nvorm\nDorf",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ANORMAL": [
+  "von der\nRegel\nabwei-\nchend"
+ ],
+ "AUTO": [
+  {
+   "c": "Hauptge-\nwinn der\nShow",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "BLAU": [
+  {
+   "c": "Farbe\neiner\nSpielfi-\ngur",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "BOOT": [
+  {
+   "c": "Kahn auf\ndem See",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "DUENN": [
+  "nicht\ndick"
+ ],
+ "GAENSE": [
+  {
+   "c": "Vögel\nauf der\nWeide\n(Pl.)",
+   "t": "PFLANZEN"
+  }
+ ],
+ "GARTEN": [
+  {
+   "c": "Grün\nhinterm\nHaus",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "HERZBERG": [
+  {
+   "c": "Stadt am\nSüdharz",
+   "t": "HARZ"
+  }
+ ],
+ "LOBBY": [
+  {
+   "c": "Halle im\nHotel",
+   "t": "REISEN"
+  }
+ ],
+ "MANUAL": [
+  {
+   "c": "Tasten-\nreihe der\nOrgel",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "MATJES": [
+  {
+   "c": "Junger\nSalzhe-\nring",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "MEHL": [
+  {
+   "c": "Gemah-\nlenes\nKorn",
+   "t": "KOCHEN"
+  }
+ ],
+ "MOMBASA": [
+  "Hafen in\nKenia"
+ ],
+ "OBERHARZ": [
+  {
+   "c": "Hoher\nTeil des\nGebirges",
+   "t": "HARZ"
+  }
+ ],
+ "OCHSE": [
+  {
+   "c": "Tier\nneben\nder\nKrippe",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "PILZ": [
+  {
+   "c": "Fund im\nHerbst-\nwald",
+   "t": "HARZ"
+  }
+ ],
+ "RATEN": [
+  {
+   "c": "Auf gut\nGlück\nantwor-\nten",
+   "t": "QUIZSHOW"
+  }
+ ],
+ "REIHE": [
+  {
+   "c": "Häuser\nneben-\neinander",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SCHIRI": [
+  {
+   "c": "Mann\nmit der\nPfeife",
+   "t": "FUSSBALL"
+  }
+ ],
+ "SEELACHS": [
+  {
+   "c": "Fisch\naus der\nNordsee",
+   "t": "KOCHEN"
+  }
+ ],
+ "SEILER": [
+  {
+   "c": "Macher\nvon\nTauen",
+   "t": "HARZ"
+  }
+ ],
+ "STORNO": [
+  {
+   "c": "Rück-\nnahme\nder\nBuchung",
+   "t": "REISEN"
+  }
+ ],
+ "TOUR": [
+  {
+   "c": "Fahrt mit\ndem Bus",
+   "t": "REISEN"
+  }
+ ],
+ "TRACHT": [
+  {
+   "c": "Kleidung\nnach\nalter Art",
+   "t": "HARZ"
+  }
+ ],
+ "TROMPETE": [
+  "Blech-\nblasin-\nstrument"
+ ],
+ "WEIHE": [
+  {
+   "c": "Feierli-\nche\nSegnung",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "ZUHOEREN": [
+  "aufmerk-\nsam\nlauschen"
+ ],
+ "ZERSTOERT": [
+  "in\nTrüm-\nmern\nliegend"
+ ],
+ "AROMAOEL": [
+  {
+   "c": "Duft für\ndie\nWanne",
+   "t": "SPA"
+  }
+ ],
+ "BRIDGE": [
+  {
+   "c": "Karten-\nspiel zu\nviert",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "CLOWN": [
+  "Spaßma-\ncher im\nZirkus"
+ ],
+ "EPISCH": [
+  "erzäh-\nlend,\nbreit"
+ ],
+ "ESSER": [
+  "Gast bei\nTisch"
+ ],
+ "GELEISE": [
+  "Schie-\nnen-\nstrang"
+ ],
+ "HEULEN": [
+  {
+   "c": "Klage-\nlaut des\nHundes",
+   "t": "HUNDE"
+  }
+ ],
+ "ILLUSTRE": [
+  "erlaucht\nund\nvornehm"
+ ],
+ "ISBN": [
+  "Nummer\nim Buch\n(Abk.)"
+ ],
+ "KORB": [
+  {
+   "c": "Geflecht\naus\nWeiden",
+   "t": "HARZ"
+  }
+ ],
+ "MAHNMAL": [
+  "Denkmal\nzur\nErinne-\nrung"
+ ],
+ "MAKRO": [
+  "Aufnah-\nme aus\nder Nähe"
+ ],
+ "MIETER": [
+  {
+   "c": "Bewoh-\nner\ngegen\nZins",
+   "t": "JURA"
+  }
+ ],
+ "MOUSSE": [
+  {
+   "c": "Schau-\nmige\nSüßspei-\nse",
+   "t": "KOCHEN"
+  }
+ ],
+ "MUERBE": [
+  {
+   "c": "weich\nund zart",
+   "t": "KOCHEN"
+  }
+ ],
+ "NONNE": [
+  {
+   "c": "Frau im\nKloster",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "OBEN": [
+  "nicht\nunten"
+ ],
+ "PAROLI": [
+  "Wirksa-\nme\nAntwort"
+ ],
+ "PHASE": [
+  "Ab-\nschnitt\nim\nAblauf"
+ ],
+ "PORTUGIESE": [
+  {
+   "c": "Mann\naus\nLissa-\nbon",
+   "t": "REISEN"
+  }
+ ],
+ "PRIMEL": [
+  {
+   "c": "Frühe\nGarten-\nblume",
+   "t": "PFLANZEN"
+  }
+ ],
+ "RENNER": [
+  "Ver-\nkaufs-\nschlager"
+ ],
+ "THALE": [
+  {
+   "c": "Ort am\nBodetal",
+   "t": "HARZ"
+  }
+ ],
+ "KOMPLOTT": [
+  "Geheime\nRänke"
+ ],
+ "RINNSTEIN": [
+  {
+   "c": "Gosse\nam\nBord-\nstein",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "STIFTER": [
+  {
+   "c": "Geldge-\nber einer\nSache",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "ANZUG": [
+  "Festliche\nHerren-\nkleidung"
+ ],
+ "AUSZUG": [
+  "Weg aus\nÄgypten"
+ ],
+ "BEAMTER": [
+  {
+   "c": "Diener\ndes\nStaates",
+   "t": "JURA"
+  }
+ ],
+ "CREW": [
+  "Besat-\nzung an\nBord"
+ ],
+ "EISENBAHN": [
+  {
+   "c": "Zug auf\nSchie-\nnen",
+   "t": "REISEN"
+  }
+ ],
+ "EPOCHAL": [
+  "zeitlich\nbedeut-\nsam"
+ ],
+ "FACHLICH": [
+  {
+   "c": "vom\nKönnen\nher",
+   "t": "BRETTSPIELE"
+  }
+ ],
+ "GAEMSE": [
+  "Ziege im\nHochge-\nbirge"
+ ],
+ "GEBAEUDE": [
+  "Errichte-\ntes\nBauwerk"
+ ],
+ "HALM": [
+  {
+   "c": "Stängel\ndes\nGrases",
+   "t": "PFLANZEN"
+  }
+ ],
+ "LOGE": [
+  {
+   "c": "Abge-\ntrennter\nPlatz im\nRang",
+   "t": "FUSSBALL"
+  }
+ ],
+ "NEIGUNG": [
+  {
+   "c": "Gefälle\nder\nStrecke",
+   "t": "BERGWERK"
+  }
+ ],
+ "SALDER": [
+  {
+   "c": "Ortsteil\nmit\nSchloss",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "SAVANNE": [
+  {
+   "c": "Grasland\nin Afrika",
+   "t": "REISEN"
+  }
+ ],
+ "SKILIFT": [
+  {
+   "c": "Anlage\nam Hang",
+   "t": "HARZ"
+  }
+ ],
+ "TYPOGRAF": [
+  "Fach-\nmann für\nSchrift"
+ ],
+ "WEISS": [
+  {
+   "c": "Farbe\ndes\nSchnees",
+   "t": "PFLANZEN"
+  }
+ ],
+ "DEICHKRONE": [
+  {
+   "c": "Ober-\nkante am\nSeewall",
+   "t": "NORDSEE"
+  }
+ ],
+ "EMPIRISCH": [
+  "aus\nErfah-\nrung"
+ ],
+ "ANIMATION": [
+  {
+   "c": "Unter-\nhaltung\nim Hotel",
+   "t": "REISEN"
+  }
+ ],
+ "AROMA": [
+  {
+   "c": "Feiner\nGe-\nschmack",
+   "t": "KOCHEN"
+  }
+ ],
+ "BALSAM": [
+  {
+   "c": "Wohltu-\nende\nSalbe",
+   "t": "KOSMETIK"
+  }
+ ],
+ "BRUEGGE": [
+  {
+   "c": "Stadt in\nFlandern",
+   "t": "REISEN"
+  }
+ ],
+ "BUTT": [
+  {
+   "c": "Platter\nFisch im\nWatt",
+   "t": "NORDSEE"
+  }
+ ],
+ "CABRIO": [
+  "Wagen\nohne\nfestes\nDach"
+ ],
+ "DIASPORA": [
+  "Leben in\nder\nFremde"
+ ],
+ "ENGAGEMENT": [
+  "Voller\nEinsatz"
+ ],
+ "EXPERTE": [
+  {
+   "c": "Kenner\nim\nStudio",
+   "t": "FUSSBALL"
+  }
+ ],
+ "FLUR": [
+  {
+   "c": "Gang auf\nder\nStation",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "HIER": [
+  {
+   "c": "Ruf zum\nHerkom-\nmen",
+   "t": "HUNDE"
+  }
+ ],
+ "NIETE": [
+  "Los\nohne\nGewinn"
+ ],
+ "OBERLIGA": [
+  {
+   "c": "Klasse\nüber der\nLandes-\nliga",
+   "t": "FUSSBALL"
+  }
+ ],
+ "PAPSTTUM": [
+  {
+   "c": "Amt in\nRom",
+   "t": "CHRISTENTUM"
+  }
+ ],
+ "PASS": [
+  {
+   "c": "Zuspiel\nzum\nMitspie-\nler",
+   "t": "FUSSBALL"
+  }
+ ],
+ "PHOTO": [
+  "Licht-\nbild, alte\nSchrei-\nbung"
+ ],
+ "PIEPS": [
+  {
+   "c": "Ton vom\nMelder",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "RADAR": [
+  {
+   "c": "Ortung\nper\nFunkwel-\nle",
+   "t": "NORDSEE"
+  }
+ ],
+ "SAAT": [
+  {
+   "c": "Korn für\ndas Feld",
+   "t": "PFLANZEN"
+  }
+ ],
+ "SPINAT": [
+  {
+   "c": "Grünes\nBlattge-\nmüse",
+   "t": "PFLANZEN"
+  }
+ ],
+ "SPULE": [
+  {
+   "c": "Rolle für\nden\nFaden",
+   "t": "KOCHEN"
+  }
+ ],
+ "STURMBOE": [
+  {
+   "c": "Heftiger\nWinds-\ntoß",
+   "t": "HARZ"
+  }
+ ],
+ "TROCKNEN": [
+  {
+   "c": "Feuch-\ntigkeit\nentzie-\nhen",
+   "t": "KOCHEN"
+  }
+ ],
+ "USURPATOR": [
+  "Räuber\ndes\nThrons"
+ ],
+ "ZORN": [
+  "Heftiger\nGroll"
+ ],
+ "WAGEN": [
+  "Fahr-\nzeug auf\nRädern"
+ ],
+ "GENERAL": [
+  "Hoher\nDienst-\ngrad"
+ ],
+ "GEISTLOS": [
+  "ohne\njeden\nWitz"
+ ],
+ "AFFE": [
+  "Tier mit\nGreif-\nhänden"
+ ],
+ "ARABER": [
+  "Mann\naus Riad"
+ ],
+ "AUSREISE": [
+  {
+   "c": "Fahrt\nüber die\nGrenze",
+   "t": "REISEN"
+  }
+ ],
+ "BANK": [
+  {
+   "c": "Sitzgele-\ngenheit\nim Park",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "DEGEN": [
+  "Waffe\nbeim\nFechten"
+ ],
+ "EINREISE": [
+  {
+   "c": "Ankunft\nim\nAusland",
+   "t": "REISEN"
+  },
+  "Ankunft\nim\nfremden\nLand"
+ ],
+ "GEEST": [
+  {
+   "c": "Höheres\nLand\nhinterm\nMoor",
+   "t": "NIEDERSACHSEN"
+  }
+ ],
+ "GRUBE": [
+  {
+   "c": "Anlage\nunter\nTage",
+   "t": "HARZ"
+  }
+ ],
+ "HASELNUSS": [
+  {
+   "c": "Frucht\nam\nStrauch",
+   "t": "PFLANZEN"
+  }
+ ],
+ "HAUE": [
+  {
+   "c": "Werk-\nzeug des\nBerg-\nmanns",
+   "t": "HARZ"
+  }
+ ],
+ "HUMUS": [
+  {
+   "c": "Frucht-\nbare\nErde",
+   "t": "PFLANZEN"
+  }
+ ],
+ "KABUL": [
+  "Haupt-\nstadt\nAfgha-\nnistans"
+ ],
+ "KUPPE": [
+  {
+   "c": "Runder\nGipfel",
+   "t": "HARZ"
+  }
+ ],
+ "KURGAST": [
+  {
+   "c": "Besu-\ncher im\nHeilbad",
+   "t": "HARZ"
+  }
+ ],
+ "LESEN": [
+  "Buchsta-\nben\nerfassen"
+ ],
+ "LIBERO": [
+  {
+   "c": "Freier\nMann in\nder\nAbwehr",
+   "t": "FUSSBALL"
+  }
+ ],
+ "MAJORAN": [
+  {
+   "c": "Würze\nfür die\nWurst",
+   "t": "PFLANZEN"
+  }
+ ],
+ "MEDINA": [
+  "Altstadt\nim\nOrient"
+ ],
+ "MIST": [
+  {
+   "c": "Dünger\nvom Hof",
+   "t": "PFLANZEN"
+  }
+ ],
+ "NEBEL": [
+  {
+   "c": "Trübe\nSchwa-\nden im\nTal",
+   "t": "HARZ"
+  }
+ ],
+ "NORDEN": [
+  {
+   "c": "Richtung\nzum\nPolars-\ntern",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "PFEFFER": [
+  {
+   "c": "Scharfes\nGewürz",
+   "t": "KOCHEN"
+  }
+ ],
+ "RADAU": [
+  {
+   "c": "Fluss bei\nBad\nHarz-\nburg",
+   "t": "HARZ"
+  }
+ ],
+ "SALAT": [
+  {
+   "c": "Grünes\nzum\nAnrich-\nten",
+   "t": "PFLANZEN"
+  }
+ ],
+ "SPLEEN": [
+  "Wunder-\nliche\nMarotte"
+ ],
+ "STAAT": [
+  {
+   "c": "Land mit\nRegie-\nrung",
+   "t": "JURA"
+  }
+ ],
+ "STEIN": [
+  {
+   "c": "Brocken\naus dem\nBruch",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "WIESE": [
+  {
+   "c": "Grüne\nFläche\nam\nOrtsrand",
+   "t": "SALZGITTERBAD"
+  }
+ ],
+ "LOGOPAEDE": [
+  {
+   "c": "Fach-\nmann\nfürs\nReden",
+   "t": "KRANKENHAUS"
+  }
+ ],
+ "NEID": [
+  "Miss-\ngunst"
+ ],
+ "SCHALE": [
+  {
+   "c": "Hülle der\nFrucht",
+   "t": "PFLANZEN"
+  }
+ ]
+}

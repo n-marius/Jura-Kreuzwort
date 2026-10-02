@@ -1,0 +1,57 @@
+# Wunschwoerter frueherer Baende. Sie stehen im Nutzungskonto und sollen
+# ausserdem normal ziehbar sein - ohne diese Datei kennt das Lexikon sie nicht,
+# denn Vorgabewoerter kamen bisher nur ueber plan.json ins Raster.
+#
+# Format wie alltag.txt:  WORT [Haeufigkeitsrang]
+# Der Rang steuert das Fuellgewicht (2,5 / (1 + Rang/1200)); ohne Angabe gilt
+# ALT_RANG aus core.py. Hoeherer Rang = seltener gezogen.
+#
+# Bei einem voellig neuen Buch (neuer Empfaenger, nicht nur neuer Band):
+# diese Datei loeschen. neues_buch.py tut das mit --ja ohnehin.
+AGNESSA
+ALTENBRAK
+ANWALT
+AUGE
+BABYSITTERIN
+BINGO
+BONING
+BOSKOP
+BOXER
+BROCKEN
+BUCHEN
+BUESUM
+BUSREISE
+CHERRY
+DALBERSDORF
+DRACHE
+ELLI
+ELSASS
+FINANZAMT
+FLUGANGST
+FORTUNA
+FUSSBALL
+HAINBACH
+HOECKER
+HORST
+HUPENTONI
+INNERSTE
+JAGST
+JETTA
+JODLERMEISTER
+KARL
+KEGELN
+KIEW
+KNEIPP
+KUMQUAT
+LITZEL
+MALLORCA
+MARIUS
+MONACO
+NORDICWALKING
+OKTOBER
+PETRA
+PFLAUME
+SALESCH
+TALSPERRE
+TUERKEI
+VANESSA

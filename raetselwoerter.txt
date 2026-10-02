@@ -1,0 +1,1047 @@
+# Typische Kreuzwortraetsel-Woerter mit Frage.
+# Format je Zeile:  WORT | Frage        (\n im Fragetext = harter Zeilenumbruch)
+# Kommentarzeilen beginnen mit #.
+#
+# Zweck: das Buch soll nicht nur aus den haeufigsten Alltagswoertern bestehen.
+# Diese Liste bringt den klassischen Raetselwortschatz ein - Woerter, die jeder
+# Loeser kennt, die im normalen Sprachgebrauch aber selten vorkommen.
+# core.build_lexicon nimmt sie in den Grundwortschatz auf und gewichtet sie
+# eigenstaendig (RAETSEL_BASE), unabhaengig von ihrer Haeufigkeit.
+# Die Fragen gehoeren ueber import_raetselwoerter.py in clues.json.
+#
+# --- Musik, Kunst, Buehne, Literatur ---------------------------------------
+VIOLA | Bratsche
+BALLADE | Erzäh-\nlendes\nGedicht
+SONETT | Gedicht\naus 14\nZeilen
+ELEGIE | Klagelied
+EPOS | Helden-\ngedicht
+SAGA | Nordische Erzählung
+LYRIK | Dichtkunst
+PROSA | Ungebun-\ndene Rede
+SATIRE | Spott-\ndichtung
+FABEL | Tier-\ngeschichte
+LEGENDE | Heiligen-\nerzählung
+MYTHOS | Götter-\nsage
+DRAMA | Bühnen-\nstück
+KULISSE | Bühnen-\nbild
+REQUISIT | Bühnen-\nzubehör
+SOUFFLEUR | Einsager\nam Theater
+GAGE | Künstler-\nlohn
+PREMIERE | Erst-\naufführung
+DEBUET | Erstes\nAuftreten
+FINALE | Schluss-\nsatz
+OUVERTUERE | Vorspiel\nder Oper
+ARIE | Sologesang\nin der Oper
+DUETT | Gesang zu\nzweit
+TERZETT | Musik-\nstück zu\ndritt
+QUARTETT | Vierer-\ngruppe
+ORATORIUM | Großes\nChorwerk
+FUGE | Streng\ngebaute\nTonfolge
+ETUEDE | Übungs-\nstück
+SONATE | Instrumen-\ntalstück
+RONDO | Musikform\nmit Kehr-\nreim
+ADAGIO | Langsames\nZeitmaß
+ALLEGRO | Munteres\nZeitmaß
+LARGO | Breites\nZeitmaß
+STACCATO | Kurz\nabgesetzt
+LEGATO | Gebunden\ngespielt
+CRESCENDO | Anschwel-\nlend
+OKTAVE | Achter\nTonschritt
+TERZ | Abstand von drei Tönen
+QUINTE | Fünfter\nTonschritt
+MOLL | Weiches\nTonge-\nschlecht
+NOTE | Zeichen\nfür Töne
+HARFE | Zupf-\ninstrument
+LAUTE | Altes\nZupfin-\nstrument
+ZITHER | Alpen-\ninstrument
+OBOE | Holz-\nblasin-\nstrument
+FAGOTT | Tiefes Holzblasrohr
+TUBA | Tiefes Blechhorn
+POSAUNE | Zug-\ninstrument
+CEMBALO | Tasten-\ninstrument
+GONG | Klang-\nscheibe
+TRIANGEL | Dreieck\nals Instru-\nment
+BANJO | Instrument der Folkmusik
+CHANSON | Franzö-\nsisches\nLied
+KANON | Gesang im Nacheinander
+FRESKO | Wand-\nmalerei
+MOSAIK | Bild aus\nSteinchen
+RELIEF | Erhabenes\nBildwerk
+TORSO | Rumpf\neiner Figur
+STAFFELEI | Malerbock
+PALETTE | Farbbrett
+VERNISSAGE | Ausstel-\nlungs-\neröffnung
+AQUARELL | Wasser-\nfarbenbild
+RADIERUNG | Kupfer-\nstichart
+SKIZZE | Erster\nEntwurf
+KOLORIT | Farbge-\nbung
+PORTRAET | Bildnis
+STILLLEBEN | Bild mit\nFrüchten
+PANORAMA | Rund-\nblick
+GALERIE | Bilder-\nsaal
+KURATOR | Ausstel-\nlungsleiter
+MAEZEN | Förderer\nder Kunst
+ATELIER | Künstler-\nwerkstatt
+# --- Geografie: Gewaesser, Berge, Inseln, Staedte ---------------------------
+TITISEE | Schwarz-\nwaldsee
+EDERSEE | Stausee\nin Hessen
+CHIEMSEE | Bayeri-\nsches Meer
+MUERITZ | Größter\nSee der\nMark
+LAACHER | ... See in\nder Eifel
+ISAR | Fluss\ndurch\nMünchen
+LECH | Alpen-\nfluss
+EDER | Fluss in\nHessen
+AARE | Schweizer\nFluss
+REUSS | Fluss aus\ndem Gott-\nhard
+TESSIN | Fluss und\nKanton
+ETSCH | Fluss in\nSüdtirol
+EBRO | Strom in\nSpanien
+TAJO | Fluss\ndurch\nToledo
+DOURO | Fluss bei\nPorto
+LOIRE | Längster\nFluss\nFrank-\nreichs
+RHONE | Fluss\ndurch Lyon
+SAONE | Neben-\nfluss der\nRhone
+MAAS | Strom in\nden Nieder-\nlanden
+SCHELDE | Strom bei\nAntwerpen
+ALLER | Neben-\nfluss der\nWeser
+LEINE | Fluss\ndurch\nHannover
+FULDA | Qüll-\nfluss der\nWeser
+WERRA | Qüll-\nfluss der\nWeser
+SAALE | Neben-\nfluss der\nElbe
+HAVEL | Fluss\ndurch\nPotsdam
+SPREE | Fluss\ndurch\nBerlin
+NAHE | Neben-\nfluss des\nRheins
+RUHR | Fluss im\nWesten
+LIPPE | Fluss in\nWestfalen
+SIEG | Neben-\nfluss des\nRheins
+MOSEL | Wein-\nfluss
+NECKAR | Fluss\ndurch\nHeidelberg
+MAIN | Fluss\ndurch\nFrankfurt
+ODER | Grenz-\nfluss im\nOsten
+NEISSE | Grenz-\nfluss zu\nPolen
+WOLGA | Längster\nStrom\nEuropas
+URAL | Grenz-\ngebirge
+NEWA | Fluss bei\nSankt\nPetersburg
+DUERO | Spani-\nscher\nStrom
+ELBRUS | Höchster\nBerg\nEuropas
+ETNA | Vulkan\nauf\nSizilien
+VESUV | Vulkan\nbei Neapel
+HEKLA | Vulkan auf\nIsland
+FUJI | Heiliger\nBerg\nJapans
+ANDEN | Gebirge in Peru
+EIGER | Berner\nAlpen-\ngipfel
+RIGI | Berg in der Schweiz
+SAENTIS | Berg im\nAppen-\nzeller Land
+ORTLER | Höchster\nBerg\nSüdtirols
+BROCKEN | Höchster\nBerg im\nNorden
+FELDBERG | Gipfel im\nSchwarz-\nwald
+ARBER | Gipfel im\nBayeri-\nschen Wald
+RHOEN | Mittel-\ngebirge\nin Hessen
+EIFEL | Gebirge\nan der\nMosel
+TAUNUS | Gebirge\nbei Frank-\nfurt
+HUNSRUECK | Gebirge\nlinks des\nRheins
+SPESSART | Gebirge\nin Bayern
+ELBA | Insel im\nMittelmeer
+CAPRI | Insel bei\nNeapel
+MALTA | Insel-\nstaat im\nSüden
+RHODOS | Griechi-\nsche Insel
+KRETA | Größte\ngriechi-\nsche Insel
+KORFU | Ionische\nInsel
+SAMOS | Insel in\nder Ägäis
+IBIZA | Balearen-\ninsel
+MALLORCA | Größte\nBalearen-\ninsel
+SYLT | Nordsee-\ninsel
+AMRUM | Nordsee-\ninsel
+FOEHR | Nordfrie-\nsische\nInsel
+RUEGEN | Größte\ndeutsche\nInsel
+USEDOM | Ostsee-\ninsel
+HIDDENSEE | Insel bei\nRügen
+BORKUM | Ostfrie-\nsische\nInsel
+JUIST | Ostfrie-\nsische\nInsel
+NORDERNEY | Insel der\nNordsee
+HELGOLAND | Hochsee-\ninsel
+FEHMARN | Insel in\nder Ostsee
+RIGA | Haupt-\nstadt\nLettlands
+TALLINN | Haupt-\nstadt\nEstlands
+OSLO | Haupt-\nstadt\nNorwegens
+BERN | Haupt-\nstadt der\nSchweiz
+LIMA | Haupt-\nstadt Perus
+QUITO | Haupt-\nstadt\nEcuadors
+DAKAR | Haupt-\nstadt\nSenegals
+NASSAU | Haupt-\nstadt der\nBahamas
+BAKU | Hauptstadt am Kaspisee
+DELHI | Stadt in\nIndien
+KANDAHAR | Stadt in\nAfghani-\nstan
+ODESA | Ukrai-\nnischer\nHafen
+GENUA | Hafen in\nItalien
+TRIENT | Stadt in\nSüdtirol
+BRIXEN | Stadt in\nSüdtirol
+MERAN | Kurort in\nSüdtirol
+LUGANO | Stadt am\nSee im\nTessin
+CHUR | Stadt in\nGrau-\nbünden
+LINZ | Stadt an\nder Donau
+GRAZ | Stadt in\nder Steier-\nmark
+TRIER | Älteste\nStadt\nam Rhein
+XANTEN | Römer-\nstadt am\nRhein
+SPEYER | Dom-\nstadt am\nRhein
+WORMS | Nibelun-\ngenstadt
+HAMELN | Stadt des\nRatten-\nfängers
+GOSLAR | Kaiser-\nstadt am\nHarz
+# --- Tiere, Pflanzen, Natur -------------------------------------------------
+STINKTIER | Skunk
+ILTIS | Marder-\nart
+MARDER | Raubtier\nauf dem\nDachboden
+DACHS | Nächtli-\ncher\nErdbauer
+OTTER | Schwimm-\nfreudiger\nMarder
+LUCHS | Pinsel-\nohriges\nRaubtier
+WISENT | Europä-\nischer\nBüffel
+ELCH | Großer\nHirsch des\nNordens
+GEMSE | Bergziege
+STEINBOCK | Alpen-\nkletterer
+MUFFLON | Wildschaf
+TAPIR | Rüssel-\ntier
+ORYX | Spieß-\nantilope
+IMPALA | Afrikani-\nsche\nAntilope
+OKAPI | Verwandter\nder Giraffe
+LEMUR | Halbaffe\nauf Mada-\ngaskar
+GIBBON | Langarm-\naffe
+MAKAK | Affenart
+ORANG | Menschen-\naffe auf\nBorneo
+KOALA | Beutel-\nbär
+WOMBAT | Beuteltier\nAustra-\nliens
+DINGO | Wildhund\nAustra-\nliens
+NANDU | Laufvogel der Pampa
+KIWI | Vogel\nNeusee-\nlands
+KONDOR | Großer\nGeier
+IBIS | Stelzvogel\nam Nil
+REIHER | Langbei-\nniger\nWatvogel
+KRANICH | Zugvogel\nmit Ruf
+STORCH | Klapper-\nnder Vogel
+KIEBITZ | Wiesen-\nvogel mit\nHaube
+STAR | Vogel mit\nSprech-\ntalent
+PIROL | Gelber\nSingvogel
+AMMER | Kleiner\nSingvogel
+FINK | Kleiner\nSingvogel
+LERCHE | Vogel des\nMorgens
+DROSSEL | Sing-\nvogelart
+SPECHT | Vogel mit\nKlopfton
+EULE | Nächtli-\ncher\nGreifvogel
+KAUZ | Kleine\nEule
+FALKE | Schneller\nGreifvogel
+MILAN | Greifvogel\nmit Gabel-\nschwanz
+BUSSARD | Häufiger\nGreifvogel
+ALBATROS | Großer\nSeevogel
+TOELPEL | Seevogel\nmit Sturz-\nflug
+MOEWE | Vogel der\nKüste
+KORMORAN | Tauchender\nSeevogel
+PINGUIN | Vogel des\nSüdpols
+ROCHEN | Flacher\nMeerfisch
+MURAENE | Aalartiger\nRaubfisch
+BARSCH | Speise-\nfisch mit\nStacheln
+ZANDER | Raubfisch\nim See
+HECHT | Räuber im Teich
+KARPFEN | Teichfisch
+SCHLEIE | Fisch im\nTeich-\ngrund
+FORELLE | Fisch im\nBach
+LACHS | Wandern-\nder Fisch
+HERING | Silbriger\nSchwarm-\nfisch
+SARDINE | Kleiner\nSpeise-\nfisch
+MAKRELE | Fisch mit\nStreifen
+SCHOLLE | Platt-\nfisch
+DORSCH | Fisch der\nOstsee
+STINT | Kleiner\nWander-\nfisch
+KAULQUAPPE | Frosch-\nlarve
+MOLCH | Kleiner Lurch
+UNKE | Kleiner\nFrosch-\nlurch
+NATTER | Ungiftige\nSchlange
+VIPER | Giftige\nSchlange
+LEGUAN | Große\nEidechse
+GECKO | Haftende\nEidechse
+CHAMAELEON | Farbwechs-\nler
+ZIKADE | Zirpendes\nInsekt
+GRILLE | Zirpendes\nInsekt
+LIBELLE | Insekt am\nTeich
+HORNISSE | Große\nWespenart
+DROHNE | Männ-\nliche\nBiene
+IMKER | Bienen-\nhalter
+LARVE | Frühform\ndes Insekts
+KOKON | Hülle der\nRaupe
+GEWEIH | Kopf-\nschmuck\ndes Hirsches
+MAEHNE | Nacken-\nhaar des\nLöwen
+ZOTTEL | Struppi-\nges Haar
+REVIER | Jagd-\ngebiet
+ENZIAN | Blaue\nAlpen-\nblume
+EDELWEISS | Blume der\nAlpen
+ARNIKA | Heil-\npflanze\nder Berge
+BALDRIAN | Beruhi-\ngende\nPflanze
+SALBEI | Heilkraut\nim Tee
+THYMIAN | Kraut der Provence
+BEIFUSS | Würzkraut\nzur Gans
+KUEMMEL | Gewürz im\nBrot
+ANIS | Gewürz\nmit Lakritz-\nnote
+KORIANDER | Asiatisches Gewürz
+INGWER | Scharfe\nWurzel
+KURKUMA | Gelbe\nGewürz-\nwurzel
+MUSKAT | Nussge-\nwürz
+NELKE | Blume und\nGewürz
+SAFRAN | Teuerstes\nGewürz
+VANILLE | Schote als\nGewürz
+ZIMT | Gewürz-\nrinde
+KAPER | Eingelegte\nBlütenk-\nnospe
+OLIVE | Frucht am\nMittelmeer
+DATTEL | Frucht der\nPalme
+FEIGE | Südfrucht
+GRANATE | ... apfel:\nrote\nSüdfrucht
+QUITTE | Herbe\nGelbfrucht
+HOLUNDER | Strauch mit Beeren
+WACHOLDER | Beere im\nGin
+SCHLEHE | Herber\nWildobst-\nstrauch
+EIBE | Giftiger\nNadelbaum
+LAERCHE | Nadelbaum mit Nadelfall
+ZEDER | Baum im\nLibanon
+ULME | Baum mit Rüsterholz
+ESCHE | Baum mit Fiederblatt
+ERLE | Baum am\nBachufer
+LINDE | Duftender Laubbaum
+PLATANE | Baum mit Rindenfall
+AKAZIE | Baum mit\nDornen
+MAGNOLIE | Baum mit\ngroßen\nBlüten
+FLIEDER | Duftender\nZierstrauch
+JASMIN | Duftender\nStrauch
+HORTENSIE | Zierblume\nmit Ball\nBlüte
+DAHLIE | Herbst-\nblume der\nGärten
+ASTER | Herbst-\nblume
+NARZISSE | Frühlings-\nblume
+KROKUS | Frühlings-\nblüher
+TULPE | Blume aus\nHolland
+LOTOS | Heilige\nWasser-\nblume
+SEEROSE | Blume auf\ndem Teich
+ALGE | Wasser-\npflanze
+MOOS | Pflanze am Waldboden
+FLECHTE | Verbindung\naus Pilz\nund Alge
+TRUEFFEL | Edelpilz\nunter der\nErde
+MORCHEL | Frühlings-\npilz
+PFIFFERLING | Gelber\nSpeisepilz
+STEINPILZ | Beliebter\nWaldpilz
+# --- Seefahrt, Technik, Handwerk, Masse -------------------------------------
+SMUTJE | Schiffs-\nkoch
+STEUER | Ruder-\nanlage
+PINNE | Hebel am\nRuder
+HECK | Hinterteil\ndes\nSchiffes
+KIEL | Längs-\nbalken\nunten am\nBoot
+REELING | Geländer\nan Deck
+LUKE | Decköff-\nnung
+KOMBUESE | Küche an\nBord
+KOJE | Bett an\nBord
+PEILUNG | Richtungs-\nmessung
+KOMPASS | Gerät mit Nadel
+SEXTANT | Winkel-\nmesser der\nSeefahrt
+BAKE | Seezeichen\nan Land
+BOJE | Schwimmendes Seezeichen
+TONNE | Zeichen im Fahrwasser
+MOLE | Hafen-\nschutzmauer
+PIER | Anlege-\nsteg
+SCHOTT | Trennwand\nim Schiff
+ANKER | Halt am\nMeeres-\ngrund
+TROSSE | Dickes\nSchiffs-\nseil
+WANTE | Halte-\nseil des\nMastes
+FOCK | Vorderes\nSegel
+GROSS | Haupt-\nsegel
+TAKELAGE | Segel-\nwerk
+KUTTER | Kleines\nFisch-\nschiff
+JOLLE | Kleines\nSegelboot
+KATAMARAN | Boot mit\nzwei\nRümpfen
+FREGATTE | Kriegs-\nschiff
+KLABAUTER | Schiffs-\nkobold
+LOTSE | Führer\nins\nFahrwasser
+MAAT | Unter-\noffizier\nzur See
+STEWARD | Diener an\nBord
+DECKHAND | Matrose an\nDeck
+PROVIANT | Vorrat an\nBord
+ELLE | Altes\nLängen-\nmaß
+MEILE | Weg-\nstrecke\nzur See
+KNOTEN | Fahrt-\nmaß zur\nSee
+ZOLL | Maß von\n2,54 cm
+UNZE | Maß des\nGoldes
+KARAT | Maß für\nDiamanten
+ZENTNER | Fünfzig Kilo
+MORGEN | Altes\nFeldmaß
+HEKTAR | Flächenmaß des Bauern
+LITER | Maß für\nFlüssig-\nkeit
+BARREL | Fass als\nÖlmaß
+DEZIBEL | Maß der\nLautstärke
+WATT | Maß der\nLeistung
+VOLT | Maß der\nSpannung
+AMPERE | Maß der\nStrom-\nstärke
+HERTZ | Maß der\nSchwingung
+KELVIN | Maß der\nTemperatur
+NEWTON | Maß der\nKraft
+JOULE | Maß der\nEnergie
+PASCAL | Maß des\nDrucks
+KNAUF | Griff an\nder Tür
+ANGEL | Drehteil\nam Türband
+ZARGE | Rahmen der\nTür
+SIMS | Vorsprung\nam Bau
+GIEBEL | Dreieck\nunter dem\nDach
+FIRST | Oberste\nKante des\nDaches
+SPARREN | Balken im\nDachstuhl
+TRAUFE | Untere\nDachkante
+GAUBE | Dach-\nfenster mit\nAufbau
+ERKER | Vorbau am\nHaus
+ARKADE | Bogengang
+PORTAL | Großes\nTor
+FRIES | Zierband\nam Bau
+KAPITELL | Kopf der\nSäule
+SOCKEL | Unterbau\nder Säule
+GEWOELBE | Bogen-\ndecke
+KUPPEL | Runde\nDachform
+ZINNE | Zacke der\nBurgmauer
+BERGFRIED | Turm der\nBurg
+ZUGBRUECKE | Bewegli-\ncher Zugang\nzur Burg
+BURGGRABEN | Wasser um\ndie Burg
+MEISSEL | Werkzeug\ndes Stein-\nmetzen
+AHLE | Werkzeug\nzum\nStechen
+RASPEL | Grobe\nFeile
+HOBEL | Werkzeug\ndes\nSchreiners
+ZWINGE | Halte-\nwerkzeug
+AMBOSS | Unterlage beim Schmieden
+BLASEBALG | Gerät für\nLuftzug
+ESSE | Schmiedefeuer
+SCHMELZE | Flüssiges\nMetall
+LEGIERUNG | Mischung\naus\nMetallen
+MESSING | Legierung\naus Kupfer\nund Zink
+BRONZE | Legierung\naus Kupfer\nund Zinn
+ZINK | Metall im\nMessing
+NICKEL | Metall in\nMünzen
+CHROM | Glänzendes\nMetall
+WOLFRAM | Metall im\nGlühdraht
+PLATIN | Edelmetall
+ASBEST | Feuer-\nfester\nFaserstoff
+BASALT | Dunkles\nVulkan-\ngestein
+GNEIS | Schiefe-\nriges\nGestein
+MARMOR | Stein der\nBildhauer
+GRANIT | Harter\nTiefen-\nstein
+KALKSTEIN | Stein aus\nMuschel-\nresten
+QUARZ | Häufiges\nMineral
+GLIMMER | Blättriges\nMineral
+FELDSPAT | Mineral im\nGranit
+BERNSTEIN | Fossiles\nHarz
+OPAL | Schillern-\nder Stein
+ONYX | Dunkler Zierstein
+JADE | Grüner Zierstein
+TOPAS | Gelber\nEdelstein
+ERDGAS | Natür-\nlicher\nBrennstoff
+TORF | Brennstoff\naus dem\nMoor
+KOKS | Brennstoff\naus Kohle
+BRIKETT | Gepresster\nBrennstoff
+PECH | Zähes\nHarzpro-\ndukt
+TEER | Schwarze Masse
+LAUGE | Gegenteil\nder Säure
+SALPETER | Stoff im\nSchwarz-\npulver
+ATTEST | Ärztliche\nBeschei-\nnigung
+# --- Begriffe, Eigenschaften, Fremdwoerter ----------------------------------
+APPELL | Aufruf,\nBefehl
+IDEELL | Nur gedanklich
+POTENT | Einfluss-\nreich,\nkräftig
+UNMUT | Ärger
+OPTISCH | Das Sehen\nbetreffend
+PHANTOM | Trugbild,\nHirnge-\nspinst
+UMLEITUNG | Strecken-\nverlegung
+KAVALLERIE | Reiterei
+ARMLEUCHTER | Kerzen-\nhalter
+BEGEHRT | Gefragt,\ngesucht
+PLAEDOYER | Schluss-\nrede
+ELOGE | Lobrede
+TIRADE | Wortschwall
+POLEMIK | Scharfer\nStreit
+PAMPHLET | Streit-\nschrift
+TRAKTAT | Abhandlung
+EXPOSE | Kurze\nDarstellung
+RESUEMEE | Zusammen-\nfassung
+FAZIT | Schluss-\nfolgerung
+CREDO | Glaubens-\nsatz
+DOGMA | Starrer\nLehrsatz
+MAXIME | Leitsatz
+DEVISE | Wahlspruch
+POSTULAT | Forderung
+PRAEMISSE | Voraus-\nsetzung
+THESE | Behauptung
+ANTITHESE | Gegen-\nbehaup-\ntung
+PARADOX | Wider-\nsinnig
+PLAUSIBEL | Einleuch-\ntend
+EVIDENT | Offen-\nsichtlich
+LATENT | Verborgen\nvorhanden
+IMMANENT | Innewoh-\nnend
+MARGINAL | Nebenbei,\nam Rande
+RUDIMENTAER | Nur in\nAnsätzen
+SUBTIL | Fein und\nschwer\nfassbar
+DEZENT | Zurück-\nhaltend
+NOBEL | Vornehm\nund groß-\nzügig
+LIIERT | Verbunden
+KONZIS | Knapp und\ngenau
+STRINGENT | Zwingend\nfolgerichtig
+KOHAERENT | In sich\nstimmig
+DIFFUS | Verschwom-\nmen
+VAGE | Unbestimmt
+OBSKUR | Zwielichtig
+DUBIOS | Zweifelhaft
+PREKAER | Heikel,\nunsicher
+FATAL | Verhängnisvoll
+FAMOS | Ausge-\nzeichnet
+KURIOS | Sonderbar
+BIZARR | Seltsam\nverzerrt
+GROTESK | Verzerrt\nkomisch
+SKURRIL | Wunderlich
+PIKANT | Reizvoll\ngewürzt
+RUSTIKAL | Bäür-\nlich\nschlicht
+NOSTALGIE | Sehnsucht\nnach\nfrüher
+MELANGE | Mischung
+NUANCE | Feiner\nUnter-\nschied
+FACETTE | Teilaspekt
+SPEKTRUM | Bandbreite
+KONTUR | Umriss
+PROFIL | Seiten-\nansicht
+SILHOUETTE | Schatten-\nriss
+RELIKT | Überbleib-\nsel
+FRAGMENT | Bruchstück
+MAKEL | Schön-\nheits-\nfehler
+MANKO | Fehlbetrag
+DEFIZIT | Fehl-\nbetrag
+SALDO | Kontostand
+KAUTION | Sicherheits-\nleistung
+TANTIEME | Gewinn-\nanteil
+PROVISION | Vermitt-\nlerlohn
+HONORAR | Lohn des\nFreiberuf-\nlers
+SOLD | Löhnung beim Militär
+OBOLUS | Kleiner\nBeitrag
+ALIMENTE | Unterhalts-\ngeld
+ALMOSEN | Milde Gabe
+TRIBUT | Abgabe an\nden Sieger\nZOLL
+DIAETEN | Bezüge im Bundestag
+PENSUM | Zugewie-\nsene\nArbeit
+DOMAENE | Fachgebiet
+METIER | Berufs-\nfeld
+RESSORT | Zustän-\ndigkeits-\nbereich
+NOVIZE | Neuling im\nKloster
+ADEPT | Eingeweih-\nter Schüler
+ELEVE | Zögling
+MENTOR | Erfahrener\nBerater
+NESTOR | Ältester\neines Fachs
+EMERITUS | Professor im Ruhestand
+LAIE | Nicht-\nfachmann
+DILETTANT | Ungeübter\nLiebhaber
+VIRTUOSE | Meister\nseines Fachs
+KORYPHAEE | Berühmter\nFachmann
+AUTODIDAKT | Selbst-\nlerner
+KURIER | Überbrin-\nger
+ATTACHE | Botschafts-\nmitarbeiter
+KONSUL | Vertreter\nim Ausland
+DEPESCHE | Eilige\nNachricht
+KOMMUNIQUE | Amtliche\nMitteilung
+BULLETIN | Amtlicher\nBericht
+DOSSIER | Aktenbün-\ndel
+MEMORANDUM | Denkschrift
+PROTOKOLL | Nieder-\nschrift
+KODEX | Gesetzes-\nsammlung
+ANNALEN | Jahrbücher
+CHRONIK | Werk zur Zeitgeschichte
+KOMPENDIUM | Kurzge-\nfasstes\nHandbuch
+GLOSSAR | Wörter-\nverzeichnis
+INDEX | Sachre-\ngister
+KONKORDANZ | Stellen-\nverzeichnis
+# --- Mythos, Geschichte, Voelker, Alltag ------------------------------------
+HADES | Reich der\nToten
+STYX | Fluss der\nUnterwelt
+CHARON | Fährmann\nder Toten
+ZERBERUS | Hund der\nUnterwelt
+ORAKEL | Weissa-\ngung in\nDelphi
+NEKTAR | Trank der\nGötter
+AMBROSIA | Speise der\nGötter
+OLYMP | Sitz der\ngriechi-\nschen\nGötter
+TITAN | Riese der\nSage
+ZYKLOP | Riese mit einem Auge
+HYDRA | Vielköp-\nfiges\nUngeheuer
+SPHINX | Rätsel-\nwesen
+ZENTAUR | Halb Mensch\nhalb Pferd
+FAUN | Waldgeist\nder Römer
+NYMPHE | Qüllgeist\nder Sage
+MUSE | Göttin der\nKunst
+NORNE | Schicksalsfrau der Edda
+WALKUERE | Kriegerin\nder Edda
+ODIN | Höchster\nGott im\nNorden
+THOR | Donnergott\ndes Nordens
+LOKI | Listiger\nGott der\nEdda
+ASEN | Göttersippe im Norden
+EDDA | Nordisches Sagenwerk
+RUNE | Altes Schriftzeichen
+DRUIDE | Keltischer\nPriester
+BARDE | Sänger der\nKelten
+MINNE | Höfische\nLiebe
+FEHDE | Streit im\nMittelalter
+VASALL | Lehnsmann
+LEHEN | Gut zur\nNutzung
+ZUNFT | Verband der\nHandwerker
+GILDE | Kaufmanns-\nbund
+HANSE | Alter Städtebund
+KONTOR | Handels-\nnieder-\nlassung
+DUKAT | Alte\nGoldmünze
+TALER | Alte\nSilber-\nmünze
+GULDEN | Alte\nMünze
+HELLER | Kleine\nalte\nMünze
+GROSCHEN | Kleines\nGeldstück
+SESTERZ | Münze der\nRömer
+DRACHME | Altes Geld in Athen
+RUPIE | Währung\nin Indien
+PESO | Währung\nin Mexiko
+REAL | Währung\nin Brasilien
+FORINT | Währung\nin Ungarn
+ZLOTY | Währung\nin Polen
+KUNA | Früheres\nGeld in\nKroatien
+KAFTAN | Langes\nGewand des\nOrients
+TURBAN | Kopf-\nbedeckung
+SARI | Gewand der\nInderin
+KIMONO | Japani-\nsches\nGewand
+PONCHO | Umhang\nSüda-\nmerikas
+TOGA | Gewand der\nRömer
+TUNIKA | Antikes\nUnterge-\nwand
+KUTTE | Gewand des\nMönchs
+TALAR | Amtstracht\nder Richter
+MANSCHETTE | Ärmel-\nabschluss
+REVERS | Aufschlag\nam Jackett
+SAUM | Rand des\nStoffes
+BORTE | Zierband\nam Stoff
+BROKAT | Schwerer\nSeiden-\nstoff
+DAMAST | Gemuster-\nter\nGewebe-\nstoff
+CHIFFON | Dünner\nSeiden-\nstoff
+LEINEN | Stoff aus\nFlachs
+JUTE | Faser für\nSäcke
+SISAL | Faser für\nSeile
+FILZ | Verdich-\ntete Wolle
+LODEN | Grober\nWollstoff
+TWEED | Rauer\nWollstoff
+CORD | Stoff mit\nRippen
+SAMT | Weicher\nStoff mit\nFlor
+GOBELIN | Gewirkter\nWand-\nteppich
+KARAFFE | Gefäß für\nWein
+POKAL | Trinkgefäß\nmit Fuß
+HUMPEN | Großes\nTrinkgefäß
+KRUG | Bauchiges\nTrinkgefäß
+KELCH | Gefäß des\nAltars
+AMPHORE | Antikes\nTongefäß
+URNE | Gefäß für\nAsche
+VITRINE | Schaukasten
+KOMMODE | Möbel mit\nSchubladen
+SEKRETAER | Schreib-\nmöbel
+TRUHE | Kasten mit\nDeckel
+KUTSCHE | Wagen mit\nPferden
+KAROSSE | Prunkwagen
+SCHLITTEN | Fahrzeug\nauf Kufen
+GONDEL | Boot in\nVenedig
+RIKSCHA | Zweirad-\nkarren in\nAsien
+KARAWANE | Zug durch\ndie Wüste
+OASE | Grüne\nStelle in\nder Wüste
+FATA | ... Morgana: Trugbild
+DUENE | Sandhügel
+GEYSIR | Heiße\nSpring-\nqülle
+FJORD | Meeres-\narm im\nNorden
+GLETSCHER | Ewiges Eis\nim Gebirge
+LAWINE | Schnee-\nsturz
+MURE | Schlamm-\nstrom im\nGebirge
+MONSUN | Regenzeit-\nwind
+PASSAT | Bestän-\ndiger\nSeewind
+FOEHN | Warmer\nFallwind
+ORKAN | Sturm der\nstärksten\nArt
+TAIFUN | Wirbel-\nsturm in\nAsien
+ZYKLON | Wirbel-\nsturm
+TORNADO | Wirbel-\nsturm in\nAmerika
+KORONA | Strahlen-\nkranz der\nSonne
+EKLIPSE | Verfins-\nterung
+ZENIT | Höchster\nStand
+NADIR | Fußpunkt\nam Himmel
+AEQUATOR | Gürtel-\nlinie der\nErde
+MERIDIAN | Längen-\nkreis
+POLARIS | Nordstern
+KOMET | Schweif-\nstern
+METEOR | Sternsch-\nnuppe
+QUASAR | Fernes\nleuchten-\ndes Objekt
+PULSAR | Rotierender\nStern-\nrest
+NOVA | Neuer heller Stern
+LAPPE | Volk im\nhohen\nNorden
+INUIT | Volk der\nArktis
+MAORI | Ureinwoh-\nner Neu-\nseelands
+AZTEKE | Altes Volk\nin Mexiko
+INKA | Altes Volk\nin Peru
+MAYA | Altes Volk\nin Yucatan
+TUAREG | Volk der\nSahara
+BEDUINE | Nomade der\nWüste
+NOMADE | Wandern-\nder Hirte
+SUEDSEE | Meer bei\nden Fidschi-\ninseln
+# --- Ergaenzung: mittleres Niveau, Alltag und Allgemeinwissen ---------------
+ZEREBRUM | Großhirn
+SCHLAEFE | Stelle neben dem Auge
+NETZHAUT | Innenschicht des Auges
+HORNHAUT | Vordere Schicht des Auges
+PUPILLE | Öffnung in der Iris
+IRIS | Regenbogenhaut
+TRAENE | Tropfen beim Weinen
+WIMPER | Haar am Lid
+SPEICHEL | Flüssigkeit im Mund
+GAUMEN | Dach der Mundhöhle
+KEHLE | Weg der Stimme
+LUFTROEHRE | Weg zur Lunge
+BRONCHIE | Ast der Luftröhre
+SEHNE | Band am Muskel
+KNORPEL | Weiches Stützgewebe
+WIRBEL | Baustein des Rückgrats
+BECKEN | Knochenring der Hüfte
+SCHIENBEIN | Knochen vorn am Bein
+WADE | Muskel hinten am Bein
+FERSE | Hinterer Teil des Fußes
+DAUMEN | Kürzester Finger
+ELLBOGEN | Gelenk am Arm
+NIERE | Bohnenförmiges Organ
+LEBER | Größte Drüse
+MILZ | Organ links im Bauch
+DRUESE | Absonderndes Organ
+HORMON | Botenstoff im Körper
+ENZYM | Beschleuniger im Körper
+ZELLKERN | Steuerzentrale der Zelle
+GEN | Erbanlage
+IMPFUNG | Schutz durch Spritze
+SERUM | Blutflüssigkeit ohne Zellen
+PULS | Schlag der Schlagader
+FIEBER | Erhöhte Körperwärme
+NARBE | Spur einer Wunde
+BLASE | Beule mit Flüssigkeit
+KRAMPF | Enge im Muskel
+SCHNUPFEN | Erkältung der Nase
+HUSTEN | Reiz in den Bronchien
+MIGRAENE | Anfallsweiser Kopfschmerz
+ALLERGIE | Überempfindlichkeit
+DIAGNOSE | Erkennen der Krankheit
+REZEPT | Zettel vom Arzt
+SALBE | Streichbares Heilmittel
+TROPFEN | Flüssige Arznei
+PFLASTER | Klebeverband
+BINDE | Streifen für die Wunde
+GIPS | Fester Verband
+BAHRE | Trage für Kranke
+KLINIK | Haus der Heilung
+LAZARETT | Feldkrankenhaus
+KUR | Heilaufenthalt
+MASSAGE | Knetende Behandlung
+DIAET | Bestimmte Kostform
+KALORIE | Maß der Nahrungsenergie
+VITAMIN | Wichtiger Nährstoff
+EIWEISS | Baustoff der Nahrung
+GLUKOSE | Traubenzucker
+LAKTOSE | Milchzucker
+HEFE | Pilz zum Backen
+SAUERTEIG | Ansatz für dunkles Brot
+KRUSTE | Harte Brotrinde
+KRUEMEL | Kleines Bröckchen
+BAGUETTE | Langes Weißbrot
+BREZEL | Laugengebäck
+STRUDEL | Gerollter Kuchen
+BAISER | Gebäck aus Eischnee
+MARZIPAN | Masse aus Mandeln
+NOUGAT | Süße Nussmasse
+KARAMELL | Gebrannter Zucker
+PRALINE | Kleine Schokolade
+KAKAO | Getränk aus Bohnen
+ESPRESSO | Starker kurzer Kaffee
+MOKKA | Feiner Kaffee
+LATTE | Kaffee mit viel Milch
+TEEBEUTEL | Portion zum Ziehen
+KAMILLE | Blume für den Tee
+PFEFFERMINZ | Frische Teesorte
+LIMONADE | Süßes Sprudelgetränk
+SIRUP | Dicker Fruchtsaft
+NEKTAR | Süßer Fruchtsaft
+MOST | Frisch gepresster Saft
+CIDRE | Wein aus Äpfeln
+RIESLING | Weiße Rebsorte
+MERLOT | Rote Rebsorte
+WINZER | Bauer im Weinberg
+KELTER | Presse für Trauben
+FASSBIER | Bier vom Zapfhahn
+MALZ | Gekeimtes Getreide
+HOPFEN | Bittere Bierpflanze
+BRAUEREI | Werkstatt des Bieres
+DESTILLE | Kleine Brennerei
+FLEISCHER | Handwerker mit Wurst
+BAECKER | Handwerker am Ofen
+KONDITOR | Fachmann für Torten
+KOCHLOEFFEL | Gerät zum Rühren
+SIEB | Gerät zum Abgießen
+QUIRL | Gerät zum Schlagen
+REIBE | Gerät zum Zerkleinern
+MOERSER | Schale zum Zerstoßen
+KELLE | Großer Schöpflöffel
+BRAETER | Topf für den Ofen
+WOK | Pfanne aus Asien
+KESSEL | Großer Topf
+DECKEL | Verschluss des Topfes
+SCHUERZE | Schutz beim Kochen
+TOPFLAPPEN | Schutz für die Hand
+BESEN | Gerät zum Kehren
+KEHRBLECH | Helfer beim Fegen
+EIMER | Gefäß mit Henkel
+WISCHMOPP | Gerät für den Boden
+STAUBTUCH | Helfer beim Putzen
+BUEGELEISEN | Gerät gegen Falten
+WAESCHELEINE | Seil zum Trocknen
+KLAMMER | Halter für Wäsche
+NAEHNADEL | Werkzeug mit Öhr
+FINGERHUT | Schutz beim Nähen
+GARN | Zwirn zum Nähen
+KNOPFLOCH | Schlitz im Hemd
+REISSVERSCHLUSS | Schließer mit Zähnen
+BUEGEL | Halter für Kleider
+TRUHE | Kasten zum Aufbewahren
+REGAL | Möbel mit Böden
+HOCKER | Sitz ohne Lehne
+LIEGE | Möbel zum Ruhen
+DAUNE | Weiche Feder
+MATRATZE | Auflage im Bett
+LAKEN | Tuch über der Matratze
+KISSEN | Stütze für den Kopf
+TEPPICH | Belag auf dem Boden
+GARDINE | Stoff am Fenster
+JALOUSIE | Schutz mit Lamellen
+KAMIN | Feuerstelle im Zimmer
+OFENROHR | Abzug am Ofen
+KACHEL | Platte an der Wand
+FLIESE | Belag im Bad
+ARMATUR | Hahn am Waschbecken
+DUSCHKOPF | Brause im Bad
+SPIEGEL | Glas zum Betrachten
+STECKDOSE | Anschluss an der Wand
+SICHERUNG | Schutz im Stromkasten
+GLUEHBIRNE | Alte Lichtquelle
+LAMPENSCHIRM | Hülle über der Birne
+KERZE | Wachslicht mit Docht
+STREICHHOLZ | Kleiner Zünder
+FEUERZEUG | Gerät mit Flamme
+ASCHENBECHER | Schale für Kippen
+SCHLUESSELBUND | Ring am Hausbesitzer
+TUERKLINKE | Griff zum Öffnen
+BRIEFKASTEN | Behälter für Post
+KLINGEL | Signal an der Tür
+TREPPENHAUS | Weg nach oben
+DACHBODEN | Raum unter dem Dach
+KELLER | Raum unter dem Haus
+GARAGE | Unterstand für das Auto
+CARPORT | Offener Autounterstand
+ZAUN | Grenze am Grundstück
+HECKE | Grüne Grenze
+RASEN | Kurzes Grün im Garten
+BEET | Fläche für Blumen
+GIESSKANNE | Gefäß mit Tülle
+SCHAUFEL | Gerät zum Graben
+HARKE | Gerät mit Zinken
+SCHUBKARRE | Wagen mit einem Rad
+KOMPOST | Haufen für Gartenabfall
+LAUBE | Häuschen im Garten
+GEWAECHSHAUS | Glashaus für Pflanzen
+VOGELHAUS | Futterplatz im Winter
+NISTKASTEN | Wohnung für Vögel
+SCHUPPEN | Kleines Nebengebäude
+LEITER | Hilfe nach oben
+HAMMER | Werkzeug für Nägel
+ZANGE | Werkzeug zum Greifen
+SCHRAUBER | Werkzeug mit Bit
+DUEBEL | Halt in der Wand
+WASSERWAAGE | Prüfgerät für Gerades
+ZOLLSTOCK | Faltbares Messgerät
+SCHRAUBSTOCK | Halter auf der Werkbank
+SAEGEBLATT | Zahnteil am Werkzeug
+BOHRER | Werkzeug für Löcher
+PINSEL | Gerät zum Streichen
+WALZE | Rolle zum Streichen
+LACK | Glänzender Anstrich
+TAPETE | Papier an der Wand
+KLEISTER | Kleber für Tapeten
+KITT | Masse zum Abdichten
+MOERTEL | Bindemittel am Bau
+ZEMENT | Pulver für Beton
+KIES | Grobe Steinchen
+SCHOTTER | Grober Steinbelag
+BAGGER | Maschine zum Graben
+KRAN | Maschine zum Heben
+GERUEST | Gestell am Rohbau
+POLIER | Vorarbeiter am Bau
+ARCHITEKT | Planer des Hauses
+GRUNDRISS | Plan von oben
+BAUPLAN | Zeichnung des Hauses
+RICHTFEST | Feier am Rohbau
+# --- Ergaenzung: Verkehr, Sport, Schule, Buero, Feste -----------------------
+LENKRAD | Steuer im Auto
+KUPPLUNG | Pedal beim Schalten
+BLINKER | Anzeiger der Richtung
+SCHEIBENWISCHER | Helfer bei Regen
+KOFFERRAUM | Stauraum im Auto
+AUSPUFF | Rohr für Abgase
+ZUENDKERZE | Funkengeber im Motor
+GETRIEBE | Teil mit den Gängen
+BREMSE | Halt für das Rad
+REIFEN | Gummi auf der Felge
+FELGE | Rad ohne Gummi
+TACHO | Anzeige des Tempos
+TANKSTELLE | Halt zum Auftanken
+STAU | Stockender Verkehr
+UMLEITUNG | Weg um die Baustelle
+KREISEL | Runde Kreuzung
+AMPEL | Signal an der Kreuzung
+ZEBRASTREIFEN | Weg für Fußgänger
+BORDSTEIN | Kante am Gehweg
+PARKUHR | Automat am Straßenrand
+FUEHRERSCHEIN | Erlaubnis zum Fahren
+NUMMERNSCHILD | Kennzeichen am Auto
+ANHAENGER | Wagen zum Ziehen
+LKW | Schwerer Lastwagen
+GEPAECKTRAEGER | Ablage am Fahrrad
+SPEICHE | Stab im Fahrrad
+KLINGEL | Signal am Rad
+SATTEL | Sitz auf dem Rad
+PEDAL | Tritt am Fahrrad
+HELM | Schutz für den Kopf
+SCHIENE | Weg der Bahn
+WEICHE | Verzweigung im Gleis
+BAHNSTEIG | Warteplatz am Gleis
+ABTEIL | Raum im Zugwagen
+SCHAFFNER | Prüfer im Zug
+FAHRKARTE | Papier für die Fahrt
+GLEIS | Weg der Züge
+LOKOMOTIVE | Zugmaschine der Bahn
+WAGGON | Wagen der Bahn
+TUNNEL | Weg durch den Berg
+VIADUKT | Brücke über ein Tal
+FAEHRE | Schiff für die Überfahrt
+ANLEGER | Platz zum Festmachen
+STEUERBORD | Rechte Schiffsseite
+BACKBORD | Linke Schiffsseite
+LEUCHTTURM | Licht für die Schiffe
+ROLLBAHN | Weg des Flugzeugs
+COCKPIT | Kanzel der Piloten
+TRAGFLAECHE | Flügel des Flugzeugs
+PROPELLER | Luftschraube
+FALLSCHIRM | Rettung aus der Luft
+BALLON | Fahrzeug mit Gas
+ZEPPELIN | Luftschiff mit Gerüst
+SEGELFLUG | Fliegen ohne Motor
+STAFFEL | Lauf mit Übergabe
+HUERDE | Hindernis beim Lauf
+SPRINT | Kurzer schneller Lauf
+MARATHON | Sehr langer Lauf
+DISKUS | Wurfscheibe
+SPEER | Wurfgerät der Leichtathletik
+KUGELSTOSSEN | Wurf in der Leichtathletik
+HOCHSPRUNG | Sprung über die Latte
+WEITSPRUNG | Sprung in die Sandgrube
+STABHOCHSPRUNG | Sprung mit Stange
+TURNRIEGE | Gruppe beim Turnen
+BARREN | Turngerät mit zwei Holmen
+RECK | Turngerät mit Stange
+RINGE | Turngerät zum Hängen
+MATTE | Unterlage beim Turnen
+TRIKOT | Hemd der Sportler
+SCHIEDSRICHTER | Leiter des Spiels
+ABSEITS | Regel im Fußball
+ELFMETER | Strafstoß im Fußball
+ECKBALL | Stoß von der Ecke
+TORWART | Hüter des Kastens
+ANSTOSS | Beginn des Spiels
+HALBZEIT | Pause im Spiel
+VERLAENGERUNG | Zusatzzeit im Spiel
+POKAL | Preis für den Sieger
+MEDAILLE | Auszeichnung am Band
+PODEST | Platz der Sieger
+TRAINER | Betreuer der Mannschaft
+KADER | Aufgebot der Sportler
+KABINE | Umkleide der Sportler
+SCHWIMMBAD | Haus mit Becken
+SPRUNGTURM | Anlage über dem Becken
+KRAULEN | Stil im Becken
+FLOSSE | Hilfe beim Tauchen
+SCHNORCHEL | Rohr zum Atmen
+TAUCHERBRILLE | Sicht unter Wasser
+SEGELREGATTA | Wettfahrt auf dem Wasser
+PADDEL | Ruder für das Kanu
+RUDERBOOT | Boot mit Riemen
+ANGELRUTE | Gerät des Petrijüngers
+KOEDER | Lockmittel am Haken
+SCHULRANZEN | Tasche des Erstklässlers
+FEDERMAPPE | Etui für Stifte
+RADIERGUMMI | Helfer gegen Fehler
+LINEAL | Gerät für gerade Striche
+ZIRKEL | Gerät für Kreise
+TAFEL | Fläche für Kreide
+SCHWAMM | Helfer an der Tafel
+HEFT | Gebundene Blätter
+ZEUGNIS | Papier mit Noten
+DIKTAT | Übung im Schreiben
+AUFSATZ | Geschriebener Text
+PAUSENHOF | Freifläche der Schule
+KLASSENFAHRT | Reise mit der Schule
+STUNDENPLAN | Übersicht der Fächer
+KOLLEG | Vorlesung an der Uni
+MENSA | Kantine der Studenten
+SEMINAR | Kurs an der Hochschule
+DIPLOM | Alter Studienabschluss
+STIPENDIUM | Geld für Studenten
+BIBLIOTHEK | Haus der Bücher
+LEXIKON | Werk zum Nachschlagen
+ATLAS | Buch mit Karten
+GLOBUS | Kugel mit Ländern
+KOMPENDIUM | Kurzes Handbuch
+ORDNER | Sammler für Papier
+LOCHER | Gerät für zwei Löcher
+TACKER | Gerät für Klammern
+KLEBEBAND | Rolle mit Haftschicht
+NOTIZBLOCK | Papier für Vermerke
+KUGELSCHREIBER | Stift mit Mine
+FUELLER | Stift mit Feder
+TINTE | Farbe im Füller
+STEMPELKISSEN | Unterlage mit Farbe
+BRIEFMARKE | Freimachung der Post
+UMSCHLAG | Hülle für den Brief
+POSTKARTE | Gruß ohne Umschlag
+PAKET | Größere Sendung
+QUITTUNG | Beleg über Zahlung
+KASSENBON | Zettel vom Einkauf
+RABATT | Nachlass beim Preis
+SKONTO | Abzug bei Barzahlung
+GUTSCHEIN | Papier zum Einlösen
+PFAND | Einsatz für die Flasche
+INVENTUR | Zählung im Lager
+SCHAUFENSTER | Auslage des Ladens
+THEKE | Tresen im Geschäft
+REGALREIHE | Gang im Supermarkt
+EINKAUFSWAGEN | Rollender Korb
+TRAGETASCHE | Beutel für Einkäufe
+ADVENT | Zeit vor dem Fest
+KRANZ | Grün mit vier Kerzen
+KRIPPE | Darstellung der Geburt
+CHRISTBAUM | Tanne im Wohnzimmer
+LAMETTA | Glänzender Baumschmuck
+KUGELSCHMUCK | Zierde am Baum
+STOLLEN | Gebäck zur Weihnacht
+LEBKUCHEN | Würziges Gebäck
+SILVESTER | Letzter Tag im Jahr
+RAKETE | Feuerwerk zum Neujahr
+KONFETTI | Bunte Papierschnipsel
+KOSTUEM | Verkleidung im Fasching
+NARRENKAPPE | Mütze im Karneval
+UMZUG | Zug durch die Stadt
+OSTEREI | Bemaltes Ei im Frühling
+OSTERHASE | Bringer der Eier
+PFINGSTEN | Fest nach Ostern
+ERNTEDANK | Fest im Herbst
+LATERNE | Licht am Martinstag
+NIKOLAUS | Gast am 6. Dezember
+GEBURTSTAG | Jährlicher Ehrentag
+TAUFE | Fest mit Wasser
+KONFIRMATION | Fest der Jugendlichen
+HOCHZEIT | Fest der Trauung
+JUBILAEUM | Runder Gedenktag

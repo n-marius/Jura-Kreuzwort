@@ -1,0 +1,156 @@
+# Antworten, deren Frage einen Zusatz in Klammern tragen MUSS.
+#
+#   WORT engl.   -> Frage muss "(engl.)" enthalten
+#   WORT Abk.    -> Frage muss "(Abk.)" enthalten
+#
+# Gemeint sind englische Woerter, die im Deutschen nicht fest eingebuergert
+# sind. STREIK, KEKS oder SPORT stehen hier nicht - MEALPREP, GLOWUP oder
+# LEAVEIN schon. Die Grenze ist Ermessenssache; im Zweifel kennzeichnen.
+# Abkuerzungen immer, auch gelaeufige.
+#
+# Plurale gehoeren nicht hierher, sondern nach formen.txt (Eintrag "WORT PL").
+# Die Kennzeichnung "(Pl.)" prueft render_book.py von dort aus.
+#
+# Geprueft wird beim Rendern und von fitcheck.py --eintragen.
+GLOWUP engl.
+LEAVEIN engl.
+MEALPREP engl.
+CLEANEATING engl.
+LOWCARB engl.
+HIGHPROTEIN engl.
+SELFCARE engl.
+MAKEOVER engl.
+BEAUTYTREND engl.
+HOTSTONE engl.
+DAYSPA engl.
+SMOKEYEYES engl.
+FRENCHNAILS engl.
+PADDLEBRUSH engl.
+COOKIE engl.
+STORY engl.
+CLIP engl.
+FLOW engl.
+HOOK engl.
+REMIX engl.
+SAMPLE engl.
+STREETFOOD engl.
+BACKPACKING engl.
+ROADTRIP engl.
+SIGHTSEEING engl.
+DUTYFREE engl.
+ALLINCLUSIVE engl.
+SOUNDTRACK engl.
+PLAYBACK engl.
+HALFTIMESHOW engl.
+LEFTSHARK engl.
+SOCIALMEDIA engl.
+TRENDSETTER engl.
+SUPERSTAR engl.
+BESTSELLER engl.
+HARDCOVER engl.
+EBOOK engl.
+PODCAST engl.
+JOURNALING engl.
+ACCOUNTABILITY engl.
+DIGITALDETOX engl.
+AGILITY engl.
+OBEDIENCE engl.
+FLYBALL engl.
+MANTRAILING engl.
+DOGDANCING engl.
+CLICKER engl.
+BARF engl.
+POPCORNING engl.
+GREYHOUND engl.
+NORDICWALKING engl.
+MOUNTAINBIKE engl.
+QUIDDITCH engl.
+ALERT engl.
+BMI Abk.
+STGB Abk.
+STPO Abk.
+EUGH Abk.
+PTB Abk.
+ISBN Abk.
+UBAHN Abk.
+SBAHN Abk.
+FIREWALL engl.
+SHIRT engl.
+TONIC engl.
+# Ukrainische Woerter, die im Deutschen nicht gelaeufig sind. Statt "(Ukr.)"
+# genuegt auch das Wort "ukrainisch" in der Frage.
+DERUNY Ukr.
+WARENYKY Ukr.
+HOLUBZI Ukr.
+SYRNYKY Ukr.
+NALYSNYKY Ukr.
+PALJANYZJA Ukr.
+BANOSCH Ukr.
+BRYNDSA Ukr.
+KUTJA Ukr.
+USWAR Ukr.
+PYSANKA Ukr.
+WYSCHYWANKA Ukr.
+RUSHNYK Ukr.
+KOBZAR Ukr.
+SOPILKA Ukr.
+TREMBITA Ukr.
+WERTEP Ukr.
+KOLOMYJKA Ukr.
+KOLJADKA Ukr.
+PETRYKIWKA Ukr.
+DJAKUJU Ukr.
+DOBRYDEN Ukr.
+PRYWIT Ukr.
+BUDMO Ukr.
+DIDUS Ukr.
+BABUSJA Ukr.
+CHATA Ukr.
+MISTO Ukr.
+WULYZJA Ukr.
+MARSCHRUTKA Ukr.
+SELO Ukr.
+TATO Ukr.
+
+# Jura-Kreuzwortbuch (facetten_JURA_KR.txt)
+PANEL engl.
+COMPLIANCE engl.
+DEAL engl.
+DEALER engl.
+HOLDING engl.
+HOMEOFFICE engl.
+HOOLIGAN engl.
+INCOTERMS engl.
+JOINT engl.
+MOBBING engl.
+PARTY engl.
+PHISHING engl.
+PROFILING engl.
+STABLECOIN engl.
+GREENWASHING engl.
+BLOCKCHAIN engl.
+FILESHARING engl.
+HACKING engl.
+BODYCAM engl.
+INSIDER engl.
+WHISTLEBLOWER engl.
+STALKING engl.
+PROFILER engl.
+KIDNAPPER engl.
+DUMPING engl.
+ANTIDUMPING engl.
+SPLITTING engl.
+FORUMSHOPPING engl.
+INHOUSEVERGABE engl.
+CARNET franz.
+CODE franz.
+COURTAGE franz.
+FONDS franz.
+ORDREPUBLIC franz.
+RENVOI franz.
+USANCE franz.
+GUILLOTINE franz.
+COUSIN franz.
+COUSINE franz.
+ACTECLAIR franz.
+PASSERELLE franz.

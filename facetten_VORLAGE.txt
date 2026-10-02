@@ -1,0 +1,43 @@
+# Facettendatei — Vorlage. Anleitung: README Abschnitt 2a.
+#
+# AUFBAU
+#   Zeile 1 Pflicht:   # THEMA <NAME> GEWICHT <zahl>
+#   danach zuerst die DIREKTLISTE: Woerter ohne Facettenzeile davor.
+#                      Sie bekommen automatisch Naehe 1.0 und stehen fuer das,
+#                      was einem zum Thema unmittelbar einfaellt.
+#   danach die Facetten:  [<Facettenname>] <naehe 0..1>
+#                      und darunter die Woerter, durch Leerzeichen oder
+#                      Zeilenumbruch getrennt.
+#   Umlaute als AE/OE/UE, Mindestlaenge 4.
+#
+# PFLICHTBESTANDTEILE (theme_facets.py meldet sie als MANGEL, wenn sie fehlen)
+#   * Direktliste vor der ersten Facette
+#   * eine Facette, deren Name mit "Kurz" beginnt: gezielte Suche nach
+#     Antworten mit VIER BIS SECHS Buchstaben. Nicht nebenbei mitschreiben,
+#     sondern eigens danach suchen.
+#   * Kurzwortanteil ueber die ganze Liste mindestens 25 %
+#
+# NAEHE gestaffelt vergeben, nicht durchgehend 1.0:
+#   1.0        Fachkern            -> KERN,    Frage muss thematisch sein
+#   0.6 - 0.7  Randbereich, Namen  -> UMFELD,  Frage thematisch erwuenscht
+#   0.35       Drumherum           -> KOLORIT, thematisch nur wenn ungezwungen
+#
+# UMFANG: so viel wie irgend moeglich, keine Obergrenze.
+#   Leitthema Gewicht >= 25 : mind. 14 Facetten, mind. 500 Woerter, besser 600-800
+#   mittleres Thema         : mind. 10 Facetten, mind. 300 Woerter
+#   Nischenthema            : mind.  8 Facetten, mind. 120 Woerter — aber auch
+#                             hier ausreizen, was das Thema hergibt. Das Gewicht
+#                             steuert die Haeufigkeit, nicht die Gruendlichkeit.
+#
+# Aufbau danach:  python3 theme_build.py facetten_<THEMA>.txt
+#
+# THEMA BEISPIEL GEWICHT 20
+# WORT WORT WORT WORT WORT
+# [Rollen und Personen] 1.0
+# WORT WORT WORT
+# [Gegenstaende und Requisiten] 0.7
+# WORT WORT WORT
+# [Kurzwoerter] 1.0
+# WORT WORT WORT
+# [Kolorit] 0.35
+# WORT WORT WORT
